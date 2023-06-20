@@ -9,6 +9,10 @@ intents:
   - mood_unhappy
   - bot_challenge
 
+  - thankful
+  - about_ukara
+  - contact_ukara
+  - location_ukara
 
   - depression
   - anxiety
@@ -243,7 +247,40 @@ responses:
 
 
 
+  utter_thankful:
+  - text: "You're welcome! I'm here to help anytime you need assistance."
+  - text: "You're welcome! It was my pleasure to assist you."
+  - text: "You're welcome! I'm glad I could be of help to you."
+  - text: "No problem! I'm always here to support you."
+  - text: "You're welcome! Remember, I'm here to answer any questions you have."
+  - text: "I'm happy I could assist you. Feel free to reach out whenever you need."
+  - text: "It's my pleasure to help. Let me know if there's anything else I can do for you."
+  - text: "You're welcome! I'm grateful for the opportunity to assist you."
+  - text: "I'm glad I could be of service. Thank you for reaching out."
+  - text: "You're welcome! I appreciate your kind words. Don't hesitate to ask if you need further assistance."
 
+  utter_about_ukara:
+  - text: "Ukara is a mental health organization founded in 2021 with the goal of tackling mental health challenges. We are dedicated to promoting mental well-being and providing support to individuals facing mental health issues. Our team of professionals is committed to delivering accessible and effective mental health care to improve lives."
+  - text: "Founded in 2021, Ukara is an organization focused on addressing mental health challenges. Our mission is to provide comprehensive support and care to individuals dealing with mental health issues. Through our services and resources, we aim to make a positive impact on people's lives and promote mental well-being."
+  - text: "Ukara, established in 2021, is a mental health organization with a mission to tackle mental health challenges. We believe in creating a supportive environment where individuals can access the care they need. Our goal is to empower people to overcome mental health obstacles and enhance their overall well-being."
+  - text: "Established in 2021, Ukara is a mental health organization committed to addressing the challenges associated with mental well-being. Our primary objective is to provide accessible and effective support for individuals navigating mental health issues. Through our initiatives, we aim to make a lasting impact on mental health awareness and care."
+  - text: "Ukara was founded in 2021 with the specific purpose of tackling mental health challenges. We are driven by the goal of providing comprehensive mental health support and resources to individuals in need. Our team is dedicated to raising awareness, reducing stigma, and improving access to quality mental health care."
+  - text: "At Ukara, we were founded in 2021 with a clear vision: to tackle mental health challenges. Our organization is committed to making a difference by offering support, resources, and compassionate care to individuals facing mental health issues. We strive to create a world where mental well-being is a priority for all."
+
+  utter_contact_ukara:
+  - text: "You can contact Ukara Mental Health Services at +256 750838851 or +256 770781763. For inquiries or assistance, you can also send an email to ukaramhs@gmail.com. Feel free to reach out to us through these channels, and we'll be glad to support you."
+  - text: "If you need to get in touch with Ukara Mental Health Services, you can reach us at +256 750838851 or +256 770781763. Alternatively, you can send an email to ukaramhs@gmail.com. We're here to provide you with the necessary information and support."
+  - text: "To contact Ukara Mental Health Services, please dial +256 750838851 or +256 770781763. If you prefer to communicate via email, you can reach us at ukaramhs@gmail.com. We're committed to assisting you with your mental health needs."
+  - text: "For any questions or inquiries, you can contact Ukara Mental Health Services at +256 750838851 or +256 770781763. If you prefer written communication, feel free to send an email to ukaramhs@gmail.com. We're available to assist you."
+  
+  utter_location_ukara:
+  - text: "Ukara is located in Sheema District, Western Uganda. We have a physical presence in this area, offering in-person mental health services to the community."
+  - text: "Ukara's physical location is in Sheema District, Western Uganda. If you're in the area and looking for mental health support, feel free to visit our center."
+  - text: "Ukara is based in Sheema District, Western Uganda, where we provide face-to-face mental health services. Our team is dedicated to helping individuals in this region."
+  - text: "While Ukara is primarily situated in Sheema District, Western Uganda, we also extend our services online, allowing individuals from anywhere to access our mental health support."
+  - text: "Sheema District, Western Uganda is where Ukara is located. We have established a presence in this region to serve the mental health needs of the local community."
+  - text: "Ukara's physical center can be found in Sheema District, Western Uganda. In addition, we have an online platform that allows us to reach and support individuals beyond this location."
+  - text: "Located in Sheema District, Western Uganda, Ukara offers both in-person and online mental health services. We strive to make our support accessible to individuals regardless of their location."
 
 
 

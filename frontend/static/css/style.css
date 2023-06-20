@@ -5,7 +5,7 @@ body {
 
 /* ============= css related to chats =============== */
 
-.widget {
+/* .widget {
 	display: none;
 	width: 350px;
 	right: 15px;
@@ -15,11 +15,25 @@ body {
 	background: #f7f7f7;
 	border-radius: 10px 10px 10px 10px;
 	box-shadow: 0px 2px 10px 1px #b5b5b5;
+} */
+
+.widget {
+	display: none;
+	width: 350px;
+	height: 500px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #f7f7f7;
+	border-radius: 10px;
+	box-shadow: 0px 2px 10px 1px #b5b5b5;
 }
+
 
 .chat_header {
 	height: 60px;
-	background: rgb(68, 61, 177);
+	background: rgb(8, 131, 104);
 	border-radius: 10px 10px 0px 0px;
 	padding: 5px;
 	font-size: 20px;
@@ -63,6 +77,8 @@ div.chats::-webkit-scrollbar {
 	margin-left: 5px;
 	/* border: 2px solid  #2c53af ; */
 }
+
+
 
 .botMsg {
 	float: left;
@@ -156,7 +172,7 @@ textarea-webkit-scrollbar {
 	padding: 5px;
 	font-size: 20px;
 	cursor: pointer;
-	color: #2b2bab;
+	color: #2b2babea;
 }
 
 .imgProfile {
@@ -167,15 +183,28 @@ textarea-webkit-scrollbar {
 	padding: 2%;
 }
 
+/* .profile_div {
+	display: none;
+	position: fixed;
+	padding: 5px;
+	width: 20%;
+	bottom: 0;
+	right: 0;
+	cursor: pointer;
+} */
+
 .profile_div {
 	/* display: none; */
 	position: fixed;
 	padding: 5px;
-	width: 10%;
-	bottom: 0;
-	right: 0;
+	width: 20%;
+	height: 40%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 	cursor: pointer;
 }
+
 
 
 /* css for dropdown menu of the bot */
@@ -785,3 +814,38 @@ video:focus {
 	outline: none;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/* DISCLAIMER */
+
+.disclaimer {
+	position: fixed;
+	bottom: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: #f7f7f7;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  .disclaimer i {
+	color: #f44336;
+	margin-right: 5px;
+  }
+  
+  /* Assuming you are using Font Awesome for the icon */
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+  

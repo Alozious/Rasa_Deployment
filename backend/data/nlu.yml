@@ -82,6 +82,21 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+  
+
+- intent: thankful
+  examples: |
+    - thankful
+    - Thank you so much!
+    - I appreciate your help.
+    - Thanks a lot!
+    - I'm grateful for your assistance.
+    - Thank you for your support.
+    - Many thanks for your kind gesture.
+    - I wanted to express my gratitude.
+    - I'm thankful for your time and effort.
+    - Thank you for going above and beyond.
+    - I wanted to say a big thank you!
 
 - intent: bot_challenge
   examples: |
@@ -89,6 +104,29 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - are you a robot?
+    - are you a chatbot
+
+- intent: about_ukara
+  examples: |
+    - who is Ukara
+    - what is the meaning of Ukara
+    - what does Ukara mean
+
+- intent: contact_ukara
+  examples: |
+    - what are the contacts of ukara
+    - what is the phone number of ukara
+    - what is the telephone number of ukara
+    - what is the email address of ukara
+    - how can i get ukara mental health services
+
+- intent: location_ukara
+  examples: | 
+    - where is ukara located?
+    - what is the location of ukara
+    - how can i find ukara
+    - in which are does ukara operate
 
 
 
@@ -707,6 +745,10 @@ nlu:
 
 - intent: suicidal_thoughts_prevention
   examples: |
+    - My friend wants to kill him self
+    - I want to kill myself
+    - Am tired of this world
+    - I want to die
     - What should I do if I'm having suicidal thoughts?
     - How can I prevent suicidal thoughts?
     - Are there any helplines for people with suicidal thoughts?

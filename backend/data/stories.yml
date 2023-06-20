@@ -30,36 +30,817 @@ stories:
   - action: utter_goodbye
 
 
+  - intent: thankful
+  - action: utter_thankful
+  - intent: about_ukara
+  - action: utter_about_ukara
+  - intent: contact_ukara
+  - action: utter_contact_ukara
+  - intent: location_ukara
+  - action: utter_location_ukara
+
+
+
+- story: ukaramhs 1
+  steps:
+  - intent:  depression
   - action: utter_depression
+- story: ukaramhs 2
+  steps:
+  - intent:  anxiety
   - action: utter_anxiety
+- story: ukaramhs 3
+  steps:
+  - intent:  stress_management
   - action: utter_stress_management
+- story: ukaramhs 4
+  steps:
+  - intent:  coping_strategies
   - action: utter_coping_strategies
+- story: ukaramhs 5
+  steps:
+  - intent:  self_care
   - action: utter_self_care
+- story: ukaramhs 6
+  steps:
+  - intent:  mindfulness
   - action: utter_mindfulness
+- story: ukaramhs 7
+  steps:
+  - intent:  panic_attacks
   - action: utter_panic_attacks
+- story: ukaramhs 8
+  steps:
+  - intent:  social_anxiety
   - action: utter_social_anxiety
+- story: ukaramhs 9
+  steps:
+  - intent:  phobias
   - action: utter_phobias
+- story: ukaramhs 10
+  steps:
+  - intent:  ocd
   - action: utter_ocd
+- story: ukaramhs 11
+  steps:
+  - intent:  post_traumatic_stress_disorder
   - action: utter_post_traumatic_stress_disorder
+- story: ukaramhs 12
+  steps:
+  - intent:  bipolar_disorder
   - action: utter_bipolar_disorder
+- story: ukaramhs 13
+  steps:
+  - intent:  eating_disorders
   - action: utter_eating_disorders
+- story: ukaramhs 14
+  steps:
+  - intent:  body_image
   - action: utter_body_image
+- story: ukaramhs 15
+  steps:
+  - intent:  self_esteem
   - action: utter_self_esteem
+- story: ukaramhs 16
+  steps:
+  - intent:  relationship_issues
   - action: utter_relationship_issues
+- story: ukaramhs 17
+  steps:
+  - intent:  grief_and_loss
   - action: utter_grief_and_loss
+- story: ukaramhs 18
+  steps:
+  - intent:  anger_management
   - action: utter_anger_management
+- story: ukaramhs 19
+  steps:
+  - intent:  loneliness
   - action: utter_loneliness
+- story: ukaramhs 20
+  steps:
+  - intent:  motivation_and_goal_setting
   - action: utter_motivation_and_goal_setting
+- story: ukaramhs 21
+  steps:
+  - intent:  work_related_stress
   - action: utter_work_related_stress
+- story: ukaramhs 22
+  steps:
+  - intent:  academic_pressure
   - action: utter_academic_pressure
+- story: ukaramhs 23
+  steps:
+  - intent:  sleep_problems
   - action: utter_sleep_problems
+- story: ukaramhs 24
+  steps:
+  - intent:  emotional_regulation
   - action: utter_emotional_regulation
+- story: ukaramhs 25
+  steps:
+  - intent:  self_compassion
   - action: utter_self_compassion
+- story: ukaramhs 26
+  steps:
+  - intent:  meditation_techniques
   - action: utter_meditation_techniques
+- story: ukaramhs 27
+  steps:
+  - intent:  breathing_exercises
   - action: utter_breathing_exercises
+- story: ukaramhs 28
+  steps:
+  - intent:  positive_psychology
   - action: utter_positive_psychology
+- story: ukaramhs 29
+  steps:
+  - intent:  gratitude_practices
   - action: utter_gratitude_practices
+- story: ukaramhs 30
+  steps:
+  - intent:  assertiveness_training
   - action: utter_assertiveness_training
+- story: ukaramhs 31
+  steps:
+  - intent:  coping_with_trauma
   - action: utter_coping_with_trauma
+- story: ukaramhs 32
+  steps:
+  - intent:  self_harm
   - action: utter_self_harm
+- story: ukaramhs 33
+  steps:
+  - intent:  substance_abuse
   - action: utter_substance_abuse
+- story: ukaramhs 34
+  steps:
+  - intent:  alcohol_addiction
+  - action: utter_alcohol_addiction
+- story: ukaramhs 35
+  steps:
+  - intent:  smoking_cessation
+  - action: utter_smoking_cessation
+- story: ukaramhs 36
+  steps:
+  - intent:  supportive_therapies
+  - action: utter_supportive_therapies
+- story: ukaramhs 37
+  steps:
+  - intent:  mental_health_stigma
+  - action: utter_mental_health_stigma
+- story: ukaramhs 38
+  steps:
+  - intent:  professional_help_seeking
+  - action: utter_professional_help_seeking
+- story: ukaramhs 39
+  steps:
+  - intent:  cultural_influences_on_mental_health
+  - action: utter_cultural_influences_on_mental_health
+- story: ukaramhs 40
+  steps:
+  - intent:  healthy_relationships
+  - action: utter_healthy_relationships
+- story: ukaramhs 41
+  steps:
+  - intent:  boundaries_and_assertiveness
+  - action: utter_boundaries_and_assertiveness
+- story: ukaramhs 42
+  steps:
+  - intent:  parenting_challenges
+  - action: utter_parenting_challenges
+- story: ukaramhs 43
+  steps:
+  - intent:  body_dysmorphia
+  - action: utter_body_dysmorphia
+- story: ukaramhs 44
+  steps:
+  - intent:  performance_anxiety
+  - action: utter_performance_anxiety
+- story: ukaramhs 45
+  steps:
+  - intent:  burnout_prevention
+  - action: utter_burnout_prevention
+- story: ukaramhs 46
+  steps:
+  - intent:  resilience_building
+  - action: utter_resilience_building
+- story: ukaramhs 47
+  steps:
+  - intent:  traumatic_experiences
+  - action: utter_traumatic_experiences
+- story: ukaramhs 48
+  steps:
+  - intent:  suicidal_thoughts_prevention
+  - action: utter_suicidal_thoughts_prevention
+- story: ukaramhs 49
+  steps:
+  - intent:  coping_chronic_illness
+  - action: utter_coping_chronic_illness
+- story: ukaramhs 50
+  steps:
+  - intent:  neurodiversity_mental_health
+  - action: utter_neurodiversity_mental_health
+- story: ukaramhs 51
+  steps:
+  - intent:  identity_self_discovery
+  - action: utter_identity_self_discovery
+- story: ukaramhs 52
+  steps:
+  - intent:  career_choices_satisfaction
+  - action: utter_career_choices_satisfaction
+- story: ukaramhs 53
+  steps:
+  - intent:  coping_with_change
+  - action: utter_coping_with_change
+- story: ukaramhs 54
+  steps:
+  - intent:  forgiveness_letting_go
+  - action: utter_forgiveness_letting_go
+- story: ukaramhs 55
+  steps:
+  - intent:  emotional_intelligence
+  - action: utter_emotional_intelligence
+- story: ukaramhs 56
+  steps:
+  - intent:  communication_skills
+  - action: utter_communication_skills
+- story: ukaramhs 57
+  steps:
+  - intent:  coping_with_rejection
+  - action: utter_coping_with_rejection
+- story: ukaramhs 58
+  steps:
+  - intent:  stress_workplace
+  - action: utter_stress_workplace
+- story: ukaramhs 59
+  steps:
+  - intent:  decision_making_problem_solving
+  - action: utter_decision_making_problem_solving
+- story: ukaramhs 60
+  steps:
+  - intent:  cognitive_distortions
+  - action: utter_cognitive_distortions
+- story: ukaramhs 61
+  steps:
+  - intent:  self_identity
+  - action: utter_self_identity
+- story: ukaramhs 62
+  steps:
+  - intent:  self_empowerment
+  - action: utter_self_empowerment
+- story: ukaramhs 63
+  steps:
+  - intent:  body_positivity
+  - action: utter_body_positivity
+- story: ukaramhs 64
+  steps:
+  - intent:  cultural_identity_mental_health
+  - action: utter_cultural_identity_mental_health
+- story: ukaramhs 65
+  steps:
+  - intent:  imposter_syndrome
+  - action: utter_imposter_syndrome
+- story: ukaramhs 66
+  steps:
+  - intent:  coping_uncertainty
+  - action: utter_coping_uncertainty
+- story: ukaramhs 67
+  steps:
+  - intent:  dealing_setbacks
+  - action: utter_dealing_setbacks
+- story: ukaramhs 68
+  steps:
+  - intent:  trauma_healing
+  - action: utter_trauma_healing
+- story: ukaramhs 69
+  steps:
+  - intent:  emotion_focused_therapy
+  - action: utter_emotion_focused_therapy
+- story: ukaramhs 70
+  steps:
+  - intent:  cognitive_behavioral_therapy
+  - action: utter_cognitive_behavioral_therapy
+- story: ukaramhs 71
+  steps:
+  - intent:  dbt
+  - action: utter_dbt
+- story: ukaramhs 72
+  steps:
+  - intent:  act
+  - action: utter_act
+- story: ukaramhs 73
+  steps:
+  - intent:  caregivers_support
+  - action: utter_caregivers_support
+- story: ukaramhs 74
+  steps:
+  - intent:  college_student_mental_health
+  - action: utter_college_student_mental_health
+- story: ukaramhs 75
+  steps:
+  - intent:  postpartum_depression
+  - action: utter_postpartum_depression
+- story: ukaramhs 76
+  steps:
+  - intent:  pregnancy_mental_health
+  - action: utter_pregnancy_mental_health
+- story: ukaramhs 77
+  steps:
+  - intent:  bfrbs
+  - action: utter_bfrbs
+- story: ukaramhs 78
+  steps:
+  - intent:  seasonal_ad
+  - action: utter_seasonal_ad
+- story: ukaramhs 79
+  steps:
+  - intent:  perfectionism
+  - action: utter_perfectionism
+- story: ukaramhs 80
+  steps:
+  - intent:  healthy_boundaries
+  - action: utter_healthy_boundaries
+- story: ukaramhs 81
+  steps:
+  - intent:  coping_rejection_breakups
+  - action: utter_coping_rejection_breakups
+- story: ukaramhs 82
+  steps:
+  - intent:  procrastination
+  - action: utter_procrastination
+- story: ukaramhs 83
+  steps:
+  - intent:  creative_self_expression
+  - action: utter_creative_self_expression
+- story: ukaramhs 84
+  steps:
+  - intent:  financial_stress_mental_health
+  - action: utter_financial_stress_mental_health
+- story: ukaramhs 85
+  steps:
+  - intent:  holistic_approaches_mental_health
+  - action: utter_holistic_approaches_mental_health
+- story: ukaramhs 86
+  steps:
+  - intent:  energy_management
+  - action: utter_energy_management
+- story: ukaramhs 87
+  steps:
+  - intent:  empathy_compassion
+  - action: utter_empathy_compassion
+- story: ukaramhs 88
+  steps:
+  - intent:  social_support_networks
+  - action: utter_social_support_networks
+- story: ukaramhs 89
+  steps:
+  - intent:  identity_crisis
+  - action: utter_identity_crisis
+- story: ukaramhs 90
+  steps:
+  - intent:  personality_disorders
+  - action: utter_personality_disorders
+- story: ukaramhs 91
+  steps:
+  - intent:  workplace_harassment
+  - action: utter_workplace_harassment
+- story: ukaramhs 92
+  steps:
+  - intent:  traumatic_brain_injury
+  - action: utter_traumatic_brain_injury
+- story: ukaramhs 93
+  steps:
+  - intent:  sexual_orientation_mental_health
+  - action: utter_sexual_orientation_mental_health
+- story: ukaramhs 94
+  steps:
+  - intent:  gender_identity_mental_health
+  - action: utter_gender_identity_mental_health
+- story: ukaramhs 95
+  steps:
+  - intent:  cultural_adjustment_mental_health
+  - action: utter_cultural_adjustment_mental_health
+- story: ukaramhs 96
+  steps:
+  - intent:  coping_with_disabilities
+  - action: utter_coping_with_disabilities
+- story: ukaramhs 97
+  steps:
+  - intent:  fear_of_public_speaking
+  - action: utter_fear_of_public_speaking
+- story: ukaramhs 98
+  steps:
+  - intent:  body_focused_repetitive_behaviors
+  - action: utter_body_focused_repetitive_behaviors
+- story: ukaramhs 99
+  steps:
+  - intent:  cognitive_decline_aging
+  - action: utter_cognitive_decline_aging
+- story: ukaramhs 100
+  steps:
+  - intent:  meditation_stress_relief
+  - action: utter_meditation_stress_relief
+- story: ukaramhs 101
+  steps:
+  - intent:  substance_abuse_recovery
+  - action: utter_substance_abuse_recovery
+- story: ukaramhs 102
+  steps:
+  - intent:  bfrb
+  - action: utter_bfrb
+- story: ukaramhs 103
+  steps:
+  - intent:  gaming_addiction
+  - action: utter_gaming_addiction
+- story: ukaramhs 104
+  steps:
+  - intent:  gambling_addiction
+  - action: utter_gambling_addiction
+- story: ukaramhs 105
+  steps:
+  - intent:  self_hypnosis
+  - action: utter_self_hypnosis
+- story: ukaramhs 106
+  steps:
+  - intent:  mindful_eating
+  - action: utter_mindful_eating
+- story: ukaramhs 107
+  steps:
+  - intent:  emotional_eating
+  - action: utter_emotional_eating
+- story: ukaramhs 108
+  steps:
+  - intent:  emotional_intelligence_relationships
+  - action: utter_emotional_intelligence_relationships
+- story: ukaramhs 109
+  steps:
+  - intent:  childhood_trauma_adult_mental_health
+  - action: utter_childhood_trauma_adult_mental_health
+- story: ukaramhs 110
+  steps:
+  - intent:  resilience_children
+  - action: utter_resilience_children
+- story: ukaramhs 111
+  steps:
+  - intent:  parenting_child_mental_health_challenges
+  - action: utter_parenting_child_mental_health_challenges
+- story: ukaramhs 112
+  steps:
+  - intent:  youth_mental_health_empowerment
+  - action: utter_youth_mental_health_empowerment
+- story: ukaramhs 113
+  steps:
+  - intent:  social_media_mental_health
+  - action: utter_social_media_mental_health
+- story: ukaramhs 114
+  steps:
+  - intent:  coping_natural_disasters
+  - action: utter_coping_natural_disasters
+- story: ukaramhs 115
+  steps:
+  - intent:  job_loss_unemployment_stress
+  - action: utter_job_loss_unemployment_stress
+- story: ukaramhs 116
+  steps:
+  - intent:  supporting_loved_one_mental_illness
+  - action: utter_supporting_loved_one_mental_illness
+- story: ukaramhs 117
+  steps:
+  - intent:  college_student_stressors_support
+  - action: utter_college_student_stressors_support
+- story: ukaramhs 118
+  steps:
+  - intent:  positive_affirmations
+  - action: utter_positive_affirmations
+- story: ukaramhs 119
+  steps:
+  - intent:  learning_disabilities_mental_health
+  - action: utter_learning_disabilities_mental_health
+- story: ukaramhs 120
+  steps:
+  - intent:  mind_body_connection
+  - action: utter_mind_body_connection
+- story: ukaramhs 121
+  steps:
+  - intent:  trauma_and_addiction_recovery
+  - action: utter_trauma_and_addiction_recovery
+- story: ukaramhs 122
+  steps:
+  - intent:  mindfulness_for_children
+  - action: utter_mindfulness_for_children
+- story: ukaramhs 123
+  steps:
+  - intent:  body_positivity_for_adolescents
+  - action: utter_body_positivity_for_adolescents
+- story: ukaramhs 124
+  steps:
+  - intent:  emotional_resilience_in_the_face_of_adversity
+  - action: utter_emotional_resilience_in_the_face_of_adversity
+- story: ukaramhs 125
+  steps:
+  - intent:  cultural_sensitivity_in_therapy
+  - action: utter_cultural_sensitivity_in_therapy
+- story: ukaramhs 126
+  steps:
+  - intent:  coping_with_chronic_pain
+  - action: utter_coping_with_chronic_pain
+- story: ukaramhs 127
+  steps:
+  - intent:  mindfulness_based_stress_reduction
+  - action: utter_mindfulness_based_stress_reduction
+- story: ukaramhs 128
+  steps:
+  - intent:  digital_detox_and_mental_health
+  - action: utter_digital_detox_and_mental_health
+- story: ukaramhs 129
+  steps:
+  - intent:  coping_with_terminal_illness
+  - action: utter_coping_with_terminal_illness
+- story: ukaramhs 130
+  steps:
+  - intent:  social_anxiety_in_social_settings
+  - action: utter_social_anxiety_in_social_settings
+- story: ukaramhs 131
+  steps:
+  - intent:  coping_with_nightmares
+  - action: utter_coping_with_nightmares
+- story: ukaramhs 132
+  steps:
+  - intent:  aging_and_mental_health
+  - action: utter_aging_and_mental_health
+- story: ukaramhs 133
+  steps:
+  - intent:  transitioning_to_retirement
+  - action: utter_transitioning_to_retirement
+- story: ukaramhs 134
+  steps:
+  - intent:  mental_health_in_lgbtq_community
+  - action: utter_mental_health_in_lgbtq_community
+- story: ukaramhs 135
+  steps:
+  - intent:  mindfulness_for_parents
+  - action: utter_mindfulness_for_parents
+- story: ukaramhs 136
+  steps:
+  - intent:  healthy_grieving_process
+  - action: utter_healthy_grieving_process
+- story: ukaramhs 137
+  steps:
+  - intent:  body_image_and_social_media
+  - action: utter_body_image_and_social_media
+- story: ukaramhs 138
+  steps:
+  - intent:  emotional_boundaries_in_relationships
+  - action: utter_emotional_boundaries_in_relationships
+- story: ukaramhs 139
+  steps:
+  - intent:  mindfulness_in_the_workplace
+  - action: utter_mindfulness_in_the_workplace
+- story: ukaramhs 140
+  steps:
+  - intent:  emotional_intelligence_for_leaders
+  - action: utter_emotional_intelligence_for_leaders
+- story: ukaramhs 141
+  steps:
+  - intent:  coping_with_long_distance_relationships
+  - action: utter_coping_with_long_distance_relationships
+- story: ukaramhs 142
+  steps:
+  - intent:  sleep_hygiene_mental_health
+  - action: utter_sleep_hygiene_mental_health
+- story: ukaramhs 143
+  steps:
+  - intent:  emotional_support_animals
+  - action: utter_emotional_support_animals
+- story: ukaramhs 144
+  steps:
+  - intent:  coping_with_fertility_issues
+  - action: utter_coping_with_fertility_issues
+- story: ukaramhs 145
+  steps:
+  - intent:  perinatal_mental_health
+  - action: utter_perinatal_mental_health
+- story: ukaramhs 146
+  steps:
+  - intent:  dealing_with_pet_loss
+  - action: utter_dealing_with_pet_loss
+- story: ukaramhs 147
+  steps:
+  - intent:  supporting_children_with_anxiety
+  - action: utter_supporting_children_with_anxiety
+- story: ukaramhs 148
+  steps:
+  - intent:  coping_with_chronic_stress
+  - action: utter_coping_with_chronic_stress
+- story: ukaramhs 149
+  steps:
+  - intent:  healthy_aging_mental_wellbeing
+  - action: utter_healthy_aging_mental_wellbeing
+- story: ukaramhs 150
+  steps:
+  - intent:  art_therapy_mental_health
+  - action: utter_art_therapy_mental_health
+- story: ukaramhs 151
+  steps:
+  - intent:  coping_with_sibling_rivalry
+  - action: utter_coping_with_sibling_rivalry
+- story: ukaramhs 152
+  steps:
+  - intent:  mindfulness_for_seniors
+  - action: utter_mindfulness_for_seniors
+- story: ukaramhs 153
+  steps:
+  - intent:  trauma_attachment_issues
+  - action: utter_trauma_attachment_issues
+- story: ukaramhs 154
+  steps:
+  - intent:  empty_nest_syndrome
+  - action: utter_empty_nest_syndrome
+- story: ukaramhs 155
+  steps:
+  - intent:  emotional_intelligence_parenting
+  - action: utter_emotional_intelligence_parenting
+- story: ukaramhs 156
+  steps:
+  - intent:  mindfulness_classroom
+  - action: utter_mindfulness_classroom
+- story: ukaramhs 157
+  steps:
+  - intent:  coping_premenstrual_syndrome
+  - action: utter_coping_premenstrual_syndrome
+- story: ukaramhs 158
+  steps:
+  - intent:  coping_narcissistic_partner
+  - action: utter_coping_narcissistic_partner
+- story: ukaramhs 159
+  steps:
+  - intent:  emotional_support_divorce
+  - action: utter_emotional_support_divorce
+- story: ukaramhs 160
+  steps:
+  - intent:  work_life_balance
+  - action: utter_work_life_balance
+- story: ukaramhs 161
+  steps:
+  - intent:  coping_with_chronic_fatigue_syndrome
+  - action: utter_coping_with_chronic_fatigue_syndrome
+- story: ukaramhs 162
+  steps:
+  - intent:  mindfulness_for_teenagers
+  - action: utter_mindfulness_for_teenagers
+- story: ukaramhs 163
+  steps:
+  - intent:  coping_with_demanding_boss
+  - action: utter_coping_with_demanding_boss
+- story: ukaramhs 164
+  steps:
+  - intent:  emotional_regulation_in_relationships
+  - action: utter_emotional_regulation_in_relationships
+- story: ukaramhs 165
+  steps:
+  - intent:  mindfulness_for_veterans
+  - action: utter_mindfulness_for_veterans
+- story: ukaramhs 166
+  steps:
+  - intent:  coping_with_cultural_discrimination
+  - action: utter_coping_with_cultural_discrimination
+- story: ukaramhs 167
+  steps:
+  - intent:  emotional_intelligence_for_students
+  - action: utter_emotional_intelligence_for_students
+- story: ukaramhs 168
+  steps:
+  - intent:  coping_with_disordered_eating
+  - action: utter_coping_with_disordered_eating
+- story: ukaramhs 169
+  steps:
+  - intent:  emotional_resilience_in_the_face_of_bullying
+  - action: utter_emotional_resilience_in_the_face_of_bullying
+- story: ukaramhs 170
+  steps:
+  - intent:  mindfulness_for_busy_professionals
+  - action: utter_mindfulness_for_busy_professionals
+- story: ukaramhs 171
+  steps:
+  - intent:  coping_with_chronic_migraines
+  - action: utter_coping_with_chronic_migraines
+- story: ukaramhs 172
+  steps:
+  - intent:  emotional_intelligence_in_customer_service
+  - action: utter_emotional_intelligence_in_customer_service
+- story: ukaramhs 173
+  steps:
+  - intent:  coping_with_a_critical_inner_voice
+  - action: utter_coping_with_a_critical_inner_voice
+- story: ukaramhs 174
+  steps:
+  - intent:  coping_with_a_difficult_diagnosis
+  - action: utter_coping_with_a_difficult_diagnosis
+- story: ukaramhs 175
+  steps:
+  - intent:  emotional_support_during_infertility
+  - action: utter_emotional_support_during_infertility
+- story: ukaramhs 176
+  steps:
+  - intent:  mindfulness_for_athletes
+  - action: utter_mindfulness_for_athletes
+- story: ukaramhs 177
+  steps:
+  - intent:  coping_with_impostor_syndrome_at_work
+  - action: utter_coping_with_impostor_syndrome_at_work
+- story: ukaramhs 178
+  steps:
+  - intent:  emotional_intelligence_for_educators
+  - action: utter_emotional_intelligence_for_educators
+- story: ukaramhs 179
+  steps:
+  - intent:  coping_with_seasonal_transitions
+  - action: utter_coping_with_seasonal_transitions
+- story: ukaramhs 180
+  steps:
+  - intent:  coping_with_a_high_pressure_work_environment
+  - action: utter_coping_with_a_high_pressure_work_environment
+- story: ukaramhs 181
+  steps:
+  - intent:  mindfulness_parents_special_needs
+  - action: utter_mindfulness_parents_special_needs
+- story: ukaramhs 182
+  steps:
+  - intent:  emotional_resilience_cyberbullying
+  - action: utter_emotional_resilience_cyberbullying
+- story: ukaramhs 183
+  steps:
+  - intent:  coping_toxic_friendship
+  - action: utter_coping_toxic_friendship
+- story: ukaramhs 184
+  steps:
+  - intent:  emotional_intelligence_conflict_resolution
+  - action: utter_emotional_intelligence_conflict_resolution
+- story: ukaramhs 185
+  steps:
+  - intent:  coping_chronic_illness_diagnosis
+  - action: utter_coping_chronic_illness_diagnosis
+- story: ukaramhs 186
+  steps:
+  - intent:  mindfulness_first_responders
+  - action: utter_mindfulness_first_responders
+- story: ukaramhs 187
+  steps:
+  - intent:  coping_social_isolation
+  - action: utter_coping_social_isolation
+- story: ukaramhs 188
+  steps:
+  - intent:  emotional_support_relocation
+  - action: utter_emotional_support_relocation
+- story: ukaramhs 189
+  steps:
+  - intent:  coping_workplace_bullying
+  - action: utter_coping_workplace_bullying
+- story: ukaramhs 190
+  steps:
+  - intent:  emotional_resilience_rejection
+  - action: utter_emotional_resilience_rejection
+- story: ukaramhs 191
+  steps:
+  - intent:  coping_survivors_guilt
+  - action: utter_coping_survivors_guilt
+- story: ukaramhs 192
+  steps:
+  - intent:  mindfulness_caregivers
+  - action: utter_mindfulness_caregivers
+- story: ukaramhs 193
+  steps:
+  - intent:  coping_demanding_workload
+  - action: utter_coping_demanding_workload
+- story: ukaramhs 194
+  steps:
+  - intent:  emotional_intelligence_healthcare_professionals
+  - action: utter_emotional_intelligence_healthcare_professionals
+- story: ukaramhs 195
+  steps:
+  - intent:  coping_body_changes_pregnancy
+  - action: utter_coping_body_changes_pregnancy
+- story: ukaramhs 196
+  steps:
+  - intent:  coping_judgmental_family_members
+  - action: utter_coping_judgmental_family_members
+- story: ukaramhs 197
+  steps:
+  - intent:  emotional_support_career_transitions
+  - action: utter_emotional_support_career_transitions
+- story: ukaramhs 198
+  steps:
+  - intent:  coping_emotional_triggers
+  - action: utter_coping_emotional_triggers
+- story: ukaramhs 199
+  steps:
+  - intent:  emotional_resilience_financial_challenges
+  - action: utter_emotional_resilience_financial_challenges
+- story: ukaramhs 200
+  steps:
+  - intent:  coping_anticipatory_grief
+  - action: utter_coping_anticipatory_grief
+
+
+
