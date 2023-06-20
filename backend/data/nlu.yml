@@ -1278,239 +1278,239 @@ nlu:
     - What are the psychological effects of workplace harassment?
     - How can I confront my supervisor about workplace harassment?
 
-# - intent: traumatic_brain_injury
-#   examples: |
-#     - What are the common symptoms of a traumatic brain injury?
-#     - How long does it take to recover from a traumatic brain injury?
-#     - Can a traumatic brain injury cause mental health problems?
-#     - What are the treatment options for a traumatic brain injury?
-#     - I had a head injury and now I'm experiencing memory problems. Could it be a TBI?
-#     - What are the long-term effects of a traumatic brain injury?
-#     - How can I support someone with a traumatic brain injury?
-#     - Are there any resources available for individuals with traumatic brain injuries?
-#     - Can a traumatic brain injury affect my emotional well-being?
-#     - Is it possible to prevent traumatic brain injuries?
+- intent: traumatic_brain_injury
+  examples: |
+    - What are the common symptoms of a traumatic brain injury?
+    - How long does it take to recover from a traumatic brain injury?
+    - Can a traumatic brain injury cause mental health problems?
+    - What are the treatment options for a traumatic brain injury?
+    - I had a head injury and now I'm experiencing memory problems. Could it be a TBI?
+    - What are the long-term effects of a traumatic brain injury?
+    - How can I support someone with a traumatic brain injury?
+    - Are there any resources available for individuals with traumatic brain injuries?
+    - Can a traumatic brain injury affect my emotional well-being?
+    - Is it possible to prevent traumatic brain injuries?
 
-# - intent: sexual_orientation_mental_health
-#   examples: |
-#     - How does sexual orientation impact mental health?
-#     - I'm struggling with my sexual orientation. Can it contribute to mental health issues?
-#     - Are there specific mental health challenges faced by LGBTQ+ individuals?
-#     - What resources are available for LGBTQ+ individuals regarding mental health support?
-#     - How can I find a therapist who is knowledgeable about LGBTQ+ issues?
-#     - What are some coping strategies for LGBTQ+ individuals dealing with mental health concerns?
-#     - Does coming out affect mental health?
-#     - Can societal discrimination impact the mental health of LGBTQ+ individuals?
-#     - What are the common mental health disparities among different sexual orientations?
-#     - How can I support a friend or family member who is struggling with their sexual orientation and mental health?
+- intent: sexual_orientation_mental_health
+  examples: |
+    - How does sexual orientation impact mental health?
+    - I'm struggling with my sexual orientation. Can it contribute to mental health issues?
+    - Are there specific mental health challenges faced by LGBTQ+ individuals?
+    - What resources are available for LGBTQ+ individuals regarding mental health support?
+    - How can I find a therapist who is knowledgeable about LGBTQ+ issues?
+    - What are some coping strategies for LGBTQ+ individuals dealing with mental health concerns?
+    - Does coming out affect mental health?
+    - Can societal discrimination impact the mental health of LGBTQ+ individuals?
+    - What are the common mental health disparities among different sexual orientations?
+    - How can I support a friend or family member who is struggling with their sexual orientation and mental health?
 
-# - intent: gender_identity_mental_health
-#   examples: |
-#     - How does gender identity relate to mental health?
-#     - I'm questioning my gender identity. Can it affect my mental well-being?
-#     - What are some mental health challenges faced by transgender individuals?
-#     - Are there specific resources available for transgender individuals seeking mental health support?
-#     - How can I find a therapist who specializes in gender identity issues?
-#     - What are some coping strategies for transgender individuals dealing with mental health concerns?
-#     - Does transitioning impact mental health?
-#     - Can societal prejudice and discrimination affect the mental health of transgender individuals?
-#     - What are the common mental health disparities among different gender identities?
-#     - How can I support a transgender friend or family member who is struggling with their mental health?
+- intent: gender_identity_mental_health
+  examples: |
+    - How does gender identity relate to mental health?
+    - I'm questioning my gender identity. Can it affect my mental well-being?
+    - What are some mental health challenges faced by transgender individuals?
+    - Are there specific resources available for transgender individuals seeking mental health support?
+    - How can I find a therapist who specializes in gender identity issues?
+    - What are some coping strategies for transgender individuals dealing with mental health concerns?
+    - Does transitioning impact mental health?
+    - Can societal prejudice and discrimination affect the mental health of transgender individuals?
+    - What are the common mental health disparities among different gender identities?
+    - How can I support a transgender friend or family member who is struggling with their mental health?
 
-# - intent: cultural_adjustment_mental_health
-#   examples: |
-#     - How can cultural adjustment impact mental health?
-#     - I recently moved to a new country and I'm feeling overwhelmed. Is it normal?
-#     - What are some common mental health challenges faced by immigrants or expatriates?
-#     - Are there specific resources available for individuals going through cultural adjustment?
-#     - How can I find a therapist who understands the challenges of cultural adjustment?
-#     - What are some coping strategies for dealing with cultural adjustment and mental health issues?
-#     - Can language barriers affect mental health during the adjustment period?
-#     - How can I manage homesickness and feelings of isolation in a new cultural environment?
-#     - What are the signs that cultural adjustment is negatively impacting my mental well-being?
-#     - How can I support a friend or family member who is struggling with cultural adjustment and mental health?
+- intent: cultural_adjustment_mental_health
+  examples: |
+    - How can cultural adjustment impact mental health?
+    - I recently moved to a new country and I'm feeling overwhelmed. Is it normal?
+    - What are some common mental health challenges faced by immigrants or expatriates?
+    - Are there specific resources available for individuals going through cultural adjustment?
+    - How can I find a therapist who understands the challenges of cultural adjustment?
+    - What are some coping strategies for dealing with cultural adjustment and mental health issues?
+    - Can language barriers affect mental health during the adjustment period?
+    - How can I manage homesickness and feelings of isolation in a new cultural environment?
+    - What are the signs that cultural adjustment is negatively impacting my mental well-being?
+    - How can I support a friend or family member who is struggling with cultural adjustment and mental health?
 
-# - intent: coping_with_disabilities
-#   examples: |
-#     - How can I cope with the challenges of living with a disability?
-#     - I recently became disabled and I'm struggling emotionally. Any advice?
-#     - What are some common mental health issues faced by individuals with disabilities?
-#     - Are there specific resources available for people with disabilities seeking mental health support?
-#     - How can I find a therapist who specializes in disability-related mental health concerns?
-#     - What are some coping strategies for managing the psychological impact of a disability?
-#     - Can a disability lead to depression or anxiety?
-#     - How can I maintain a positive mindset despite my disability?
-#     - What are the societal factors that contribute to mental health disparities for people with disabilities?
-#     - How can I support a friend or family member who is struggling with their mental health after acquiring a disability?
+- intent: coping_with_disabilities
+  examples: |
+    - How can I cope with the challenges of living with a disability?
+    - I recently became disabled and I'm struggling emotionally. Any advice?
+    - What are some common mental health issues faced by individuals with disabilities?
+    - Are there specific resources available for people with disabilities seeking mental health support?
+    - How can I find a therapist who specializes in disability-related mental health concerns?
+    - What are some coping strategies for managing the psychological impact of a disability?
+    - Can a disability lead to depression or anxiety?
+    - How can I maintain a positive mindset despite my disability?
+    - What are the societal factors that contribute to mental health disparities for people with disabilities?
+    - How can I support a friend or family member who is struggling with their mental health after acquiring a disability?
 
-# - intent: fear_of_public_speaking
-#   examples: |
-#     - How can I overcome my fear of public speaking?
-#     - I get extremely anxious when speaking in front of a large audience. Any tips?
-#     - What are some strategies to manage anxiety related to public speaking?
-#     - Are there specific techniques or exercises to reduce fear of public speaking?
-#     - How can I build confidence in my public speaking abilities?
-#     - What are the common physical symptoms of public speaking anxiety?
-#     - Can fear of public speaking be a sign of a larger mental health issue?
-#     - How can I prepare myself mentally and emotionally for public speaking engagements?
-#     - What are some self-help resources for individuals struggling with fear of public speaking?
-#     - How can I support a friend or coworker who experiences extreme anxiety related to public speaking?
+- intent: fear_of_public_speaking
+  examples: |
+    - How can I overcome my fear of public speaking?
+    - I get extremely anxious when speaking in front of a large audience. Any tips?
+    - What are some strategies to manage anxiety related to public speaking?
+    - Are there specific techniques or exercises to reduce fear of public speaking?
+    - How can I build confidence in my public speaking abilities?
+    - What are the common physical symptoms of public speaking anxiety?
+    - Can fear of public speaking be a sign of a larger mental health issue?
+    - How can I prepare myself mentally and emotionally for public speaking engagements?
+    - What are some self-help resources for individuals struggling with fear of public speaking?
+    - How can I support a friend or coworker who experiences extreme anxiety related to public speaking?
 
-# - intent: body_focused_repetitive_behaviors
-#   examples: |
-#     - What are body-focused repetitive behaviors (BFRBs)?
-#     - I have a habit of pulling out my hair. Is it considered a BFRB?
-#     - How can I stop engaging in body-focused repetitive behaviors?
-#     - Are there specific treatment options available for BFRBs?
-#     - What are some coping strategies for managing body-focused repetitive behaviors?
-#     - Can BFRBs be a symptom of an underlying mental health condition?
-#     - How can I recognize the triggers for my body-focused repetitive behaviors?
-#     - Are there any support groups or communities for individuals with BFRBs?
-#     - What are the potential consequences of untreated BFRBs?
-#     - How can I support a friend or family member who is struggling with body-focused repetitive behaviors?
+- intent: body_focused_repetitive_behaviors
+  examples: |
+    - What are body-focused repetitive behaviors (BFRBs)?
+    - I have a habit of pulling out my hair. Is it considered a BFRB?
+    - How can I stop engaging in body-focused repetitive behaviors?
+    - Are there specific treatment options available for BFRBs?
+    - What are some coping strategies for managing body-focused repetitive behaviors?
+    - Can BFRBs be a symptom of an underlying mental health condition?
+    - How can I recognize the triggers for my body-focused repetitive behaviors?
+    - Are there any support groups or communities for individuals with BFRBs?
+    - What are the potential consequences of untreated BFRBs?
+    - How can I support a friend or family member who is struggling with body-focused repetitive behaviors?
 
-# - intent: cognitive_decline_aging
-#   examples: |
-#     - What are the cognitive changes associated with aging?
-#     - I'm concerned about cognitive decline as I get older. What should I watch out for?
-#     - Are there specific mental health challenges faced by older adults?
-#     - How can I maintain cognitive function and mental well-being as I age?
-#     - What are some strategies to promote brain health and prevent cognitive decline?
-#     - Can cognitive decline be a sign of a larger mental health issue in older adults?
-#     - How can I support a family member who is experiencing cognitive decline?
-#     - What are the available resources for older adults dealing with cognitive decline and mental health issues?
-#     - How can I differentiate between normal age-related cognitive changes and more serious cognitive decline?
-#     - What are the potential benefits of engaging in mentally stimulating activities for older adults?
+- intent: cognitive_decline_aging
+  examples: |
+    - What are the cognitive changes associated with aging?
+    - I'm concerned about cognitive decline as I get older. What should I watch out for?
+    - Are there specific mental health challenges faced by older adults?
+    - How can I maintain cognitive function and mental well-being as I age?
+    - What are some strategies to promote brain health and prevent cognitive decline?
+    - Can cognitive decline be a sign of a larger mental health issue in older adults?
+    - How can I support a family member who is experiencing cognitive decline?
+    - What are the available resources for older adults dealing with cognitive decline and mental health issues?
+    - How can I differentiate between normal age-related cognitive changes and more serious cognitive decline?
+    - What are the potential benefits of engaging in mentally stimulating activities for older adults?
 
-# - intent: meditation_stress_relief
-#   examples: |
-#     - How can meditation help with stress relief?
-#     - I'm feeling overwhelmed. Can meditation be beneficial for managing stress?
-#     - What are some meditation techniques that can promote relaxation and reduce stress?
-#     - Are there specific guided meditation resources for stress relief?
-#     - How often should I meditate to experience the benefits for stress reduction?
-#     - Can meditation be a part of a comprehensive approach to mental health and well-being?
-#     - How can I incorporate meditation into my daily routine for stress management?
-#     - What are the scientific studies supporting the effectiveness of meditation for stress relief?
-#     - Are there any potential contraindications or risks associated with meditation?
-#     - How can I support a friend or family member in establishing a meditation practice for stress relief?
+- intent: meditation_stress_relief
+  examples: |
+    - How can meditation help with stress relief?
+    - I'm feeling overwhelmed. Can meditation be beneficial for managing stress?
+    - What are some meditation techniques that can promote relaxation and reduce stress?
+    - Are there specific guided meditation resources for stress relief?
+    - How often should I meditate to experience the benefits for stress reduction?
+    - Can meditation be a part of a comprehensive approach to mental health and well-being?
+    - How can I incorporate meditation into my daily routine for stress management?
+    - What are the scientific studies supporting the effectiveness of meditation for stress relief?
+    - Are there any potential contraindications or risks associated with meditation?
+    - How can I support a friend or family member in establishing a meditation practice for stress relief?
 
-# - intent: substance_abuse_recovery
-#   examples: |
-#     - How can I overcome substance addiction?
-#     - What are some effective strategies for recovering from substance abuse?
-#     - Are there any support groups or programs available for substance abuse recovery?
-#     - Can you recommend any books or resources for substance abuse recovery?
-#     - How long does the recovery process usually take for substance addiction?
-#     - What are the signs that someone is on the path to recovery from substance abuse?
-#     - Is it possible to recover from substance abuse without professional help?
-#     - What are some common challenges faced during substance abuse recovery?
-#     - How can I stay motivated and committed to my substance abuse recovery journey?
-#     - Are there any alternative therapies or treatments for substance abuse recovery?
+- intent: substance_abuse_recovery
+  examples: |
+    - How can I overcome substance addiction?
+    - What are some effective strategies for recovering from substance abuse?
+    - Are there any support groups or programs available for substance abuse recovery?
+    - Can you recommend any books or resources for substance abuse recovery?
+    - How long does the recovery process usually take for substance addiction?
+    - What are the signs that someone is on the path to recovery from substance abuse?
+    - Is it possible to recover from substance abuse without professional help?
+    - What are some common challenges faced during substance abuse recovery?
+    - How can I stay motivated and committed to my substance abuse recovery journey?
+    - Are there any alternative therapies or treatments for substance abuse recovery?
 
-# - intent: bfrb
-#   examples: |
-#     - What are body-focused repetitive behaviors (BFRBs)?
-#     - How can I stop myself from engaging in BFRBs?
-#     - Are there any specific triggers for BFRBs?
-#     - What are some effective strategies for managing BFRBs?
-#     - Is there a cure for BFRBs?
-#     - How do BFRBs affect a person's mental health?
-#     - What are some common BFRBs and their associated symptoms?
-#     - Can BFRBs be treated with medication?
-#     - Are there any support groups or communities for people with BFRBs?
-#     - How can I explain BFRBs to others and ask for their support?
+- intent: bfrb
+  examples: |
+    - What are body-focused repetitive behaviors (BFRBs)?
+    - How can I stop myself from engaging in BFRBs?
+    - Are there any specific triggers for BFRBs?
+    - What are some effective strategies for managing BFRBs?
+    - Is there a cure for BFRBs?
+    - How do BFRBs affect a person's mental health?
+    - What are some common BFRBs and their associated symptoms?
+    - Can BFRBs be treated with medication?
+    - Are there any support groups or communities for people with BFRBs?
+    - How can I explain BFRBs to others and ask for their support?
 
-# - intent: gaming_addiction
-#   examples: |
-#     - How do I know if I have a gaming addiction?
-#     - What are the negative effects of excessive gaming?
-#     - Are there any treatment options for gaming addiction?
-#     - How can I manage my gaming habits and avoid addiction?
-#     - What are some signs that someone I know may be addicted to gaming?
-#     - Can gaming addiction lead to other mental health issues?
-#     - Are there any support groups or online communities for gaming addiction recovery?
-#     - How can I help a friend or family member who is struggling with gaming addiction?
-#     - Is it possible to balance gaming as a hobby without developing an addiction?
-#     - What are some healthy alternatives to excessive gaming?
+- intent: gaming_addiction
+  examples: |
+    - How do I know if I have a gaming addiction?
+    - What are the negative effects of excessive gaming?
+    - Are there any treatment options for gaming addiction?
+    - How can I manage my gaming habits and avoid addiction?
+    - What are some signs that someone I know may be addicted to gaming?
+    - Can gaming addiction lead to other mental health issues?
+    - Are there any support groups or online communities for gaming addiction recovery?
+    - How can I help a friend or family member who is struggling with gaming addiction?
+    - Is it possible to balance gaming as a hobby without developing an addiction?
+    - What are some healthy alternatives to excessive gaming?
 
-# - intent: gambling_addiction
-#   examples: |
-#     - How can I overcome a gambling addiction?
-#     - What are the warning signs of a gambling addiction?
-#     - Are there any support groups or programs for gambling addiction recovery?
-#     - How can I regain control over my gambling habits?
-#     - What are some strategies for avoiding relapse in gambling addiction recovery?
-#     - Is professional counseling helpful for gambling addiction?
-#     - What are the financial consequences of gambling addiction?
-#     - How does gambling addiction impact relationships?
-#     - Can medication be used to treat gambling addiction?
-#     - Are there any helplines or hotlines available for gambling addiction?
+- intent: gambling_addiction
+  examples: |
+    - How can I overcome a gambling addiction?
+    - What are the warning signs of a gambling addiction?
+    - Are there any support groups or programs for gambling addiction recovery?
+    - How can I regain control over my gambling habits?
+    - What are some strategies for avoiding relapse in gambling addiction recovery?
+    - Is professional counseling helpful for gambling addiction?
+    - What are the financial consequences of gambling addiction?
+    - How does gambling addiction impact relationships?
+    - Can medication be used to treat gambling addiction?
+    - Are there any helplines or hotlines available for gambling addiction?
 
-# - intent: self_hypnosis
-#   examples: |
-#     - What is self-hypnosis and how does it work?
-#     - Can self-hypnosis be effective for managing stress and anxiety?
-#     - How can I learn self-hypnosis techniques?
-#     - What are some common misconceptions about self-hypnosis?
-#     - Can self-hypnosis help with improving self-esteem?
-#     - Are there any risks or side effects associated with self-hypnosis?
-#     - How often should I practice self-hypnosis for optimal results?
-#     - Can self-hypnosis be used to overcome phobias or fears?
-#     - Is it possible to achieve deep relaxation through self-hypnosis?
-#     - What are some resources or books on self-hypnosis that you recommend?
+- intent: self_hypnosis
+  examples: |
+    - What is self-hypnosis and how does it work?
+    - Can self-hypnosis be effective for managing stress and anxiety?
+    - How can I learn self-hypnosis techniques?
+    - What are some common misconceptions about self-hypnosis?
+    - Can self-hypnosis help with improving self-esteem?
+    - Are there any risks or side effects associated with self-hypnosis?
+    - How often should I practice self-hypnosis for optimal results?
+    - Can self-hypnosis be used to overcome phobias or fears?
+    - Is it possible to achieve deep relaxation through self-hypnosis?
+    - What are some resources or books on self-hypnosis that you recommend?
 
-# - intent: mindful_eating
-#   examples: |
-#     - What is mindful eating and how can it benefit my mental health?
-#     - How can I develop a mindful eating practice?
-#     - Can mindful eating help with weight management?
-#     - What are some strategies for overcoming emotional eating through mindful eating?
-#     - How can I cultivate a healthy relationship with food through mindful eating?
-#     - Are there any mindful eating exercises or techniques I can try?
-#     - Does mindful eating involve any specific dietary restrictions or guidelines?
-#     - Can mindful eating be used to address binge eating disorder?
-#     - What are some common challenges faced when adopting mindful eating?
-#     - Are there any apps or tools that can assist with mindful eating?
+- intent: mindful_eating
+  examples: |
+    - What is mindful eating and how can it benefit my mental health?
+    - How can I develop a mindful eating practice?
+    - Can mindful eating help with weight management?
+    - What are some strategies for overcoming emotional eating through mindful eating?
+    - How can I cultivate a healthy relationship with food through mindful eating?
+    - Are there any mindful eating exercises or techniques I can try?
+    - Does mindful eating involve any specific dietary restrictions or guidelines?
+    - Can mindful eating be used to address binge eating disorder?
+    - What are some common challenges faced when adopting mindful eating?
+    - Are there any apps or tools that can assist with mindful eating?
 
-# - intent: emotional_eating
-#   examples: |
-#     - What is emotional eating and why does it happen?
-#     - How can I identify and manage emotional eating triggers?
-#     - Are there any strategies for breaking the cycle of emotional eating?
-#     - Can emotional eating be a symptom of an underlying mental health condition?
-#     - What are some healthier alternatives to emotional eating?
-#     - How can I differentiate between physical hunger and emotional hunger?
-#     - Are there any support groups or therapies specifically for emotional eating?
-#     - How does emotional eating impact my overall well-being?
-#     - Can practicing mindfulness help reduce emotional eating episodes?
-#     - What are some self-care activities I can engage in instead of emotional eating?
+- intent: emotional_eating
+  examples: |
+    - What is emotional eating and why does it happen?
+    - How can I identify and manage emotional eating triggers?
+    - Are there any strategies for breaking the cycle of emotional eating?
+    - Can emotional eating be a symptom of an underlying mental health condition?
+    - What are some healthier alternatives to emotional eating?
+    - How can I differentiate between physical hunger and emotional hunger?
+    - Are there any support groups or therapies specifically for emotional eating?
+    - How does emotional eating impact my overall well-being?
+    - Can practicing mindfulness help reduce emotional eating episodes?
+    - What are some self-care activities I can engage in instead of emotional eating?
 
-# - intent: emotional_intelligence_relationships
-#   examples: |
-#     - What is emotional intelligence and how does it affect relationships?
-#     - How can I improve my emotional intelligence in relationships?
-#     - Are there any exercises or activities to develop emotional intelligence?
-#     - Can low emotional intelligence cause problems in relationships?
-#     - What are some signs of high emotional intelligence in a partner?
-#     - How can I communicate more effectively in my relationships using emotional intelligence?
-#     - Are there any books or resources on emotional intelligence in relationships?
-#     - Can couples therapy help improve emotional intelligence in a relationship?
-#     - How does emotional intelligence impact conflict resolution in relationships?
-#     - What are some strategies for empathetic listening in relationships?
+- intent: emotional_intelligence_relationships
+  examples: |
+    - What is emotional intelligence and how does it affect relationships?
+    - How can I improve my emotional intelligence in relationships?
+    - Are there any exercises or activities to develop emotional intelligence?
+    - Can low emotional intelligence cause problems in relationships?
+    - What are some signs of high emotional intelligence in a partner?
+    - How can I communicate more effectively in my relationships using emotional intelligence?
+    - Are there any books or resources on emotional intelligence in relationships?
+    - Can couples therapy help improve emotional intelligence in a relationship?
+    - How does emotional intelligence impact conflict resolution in relationships?
+    - What are some strategies for empathetic listening in relationships?
 
-# - intent: childhood_trauma_adult_mental_health
-#   examples: |
-#     - How does childhood trauma affect adult mental health?
-#     - What are some common long-term effects of childhood trauma?
-#     - Are there any specific therapies or treatments for healing from childhood trauma?
-#     - Can childhood trauma be the underlying cause of certain mental health disorders?
-#     - How can I recognize if my current mental health challenges are related to childhood trauma?
-#     - Are there any support groups or communities for individuals with a history of childhood trauma?
-#     - Can childhood trauma be fully overcome or healed?
-#     - What are some coping mechanisms for managing the impact of childhood trauma on adult life?
-#     - How can I explain the effects of childhood trauma to others and seek their understanding?
-#     - Are there any resources or books on healing from childhood trauma that you recommend?
+- intent: childhood_trauma_adult_mental_health
+  examples: |
+    - How does childhood trauma affect adult mental health?
+    - What are some common long-term effects of childhood trauma?
+    - Are there any specific therapies or treatments for healing from childhood trauma?
+    - Can childhood trauma be the underlying cause of certain mental health disorders?
+    - How can I recognize if my current mental health challenges are related to childhood trauma?
+    - Are there any support groups or communities for individuals with a history of childhood trauma?
+    - Can childhood trauma be fully overcome or healed?
+    - What are some coping mechanisms for managing the impact of childhood trauma on adult life?
+    - How can I explain the effects of childhood trauma to others and seek their understanding?
+    - Are there any resources or books on healing from childhood trauma that you recommend?
 
 # - intent: resilience_children
 #   examples: |
