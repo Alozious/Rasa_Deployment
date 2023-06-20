@@ -28,3 +28,38 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+
+  - action: utter_depression
+  - action: utter_anxiety
+  - action: utter_stress_management
+  - action: utter_coping_strategies
+  - action: utter_self_care
+  - action: utter_mindfulness
+  - action: utter_panic_attacks
+  - action: utter_social_anxiety
+  - action: utter_phobias
+  - action: utter_ocd
+  - action: utter_post_traumatic_stress_disorder
+  - action: utter_bipolar_disorder
+  - action: utter_eating_disorders
+  - action: utter_body_image
+  - action: utter_self_esteem
+  - action: utter_relationship_issues
+  - action: utter_grief_and_loss
+  - action: utter_anger_management
+  - action: utter_loneliness
+  - action: utter_motivation_and_goal_setting
+  - action: utter_work_related_stress
+  - action: utter_academic_pressure
+  - action: utter_sleep_problems
+  - action: utter_emotional_regulation
+  - action: utter_self_compassion
+  - action: utter_meditation_techniques
+  - action: utter_breathing_exercises
+  - action: utter_positive_psychology
+  - action: utter_gratitude_practices
+  - action: utter_assertiveness_training
+  - action: utter_coping_with_trauma
+  - action: utter_self_harm
+  - action: utter_substance_abuse

@@ -43,173 +43,173 @@ intents:
   - coping_with_trauma
   - self_harm
   - substance_abuse
-  - alcohol_addiction
-  - smoking_cessation
-  - supportive_therapies
-  - mental_health_stigma
-  - professional_help_seeking
-  - cultural_influences_on_mental_health
-  - healthy_relationships
-  - boundaries_and_assertiveness
-  - parenting_challenges
-  - body_dysmorphia
-  - performance_anxiety
-  - burnout_prevention
-  - resilience_building
-  - traumatic_experiences
-  - suicidal_thoughts_prevention
-  - coping_chronic_illness
-  - neurodiversity_mental_health
-  - identity_self_discovery
-  - career_choices_satisfaction
-  - coping_with_change
-  - forgiveness_letting_go
-  - emotional_intelligence
-  - communication_skills
-  - coping_with_rejection
-  - stress_workplace
-  - decision_making_problem_solving
-  - cognitive_distortions
-  - self_identity
-  - self_empowerment
-  - body_positivity
-  - cultural_identity_mental_health
-  - imposter_syndrome
-  - coping_uncertainty
-  - dealing_setbacks
-  - trauma_healing
-  - emotion_focused_therapy
-  - cognitive_behavioral_therapy
-  - dbt
-  - act
-  - caregivers_support
-  - college_student_mental_health
-  - postpartum_depression
-  - pregnancy_mental_health
-  - bfrbs
-  - seasonal_ad
-  - perfectionism
-  - healthy_boundaries
-  - coping_rejection_breakups
-  - procrastination
-  - creative_self_expression
-  - financial_stress_mental_health
-  - holistic_approaches_mental_health
-  - energy_management
-  - empathy_compassion
-  - social_support_networks
-  - identity_crisis
-  - personality_disorders
-  - workplace_harassment
-  - traumatic_brain_injury
-  - sexual_orientation_mental_health
-  - gender_identity_mental_health
-  - cultural_adjustment_mental_health
-  - coping_with_disabilities
-  - fear_of_public_speaking
-  - body_focused_repetitive_behaviors
-  - cognitive_decline_aging
-  - meditation_stress_relief
-  - substance_abuse_recovery
-  - bfrb
-  - gaming_addiction
-  - gambling_addiction
-  - self_hypnosis
-  - mindful_eating
-  - emotional_eating
-  - emotional_intelligence_relationships
-  - childhood_trauma_adult_mental_health
-  - resilience_children
-  - parenting_child_mental_health_challenges
-  - youth_mental_health_empowerment
-  - social_media_mental_health
-  - coping_natural_disasters
-  - job_loss_unemployment_stress
-  - supporting_loved_one_mental_illness
-  - college_student_stressors_support
-  - positive_affirmations
-  - learning_disabilities_mental_health
-  - mind_body_connection
-  - trauma_and_addiction_recovery
-  - mindfulness_for_children
-  - body_positivity_for_adolescents
-  - emotional_resilience_in_the_face_of_adversity
-  - cultural_sensitivity_in_therapy
-  - coping_with_chronic_pain
-  - mindfulness_based_stress_reduction
-  - digital_detox_and_mental_health
-  - coping_with_terminal_illness
-  - social_anxiety_in_social_settings
-  - coping_with_nightmares
-  - aging_and_mental_health
-  - transitioning_to_retirement
-  - mental_health_in_lgbtq_community
-  - mindfulness_for_parents
-  - healthy_grieving_process
-  - body_image_and_social_media
-  - emotional_boundaries_in_relationships
-  - mindfulness_in_the_workplace
-  - emotional_intelligence_for_leaders
-  - coping_with_long_distance_relationships
-  - sleep_hygiene_mental_health
-  - emotional_support_animals
-  - coping_with_fertility_issues
-  - perinatal_mental_health
-  - dealing_with_pet_loss
-  - supporting_children_with_anxiety
-  - coping_with_chronic_stress
-  - healthy_aging_mental_wellbeing
-  - art_therapy_mental_health
-  - coping_with_sibling_rivalry
-  - mindfulness_for_seniors
-  - trauma_attachment_issues
-  - empty_nest_syndrome
-  - emotional_intelligence_parenting
-  - mindfulness_classroom
-  - coping_premenstrual_syndrome
-  - coping_narcissistic_partner
-  - emotional_support_divorce
-  - work_life_balance
-  - coping_with_chronic_fatigue_syndrome
-  - mindfulness_for_teenagers
-  - coping_with_demanding_boss
-  - emotional_regulation_in_relationships
-  - mindfulness_for_veterans
-  - coping_with_cultural_discrimination
-  - emotional_intelligence_for_students
-  - coping_with_disordered_eating
-  - emotional_resilience_in_the_face_of_bullying
-  - mindfulness_for_busy_professionals
-  - coping_with_chronic_migraines
-  - emotional_intelligence_in_customer_service
-  - coping_with_a_critical_inner_voice
-  - coping_with_a_difficult_diagnosis
-  - emotional_support_during_infertility
-  - mindfulness_for_athletes
-  - coping_with_impostor_syndrome_at_work
-  - emotional_intelligence_for_educators
-  - coping_with_seasonal_transitions
-  - coping_with_a_high_pressure_work_environment
-  - mindfulness_parents_special_needs
-  - emotional_resilience_cyberbullying
-  - coping_toxic_friendship
-  - emotional_intelligence_conflict_resolution
-  - coping_chronic_illness_diagnosis
-  - mindfulness_first_responders
-  - coping_social_isolation
-  - emotional_support_relocation
-  - coping_workplace_bullying
-  - emotional_resilience_rejection
-  - coping_survivors_guilt
-  - mindfulness_caregivers
-  - coping_demanding_workload
-  - emotional_intelligence_healthcare_professionals
-  - coping_body_changes_pregnancy
-  - coping_judgmental_family_members
-  - emotional_support_career_transitions
-  - coping_emotional_triggers
-  - emotional_resilience_financial_challenges
-  - coping_anticipatory_grief
+  # - alcohol_addiction
+  # - smoking_cessation
+  # - supportive_therapies
+  # - mental_health_stigma
+  # - professional_help_seeking
+  # - cultural_influences_on_mental_health
+  # - healthy_relationships
+  # - boundaries_and_assertiveness
+  # - parenting_challenges
+  # - body_dysmorphia
+  # - performance_anxiety
+  # - burnout_prevention
+  # - resilience_building
+  # - traumatic_experiences
+  # - suicidal_thoughts_prevention
+  # - coping_chronic_illness
+  # - neurodiversity_mental_health
+  # - identity_self_discovery
+  # - career_choices_satisfaction
+  # - coping_with_change
+  # - forgiveness_letting_go
+  # - emotional_intelligence
+  # - communication_skills
+  # - coping_with_rejection
+  # - stress_workplace
+  # - decision_making_problem_solving
+  # - cognitive_distortions
+  # - self_identity
+  # - self_empowerment
+  # - body_positivity
+  # - cultural_identity_mental_health
+  # - imposter_syndrome
+  # - coping_uncertainty
+  # - dealing_setbacks
+  # - trauma_healing
+  # - emotion_focused_therapy
+  # - cognitive_behavioral_therapy
+  # - dbt
+  # - act
+  # - caregivers_support
+  # - college_student_mental_health
+  # - postpartum_depression
+  # - pregnancy_mental_health
+  # - bfrbs
+  # - seasonal_ad
+  # - perfectionism
+  # - healthy_boundaries
+  # - coping_rejection_breakups
+  # - procrastination
+  # - creative_self_expression
+  # - financial_stress_mental_health
+  # - holistic_approaches_mental_health
+  # - energy_management
+  # - empathy_compassion
+  # - social_support_networks
+  # - identity_crisis
+  # - personality_disorders
+  # - workplace_harassment
+  # - traumatic_brain_injury
+  # - sexual_orientation_mental_health
+  # - gender_identity_mental_health
+  # - cultural_adjustment_mental_health
+  # - coping_with_disabilities
+  # - fear_of_public_speaking
+  # - body_focused_repetitive_behaviors
+  # - cognitive_decline_aging
+  # - meditation_stress_relief
+  # - substance_abuse_recovery
+  # - bfrb
+  # - gaming_addiction
+  # - gambling_addiction
+  # - self_hypnosis
+  # - mindful_eating
+  # - emotional_eating
+  # - emotional_intelligence_relationships
+  # - childhood_trauma_adult_mental_health
+  # - resilience_children
+  # - parenting_child_mental_health_challenges
+  # - youth_mental_health_empowerment
+  # - social_media_mental_health
+  # - coping_natural_disasters
+  # - job_loss_unemployment_stress
+  # - supporting_loved_one_mental_illness
+  # - college_student_stressors_support
+  # - positive_affirmations
+  # - learning_disabilities_mental_health
+  # - mind_body_connection
+  # - trauma_and_addiction_recovery
+  # - mindfulness_for_children
+  # - body_positivity_for_adolescents
+  # - emotional_resilience_in_the_face_of_adversity
+  # - cultural_sensitivity_in_therapy
+  # - coping_with_chronic_pain
+  # - mindfulness_based_stress_reduction
+  # - digital_detox_and_mental_health
+  # - coping_with_terminal_illness
+  # - social_anxiety_in_social_settings
+  # - coping_with_nightmares
+  # - aging_and_mental_health
+  # - transitioning_to_retirement
+  # - mental_health_in_lgbtq_community
+  # - mindfulness_for_parents
+  # - healthy_grieving_process
+  # - body_image_and_social_media
+  # - emotional_boundaries_in_relationships
+  # - mindfulness_in_the_workplace
+  # - emotional_intelligence_for_leaders
+  # - coping_with_long_distance_relationships
+  # - sleep_hygiene_mental_health
+  # - emotional_support_animals
+  # - coping_with_fertility_issues
+  # - perinatal_mental_health
+  # - dealing_with_pet_loss
+  # - supporting_children_with_anxiety
+  # - coping_with_chronic_stress
+  # - healthy_aging_mental_wellbeing
+  # - art_therapy_mental_health
+  # - coping_with_sibling_rivalry
+  # - mindfulness_for_seniors
+  # - trauma_attachment_issues
+  # - empty_nest_syndrome
+  # - emotional_intelligence_parenting
+  # - mindfulness_classroom
+  # - coping_premenstrual_syndrome
+  # - coping_narcissistic_partner
+  # - emotional_support_divorce
+  # - work_life_balance
+  # - coping_with_chronic_fatigue_syndrome
+  # - mindfulness_for_teenagers
+  # - coping_with_demanding_boss
+  # - emotional_regulation_in_relationships
+  # - mindfulness_for_veterans
+  # - coping_with_cultural_discrimination
+  # - emotional_intelligence_for_students
+  # - coping_with_disordered_eating
+  # - emotional_resilience_in_the_face_of_bullying
+  # - mindfulness_for_busy_professionals
+  # - coping_with_chronic_migraines
+  # - emotional_intelligence_in_customer_service
+  # - coping_with_a_critical_inner_voice
+  # - coping_with_a_difficult_diagnosis
+  # - emotional_support_during_infertility
+  # - mindfulness_for_athletes
+  # - coping_with_impostor_syndrome_at_work
+  # - emotional_intelligence_for_educators
+  # - coping_with_seasonal_transitions
+  # - coping_with_a_high_pressure_work_environment
+  # - mindfulness_parents_special_needs
+  # - emotional_resilience_cyberbullying
+  # - coping_toxic_friendship
+  # - emotional_intelligence_conflict_resolution
+  # - coping_chronic_illness_diagnosis
+  # - mindfulness_first_responders
+  # - coping_social_isolation
+  # - emotional_support_relocation
+  # - coping_workplace_bullying
+  # - emotional_resilience_rejection
+  # - coping_survivors_guilt
+  # - mindfulness_caregivers
+  # - coping_demanding_workload
+  # - emotional_intelligence_healthcare_professionals
+  # - coping_body_changes_pregnancy
+  # - coping_judgmental_family_members
+  # - emotional_support_career_transitions
+  # - coping_emotional_triggers
+  # - emotional_resilience_financial_challenges
+  # - coping_anticipatory_grief
 
 responses:
   utter_greet:
@@ -230,6 +230,412 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  utter_depression:
+  - text: "It's common to experience sadness, feelings of hopelessness, loss of interest, and other symptoms when you're going through depression. If these feelings persist and interfere with your daily life, it's important to seek professional help. I recommend contacting Ukara Mental Health service for guidance and support. Remember, you're not alone, and there are effective treatments and self-help strategies available to help you manage depression."
+  - text: "Depression can manifest as persistent sadness, loss of interest, and feelings of hopelessness. If you suspect you may be dealing with depression, it's crucial to reach out for support. Consider contacting Ukara Mental Health service for professional assistance. They can provide guidance, recommend suitable treatments, and connect you with online support groups for additional help."
+  - text: "Feeling sad all the time and experiencing a loss of interest in activities you used to enjoy could be signs of depression. It's important to prioritize your mental well-being. If these feelings persist, I encourage you to seek professional help from Ukara Mental Health service. They can offer effective treatments and provide the support you need during this time."
+  - text: "Depression is a serious condition that can affect various aspects of your life. If you're struggling with feelings of sadness, hopelessness, and a lack of interest, it's crucial to seek help. Reach out to Ukara Mental Health service for professional support and guidance. Remember, there are effective treatments available and support groups that can provide additional assistance."
+  - text: "If you're wondering whether your constant sadness and loss of interest could be depression, it's essential to take it seriously. Seeking professional help from Ukara Mental Health service can provide you with the necessary guidance and support. Remember, you don't have to face this alone, and there are effective treatments and self-help strategies that can make a difference."
+
+  utter_anxiety:
+  - text: "Managing anxiety symptoms can be challenging, but there are strategies that can help. It's important to develop healthy coping mechanisms and seek support when needed. If your anxiety persists and affects your daily life, consider reaching out to Ukara Mental Health service for professional assistance. They can provide recommendations tailored to your situation."
+  - text: "Anxiety can manifest with physical symptoms and affect your social interactions. Developing effective coping mechanisms and seeking support is crucial. If you're looking for natural remedies or relaxation techniques, consider reaching out to Ukara Mental Health service for guidance. Remember, they can provide professional help and recommend support groups for additional assistance."
+  - text: "Experiencing anxiety is common, and there are strategies to manage it effectively. If you're struggling with anxiety symptoms or find it challenging to stop worrying, seeking support is important. Ukara Mental Health service can offer guidance, relaxation techniques, and provide recommendations for managing anxiety. Remember, you're not alone, and there are resources available to help you."
+  - text: "It's normal to feel anxious in social situations or experience physical symptoms due to anxiety. However, if your anxiety becomes overwhelming and interferes with your daily life, it's important to seek professional help. Ukara Mental Health service can provide support, recommend relaxation techniques, and suggest coping mechanisms tailored to your needs. Remember to reach out if you need assistance."
+  - text: "Managing anxiety is a journey, and there are various strategies that can help. If you're coping with panic attacks, worrying excessively, or seeking relaxation techniques, consider reaching out to Ukara Mental Health service for professional assistance. They can offer guidance, recommend suitable treatments, and connect you with support groups. Remember, seeking support is a positive step towards managing your anxiety."
+
+  utter_stress_management:
+  - text: "Effectively managing stress in your daily life is crucial for your well-being. It's important to develop healthy coping mechanisms and find ways to create a stress-free environment. If you need guidance, Ukara Mental Health service can recommend stress management apps or tools, as well as provide tips on balancing work and personal life. Remember, taking care of your mental health is essential."
+  - text: "Coping with stress requires healthy strategies and support. Consider incorporating exercise, relaxation techniques, and healthy coping mechanisms into your routine. If you're looking for specific recommendations or stress management workshops, Ukara Mental Health service can provide guidance tailored to your needs. Remember, managing stress is a journey, and seeking support can make a difference."
+  - text: "Creating a stress-free environment and finding healthy coping mechanisms are important for managing stress. Exercise, relaxation techniques, and balancing work and personal life can make a significant difference. If you're seeking additional support, consider reaching out to Ukara Mental Health service. They can recommend specific foods or supplements, as well as provide guidance on stress management."
+  - text: "Stress management plays a vital role in maintaining overall well-being. Incorporating healthy coping mechanisms, such as exercise and relaxation techniques, can help alleviate stress. If you're looking for stress management apps or tools, Ukara Mental Health service can provide recommendations. Remember, chronic stress can have long-term effects, so it's essential to prioritize self-care and seek support when needed."
+  - text: "Managing stress effectively is crucial for a balanced and healthy life. Finding healthy coping mechanisms, creating a stress-free environment, and prioritizing self-care are important steps. If you need additional support, Ukara Mental Health service can provide guidance, recommend stress management workshops, and offer tips on balancing work and personal life. Remember, seeking support is a positive step towards a less stressful life."
+
+  utter_coping_strategies:
+  - text: "Coping with difficult emotions can be challenging, but there are several healthy strategies you can try. Some effective coping mechanisms include practicing relaxation techniques like deep breathing or meditation, engaging in self-care activities, seeking support from therapy or support groups, improving problem-solving skills, and using positive affirmations or self-talk techniques. Remember, it's important to find what works best for you and reach out to professionals if you need further assistance. If you're in the UK and require immediate mental health support, consider contacting Ukara Mental Health service."
+  - text: "When you're feeling overwhelmed, it's helpful to have healthy coping strategies in place. You can try incorporating relaxation techniques such as deep breathing exercises or mindfulness meditation into your routine. Engaging in self-care activities, joining support groups, and working on improving problem-solving skills can also be beneficial. Remember, everyone's journey is unique, so don't hesitate to seek professional help from Ukara Mental Health service if needed."
+  - text: "Dealing with difficult emotions can be challenging, but there are strategies that can help. Consider practicing relaxation techniques like deep breathing or engaging in activities that bring you joy and promote self-care. Building resilience, seeking support from therapy or support groups, and developing problem-solving skills can also be valuable. If your emotions persist or you're in need of immediate mental health support, remember that Ukara Mental Health service is available to assist you."
+  - text: "Managing difficult emotions requires healthy coping strategies. You can start by incorporating relaxation techniques such as deep breathing or meditation into your daily routine. Engaging in self-care activities, seeking support from therapy or support groups, and improving problem-solving skills are also effective approaches. Remember to prioritize your mental health and consider reaching out to Ukara Mental Health service if you need additional support."
+  - text: "When facing difficult emotions, it's important to have coping strategies that work for you. You can try relaxation techniques like deep breathing or engaging in self-care activities that bring you comfort. Seeking support from therapy or support groups, improving problem-solving skills, and using positive affirmations can also be helpful. If you find that your emotions persist or you require immediate mental health support, consider reaching out to Ukara Mental Health service for assistance."
+
+  utter_self_care:
+  - text: "Self-care is essential for maintaining your mental well-being. You can incorporate self-care practices into your daily routine by prioritizing activities that bring you joy and relaxation. It's important to set boundaries, practice self-compassion, and engage in activities that promote your overall well-being. Remember, if you need guidance or further resources, Ukara Mental Health service is available to support you."
+  - text: "Taking care of yourself is crucial, especially when life gets busy. You can prioritize self-care by setting aside time for activities that rejuvenate you, such as practicing mindfulness, engaging in hobbies you enjoy, or spending time in nature. It's important to be kind to yourself and practice self-compassion. If you need assistance or additional resources, consider reaching out to Ukara Mental Health service for support."
+  - text: "Self-care plays a vital role in maintaining your mental health. It's important to incorporate self-care practices into your routine, even when your schedule is busy. You can start by practicing relaxation techniques, setting boundaries, and engaging in activities that bring you a sense of joy and fulfillment. Remember, if you need professional guidance or support, Ukara Mental Health service is there for you."
+  - text: "Practicing self-care is crucial for your well-being. Consider incorporating activities that promote relaxation and self-compassion into your daily routine. This can include mindfulness exercises, engaging in hobbies or activities you enjoy, and setting aside time for rest and rejuvenation. Remember, if you ever feel the need for additional mental health support, Ukara Mental Health service is just a call away."
+  - text: "Self-care is essential for maintaining a healthy mind and body. Make time for activities that nurture your well-being, such as practicing mindfulness, engaging in physical exercise, or spending time with loved ones. Remember to be gentle with yourself and seek support from Ukara Mental Health service if you need further guidance or resources."
+
+  utter_mindfulness:
+  - text: "Practicing mindfulness offers numerous benefits for your mental well-being. It can help reduce stress, improve focus, and increase self-awareness. You can start incorporating mindfulness into your daily life by practicing simple exercises like mindful breathing or body scans. There are also mindfulness apps and resources available that can guide you in your mindfulness journey. Remember, if you need further support or information, Ukara Mental Health service is there to assist you."
+  - text: "Mindfulness is a powerful practice that can positively impact your life. You can begin by setting aside a few minutes each day to focus on the present moment and observe your thoughts and sensations without judgment. There are various mindfulness exercises for beginners, such as mindful breathing or body scans, that can help you develop this skill. If you're looking for additional resources or guidance, consider reaching out to Ukara Mental Health service."
+  - text: "Incorporating mindfulness into your daily life can bring about numerous benefits. It helps in reducing stress, improving focus, and fostering a greater sense of self-awareness. You can start by practicing simple mindfulness exercises like mindful breathing or body scans. There are also mindfulness apps and resources available to support your journey. If you need further assistance or have specific questions, don't hesitate to contact Ukara Mental Health service."
+  - text: "Mindfulness has several benefits for your overall well-being. You can start practicing mindfulness by focusing on your breath and observing your thoughts and sensations without judgment. There are mindfulness exercises specifically designed for beginners, which can help you develop this skill gradually. If you ever need additional support or recommendations, Ukara Mental Health service is just a phone call away."
+  - text: "Practicing mindfulness can have a positive impact on your mental health. You can begin by incorporating mindfulness exercises into your daily routine, such as mindful breathing or body scans. It's important to stay present and focused, even amidst distractions. If you're looking for mindfulness apps or resources, or if you have specific questions, feel free to reach out to Ukara Mental Health service for assistance."
+
+  utter_panic_attacks:
+  - text: "Panic attacks can be distressing, but there are strategies you can use to manage and cope with them. Deep breathing exercises, grounding techniques, and positive self-talk can help during a panic attack. It's also important to seek professional help, such as therapy or counseling, for long-term management. Remember, if you or someone you know is experiencing frequent panic attacks, consider contacting Ukara Mental Health service for immediate support."
+  - text: "If you experience panic attacks, know that you're not alone. During a panic attack, it can be helpful to focus on your breath, engage in grounding exercises, and remind yourself that the attack will pass. Seeking professional help, exploring therapy options, and joining support groups can provide long-term support. If you ever feel overwhelmed or in need of immediate mental health support, remember to reach out to Ukara Mental Health service."
+  - text: "Managing panic attacks can be challenging, but there are strategies you can try. Deep breathing exercises, grounding techniques, and redirecting your thoughts to positive affirmations can help during an attack. Seeking professional help and exploring therapy options can also provide long-term support. If panic attacks persist or if you need immediate mental health assistance, remember to reach out to Ukara Mental Health service for guidance and support."
+  - text: "Panic attacks can be overwhelming, but there are techniques to help you manage and calm yourself during an episode. Deep breathing exercises, grounding techniques, and finding a safe and quiet space can be beneficial. It's important to seek professional help to address the underlying causes of panic attacks and explore treatment options. If you're in the UK and experiencing frequent panic attacks, consider reaching out to Ukara Mental Health service for immediate support."
+  - text: "Coping with panic attacks can be challenging, but there are strategies that can assist you. Deep breathing exercises, focusing on grounding techniques, and practicing self-compassion can help during an episode. Seeking professional support, such as therapy or counseling, is also important for long-term management. If you ever feel overwhelmed or require immediate assistance, don't hesitate to contact Ukara Mental Health service for guidance."
+
+  utter_social_anxiety:
+  - text: "Managing social anxiety can be difficult, but there are techniques you can employ to cope in social situations. Gradual exposure to social settings, challenging negative thoughts, and seeking support from therapy or support groups can be helpful. Remember, if you need immediate mental health support or further guidance, consider reaching out to Ukara Mental Health service."
+  - text: "Social anxiety can be challenging to navigate, but there are strategies that can assist you. Gradual exposure to social situations, practicing relaxation techniques, and reframing negative thoughts can be beneficial. Additionally, seeking professional support, such as therapy or counseling, can provide further guidance. If you ever feel overwhelmed or need immediate assistance, don't hesitate to reach out to Ukara Mental Health service."
+  - text: "Coping with social anxiety can be a journey, but there are techniques that can help. Gradual exposure to social situations, challenging negative thoughts, and practicing self-compassion can be valuable. Seeking professional support, such as therapy or counseling, and joining support groups can also provide additional guidance. If you ever feel overwhelmed or need immediate mental health support, consider contacting Ukara Mental Health service."
+  - text: "Social anxiety can be challenging, but there are strategies to manage it. Gradual exposure to social situations, practicing relaxation techniques, and challenging negative thoughts can be helpful. Seeking support from therapy or support groups, and working on improving social skills can also make a difference. Remember, if you ever need additional assistance, Ukara Mental Health service is there to support you."
+  - text: "Managing social anxiety requires patience and perseverance. Gradual exposure to social situations, practicing relaxation techniques, and reframing negative thoughts can be effective strategies. Seeking support from therapy or support groups, as well as working on improving social skills, can also be beneficial. If you need further guidance or immediate mental health support, remember to reach out to Ukara Mental Health service."
+
+  utter_phobias:
+  - text: "Overcoming phobias can be challenging, but there are effective treatments available. Exposure therapy, cognitive-behavioral therapy (CBT), and medication options can help manage phobias. Support groups for people with phobias can also provide valuable assistance. If you need support or more information, consider reaching out to Ukara Mental Health service."
+  - text: "If you're struggling with a specific phobia, know that there are treatments available to help. Exposure therapy, cognitive-behavioral therapy (CBT), and medication can be effective in managing phobias. Support groups for individuals with phobias can also provide a sense of community and understanding. Remember, if you need further guidance or immediate mental health support, Ukara Mental Health service is just a call away."
+  - text: "Overcoming phobias can be a journey, but there are effective treatments that can help. Exposure therapy, cognitive-behavioral therapy (CBT), and medication options can assist in managing phobias. Support groups or online communities for people with phobias can also provide valuable support and understanding. If you need assistance or more information, consider reaching out to Ukara Mental Health service."
+  - text: "If you're struggling with a phobia, it's important to know that there are treatment options available. Exposure therapy, cognitive-behavioral therapy (CBT), and medication can be effective in managing and overcoming phobias. Additionally, support groups and online communities can provide a sense of connection and understanding. If you need support or more information, don't hesitate to contact Ukara Mental Health service."
+  - text: "Dealing with a phobia can be challenging, but there are effective treatments that can help you overcome it. Exposure therapy, cognitive-behavioral therapy (CBT), and medication options are available and have shown positive results in managing phobias. Support groups for individuals with phobias can also provide a supportive environment where you can connect with others facing similar challenges. Remember, if you need further guidance or immediate mental health support, reach out to Ukara Mental Health service."
+
+  utter_ocd:
+  - text: "Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by repetitive, intrusive thoughts (obsessions) and behaviors (compulsions). Common symptoms of OCD include excessive handwashing, checking things repeatedly, and having intrusive thoughts. To manage and reduce obsessive thoughts and compulsions, you can try techniques like exposure and response prevention therapy. It's also beneficial to create a structured routine and seek support from a therapist or support groups. If your symptoms persist, I recommend reaching out to Ukara Mental Health service for professional help and guidance."
+  - text: "Living with OCD can be challenging, but there are strategies to help manage and reduce symptoms. Some therapies used to treat OCD include cognitive-behavioral therapy (CBT) and medication. Additionally, self-help strategies like setting goals, practicing mindfulness, and gradually facing fears through exposure therapy can be helpful. Remember, if you're experiencing difficulties or need immediate mental health support, don't hesitate to contact Ukara Mental Health service. They can provide you with the necessary assistance and resources."
+  - text: "OCD can significantly impact your daily life, but there are ways to cope with the symptoms. Therapy, such as CBT, can teach you techniques to challenge and change obsessive thoughts and behaviors. You can also try self-help strategies like journaling, relaxation exercises, and seeking support from loved ones. If you find that your symptoms persist or worsen, it's important to seek professional help from Ukara Mental Health service. They can provide you with the necessary support and guidance for managing OCD."
+  - text: "It's important to understand that OCD is a treatable condition. Therapies like CBT and medications can help alleviate symptoms and improve your quality of life. Additionally, self-help strategies such as setting achievable goals, practicing self-care, and seeking social support can be beneficial. However, if you're struggling to manage your OCD or if it's causing significant distress, I highly recommend reaching out to Ukara Mental Health service. They specialize in providing mental health support and can guide you towards the appropriate treatment options."
+  - text: "Obsessive-Compulsive Disorder (OCD) is a complex condition, but there are effective strategies to manage its symptoms. Therapy, such as exposure and response prevention, can help you confront your fears and reduce compulsive behaviors. Creating a structured routine and engaging in activities you enjoy can also contribute to symptom management. Remember, if you need additional support or if your symptoms persist, consider reaching out to Ukara Mental Health service. They can offer professional assistance tailored to your specific needs."
+
+  utter_post_traumatic_stress_disorder:
+  - text: "Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can occur after experiencing or witnessing a traumatic event. Common symptoms of PTSD include flashbacks, nightmares, avoidance behaviors, and hypervigilance. If you suspect you have PTSD, it's important to seek a diagnosis from a qualified professional. Treatment options for PTSD include therapy, such as cognitive processing therapy (CPT) and eye movement desensitization and reprocessing (EMDR). Ukara Mental Health service can provide you with the necessary support and guidance for managing PTSD."
+  - text: "PTSD is a condition that can have a significant impact on daily life, but it is treatable. Therapies like cognitive-behavioral therapy (CBT) and eye movement desensitization and reprocessing (EMDR) can help individuals process traumatic experiences and reduce symptoms. Coping mechanisms such as relaxation techniques, regular exercise, and maintaining a support network can also contribute to recovery. If you're experiencing symptoms of PTSD, it's crucial to seek professional help. Ukara Mental Health service can offer the support you need and recommend appropriate treatment options."
+  - text: "If you're experiencing symptoms of Post-Traumatic Stress Disorder (PTSD), it's important to remember that help is available. Therapies such as cognitive processing therapy (CPT) and prolonged exposure therapy (PE) can assist in processing traumatic experiences and reducing the impact of PTSD symptoms. It's also beneficial to practice self-care, engage in activities that bring you joy, and seek support from loved ones. If you feel overwhelmed or need additional guidance, consider reaching out to Ukara Mental Health service. They specialize in providing mental health support and can offer you appropriate resources and treatment options."
+  - text: "Living with PTSD can be challenging, but there are treatments and coping mechanisms that can help. Therapies like cognitive processing therapy (CPT) and eye movement desensitization and reprocessing (EMDR) have been found effective in reducing symptoms of PTSD. It's also important to practice self-care, engage in relaxation techniques, and build a strong support system. If you suspect you have PTSD or if your symptoms persist, I recommend reaching out to Ukara Mental Health service. They can provide you with the necessary support and help you explore treatment options."
+  - text: "Post-Traumatic Stress Disorder (PTSD) is a complex condition, but there are strategies to manage and alleviate its symptoms. Therapies such as cognitive-behavioral therapy (CBT) and exposure therapy can assist in processing traumatic experiences and reducing the impact of PTSD. Additionally, self-help techniques like practicing mindfulness, maintaining a healthy lifestyle, and connecting with support groups can contribute to recovery. If you're struggling with PTSD symptoms, don't hesitate to seek help from Ukara Mental Health service. They can offer professional guidance and recommend appropriate interventions."
+
+  utter_bipolar_disorder:
+  - text: "Bipolar disorder is characterized by extreme mood swings, ranging from manic episodes to depressive episodes. Common symptoms include elevated mood, decreased need for sleep, racing thoughts, and loss of interest in activities. Diagnosis involves a thorough evaluation by a mental health professional. Treatment options may include medication, therapy, and lifestyle changes. It's important to support someone with bipolar disorder by educating yourself, being patient, and encouraging them to seek professional help. If you or someone you know is struggling with bipolar disorder, I recommend reaching out to Ukara Mental Health service for support."
+  - text: "Bipolar disorder is a mental health condition that involves alternating periods of mania and depression. Symptoms can vary, but may include excessive energy, impulsivity, irritability, and changes in sleep patterns. Diagnosis is typically made by a psychiatrist or mental health professional. Treatment often involves a combination of medication, therapy, and lifestyle adjustments. If you suspect you or someone you know may have bipolar disorder, it's important to seek professional help from Ukara Mental Health service for an accurate diagnosis and appropriate treatment."
+  - text: "Bipolar disorder is a complex mental health condition characterized by shifts in mood, energy levels, and activity levels. It's important to recognize the symptoms, which can include periods of elevated mood, increased self-esteem, and decreased need for sleep during manic episodes, as well as feelings of sadness, loss of interest, and fatigue during depressive episodes. If you suspect you or someone you know may have bipolar disorder, it's crucial to seek professional help. Ukara Mental Health service can provide the support and guidance needed for diagnosis and treatment."
+  - text: "Living with bipolar disorder can be challenging, but with the right treatment and support, individuals can lead fulfilling lives. Bipolar disorder is a lifelong condition that requires ongoing management. Treatment options may include mood-stabilizing medications, psychotherapy, and lifestyle changes. It's important to encourage open communication and understanding in relationships with someone who has bipolar disorder. Remember, if you or someone you know is struggling with bipolar disorder, Ukara Mental Health service is available to provide assistance and resources."
+  - text: "Bipolar disorder is a mental health condition that affects a person's mood, energy levels, and ability to function. It's important to be aware of the symptoms, such as intense mood swings, impulsivity, and changes in sleep patterns. While there is no cure for bipolar disorder, it can be effectively managed with a combination of medication, therapy, and self-care. If you or someone you know is experiencing symptoms of bipolar disorder, I strongly recommend seeking professional help from Ukara Mental Health service. They can offer the support and guidance needed for a healthier and more balanced life."
+
+  utter_eating_disorders:
+  - text: "Eating disorders are serious mental health conditions that can have long-term effects on physical and emotional well-being. They include disorders such as anorexia nervosa, bulimia nervosa, and binge eating disorder. Diagnosis typically involves a comprehensive assessment by a healthcare professional. Treatment may involve a combination of therapy, medical monitoring, and nutritional counseling. If you suspect you or someone you know may have an eating disorder, it's important to seek professional help. Consider reaching out to Ukara Mental Health service for guidance and support."
+  - text: "Eating disorders are complex conditions that affect a person's relationship with food and their body. They can have severe physical and emotional consequences if left untreated. If you suspect you or someone you know may have an eating disorder, it's important to seek professional help. Diagnosis involves a thorough evaluation by a healthcare professional, and treatment options may include therapy, nutritional counseling, and medical support. Remember, Ukara Mental Health service is available to provide the necessary support and resources for recovery."
+  - text: "Eating disorders are serious conditions that require professional intervention. They can manifest in various forms, such as restrictive eating, binge eating, or purging behaviors. It's important to understand that eating disorders are not simply about food but often stem from underlying emotional and psychological issues. Treatment typically involves a multidisciplinary approach, including therapy, nutritional counseling, and medical supervision. If you or someone you know is struggling with an eating disorder, I strongly recommend seeking help from Ukara Mental Health service to start the journey towards recovery."
+  - text: "Eating disorders are mental health conditions characterized by unhealthy attitudes and behaviors related to food and body image. They can have devastating effects on physical and emotional well-being. If you suspect you or someone you know may have an eating disorder, it's crucial to seek professional help. Ukara Mental Health service has trained professionals who specialize in treating eating disorders and can provide the necessary support and guidance. Remember, early intervention is key to improving outcomes and promoting recovery."
+  - text: "Eating disorders are complex conditions that require professional intervention for effective treatment. They can impact a person's physical health, mental well-being, and overall quality of life. It's important to recognize the signs, such as significant weight changes, distorted body image, and preoccupation with food or weight. If you're concerned about yourself or someone you know, I encourage you to reach out to Ukara Mental Health service. They have the expertise to provide the support and resources needed for recovery from eating disorders."
+
+  utter_body_image:
+  - text: "Body image is how a person perceives and feels about their own body. It's important to prioritize self-acceptance and focus on overall well-being rather than striving for societal ideals. Social media can often distort perceptions of body image, so it's important to be mindful of the content you consume. Therapy can be helpful in addressing body image issues and improving self-confidence. Remember, everyone is unique and deserving of self-love and respect. If you're struggling with body image, consider seeking support from Ukara Mental Health service."
+  - text: "Improving body image involves cultivating a positive relationship with your own body and focusing on self-acceptance. Negative body image can have detrimental effects on mental health and overall well-being. Social media can contribute to unrealistic beauty standards, so it's important to be critical of the content you engage with. Therapy can provide valuable tools for building self-confidence and developing a healthier body image. If you're looking for support in improving your body image, Ukara Mental Health service is available to help."
+  - text: "Body image concerns are common, and it's important to remember that beauty comes in all shapes and sizes. Improving body image involves challenging negative thoughts, practicing self-compassion, and engaging in activities that promote a positive relationship with your body. Social media can influence body image, so it's important to curate your online environment to include body-positive influencers and supportive communities. If you're struggling with body image, therapy can be a helpful resource. Additionally, consider reaching out to Ukara Mental Health service for guidance and support."
+  - text: "Body image is a deeply personal and individual experience. It's important to cultivate a positive body image and focus on self-acceptance rather than striving for an idealized appearance. Social media can impact body image, so it's crucial to be mindful of the content you consume. Therapy can provide valuable support in improving body image and building self-confidence. Remember, if you're struggling with negative thoughts about your body, it's important to seek professional help. Ukara Mental Health service can provide the necessary guidance and resources for developing a healthier body image."
+  - text: "Building a positive body image involves embracing your own uniqueness and practicing self-acceptance. Negative body image can lead to low self-esteem and impact overall well-being. It's important to recognize that societal ideals of beauty are often unrealistic and unattainable. Engaging in activities that promote self-care, self-compassion, and self-expression can help improve body image. If you're struggling with body image, consider reaching out to Ukara Mental Health service for professional guidance and support in developing a healthier and more positive relationship with your body."
+
+  utter_self_esteem:
+  - text: "Self-esteem is the way you perceive and value yourself. It's important to cultivate self-esteem as it affects your overall well-being and relationships. Building self-esteem involves recognizing your strengths, practicing self-compassion, and setting realistic goals. Therapy can be a valuable resource in addressing self-esteem issues and developing a positive self-image. Remember, you are deserving of love, respect, and self-acceptance. If you're struggling with self-esteem, Ukara Mental Health service can provide the necessary support and guidance to help you build a healthier self-esteem."
+  - text: "Improving self-esteem is a journey that starts with self-acceptance and self-care. It's important to challenge negative self-talk, embrace your strengths, and set realistic expectations for yourself. Therapy can provide valuable tools and strategies to boost self-esteem and develop a positive self-image. Remember, you are unique and deserving of love and respect. If you're struggling with self-esteem, consider reaching out to Ukara Mental Health service. They can provide the necessary support and resources to help you on your path to building a healthier self-esteem."
+  - text: "Self-esteem plays a crucial role in our overall well-being and mental health. It's important to cultivate a positive self-image and recognize your worth and capabilities. Building self-esteem involves practicing self-compassion, setting boundaries, and surrounding yourself with supportive people. Therapy can be a valuable resource in addressing self-esteem issues and developing a healthier sense of self. Remember, you are deserving of love, acceptance, and happiness. If you're looking for support in improving your self-esteem, consider reaching out to Ukara Mental Health service."
+  - text: "Developing a healthy self-esteem is essential for your mental and emotional well-being. It involves recognizing your worth, embracing your strengths, and practicing self-compassion. Building self-esteem takes time and effort, but it's worth the journey. Therapy can provide valuable tools and support in addressing self-esteem issues and developing a positive self-image. Remember, you are unique and deserving of love and respect. If you're struggling with self-esteem, Ukara Mental Health service is available to provide the necessary guidance and resources."
+  - text: "Self-esteem is the foundation of a positive self-image and overall well-being. It involves valuing yourself, recognizing your strengths, and setting healthy boundaries. Building self-esteem requires self-reflection, self-compassion, and a commitment to personal growth. Therapy can be a helpful resource in addressing self-esteem issues and developing a healthier sense of self. Remember, you are worthy of love, acceptance, and happiness. If you're looking for support in improving your self-esteem, consider reaching out to Ukara Mental Health service for professional guidance and assistance."
+
+  utter_relationship_issues:
+  - text: "Effective communication is key to resolving relationship issues. It's important to express your feelings openly, listen actively, and practice empathy. Therapy can provide valuable tools and guidance for improving communication and resolving conflicts. Remember, healthy relationships require effort and commitment from both parties. If you're experiencing difficulties in your relationship, consider seeking professional help from Ukara Mental Health service. They can provide the necessary support and resources to address relationship issues and foster a healthier connection."
+  - text: "Relationship issues are common and can arise due to various factors. It's important to approach conflicts with empathy, active listening, and open communication. Seeking therapy can offer valuable insights and tools for resolving relationship issues and improving overall relationship satisfaction. Remember, building a healthy relationship requires effort, compromise, and mutual respect. If you're facing challenges in your relationship, consider reaching out to Ukara Mental Health service for professional guidance and support."
+  - text: "Addressing relationship issues requires open and honest communication. It's important to express your needs and concerns while also actively listening to your partner. Therapy can provide a safe and supportive space to explore relationship dynamics and develop effective strategies for resolving conflicts. Remember, every relationship is unique, and seeking professional help from Ukara Mental Health service can provide valuable guidance in navigating relationship challenges and fostering a healthier connection."
+  - text: "Relationship issues can be complex and challenging to navigate. Effective communication, empathy, and understanding are essential for resolving conflicts and strengthening relationships. Therapy can provide a neutral and supportive environment to address relationship issues and develop healthier patterns of interaction. Remember, seeking help is a sign of strength and a commitment to the relationship's well-being. If you're experiencing relationship difficulties, consider reaching out to Ukara Mental Health service for professional guidance and support."
+  - text: "Relationships can face various challenges, but open communication and a willingness to work through difficulties are key to resolving issues. It's important to listen actively, validate each other's feelings, and seek compromises. Therapy can provide valuable insights and tools to address relationship issues and foster a healthier connection. Remember, Ukara Mental Health service is available to provide professional support and guidance for resolving relationship issues and improving overall relationship satisfaction."
+
+  utter_grief_and_loss:
+  - text: "Coping with the loss of a loved one can be incredibly difficult. It's important to allow yourself to grieve and seek support from friends, family, or support groups. Therapy can also be helpful in navigating the grieving process. If you're finding it hard to cope, consider reaching out to Ukara Mental Health service for additional support."
+  - text: "Losing a loved one is a painful experience. Give yourself time to grieve and remember that it's okay to seek support from others. Therapy can provide guidance during this challenging time. If you need immediate assistance, please reach out to Ukara Mental Health service."
+  - text: "I'm sorry to hear about your loss. It's natural to feel a range of emotions during the grieving process. Surround yourself with supportive people and consider therapy to help you navigate this difficult time. Remember, if you're in immediate distress, contact Ukara Mental Health service for assistance."
+  - text: "Grief can be overwhelming, but you don't have to face it alone. Seek support from loved ones and consider therapy to help you process your emotions. If you're in need of urgent mental health support, reach out to Ukara Mental Health service."
+  - text: "Losing a loved one is never easy, and it's normal to struggle with grief. Surround yourself with understanding people and consider therapy to help you cope with the loss. If you ever feel like you're in crisis, remember to contact Ukara Mental Health service for immediate assistance."
+
+  utter_anger_management:
+  - text: "Managing anger is important for maintaining healthy relationships. Try expressing your anger in a constructive way, such as through writing or physical activity. Therapy can provide valuable tools for anger management. If you're struggling to control your anger, it may be beneficial to seek support from Ukara Mental Health service."
+  - text: "Anger is a natural emotion, but finding healthy ways to manage it is key. Consider techniques like deep breathing, mindfulness, or talking to a therapist. Remember, if anger becomes overwhelming or poses a risk, reach out to Ukara Mental Health service for immediate help."
+  - text: "I understand that anger can be challenging to deal with. It's important to find healthy outlets for expressing and managing your anger. Therapy can provide you with effective strategies. If anger is causing distress or harm, please reach out to Ukara Mental Health service for assistance."
+  - text: "Controlling anger is a journey, and seeking support is a positive step. Explore techniques like deep breathing, journaling, or talking to a therapist. Remember, if you're ever in a crisis or need immediate mental health support, contact Ukara Mental Health service."
+  - text: "Managing anger is crucial for your well-being and relationships. Find healthy ways to release anger, such as through exercise or talking to a trusted friend. If you're struggling to manage anger effectively, consider reaching out to Ukara Mental Health service for guidance and support."
+
+  utter_loneliness:
+  - text: "Overcoming feelings of loneliness can be challenging. Building a social support system, participating in community organizations, and engaging in activities can help alleviate loneliness. Therapy can provide guidance and support in addressing loneliness. If you're experiencing intense feelings of loneliness, consider reaching out to Ukara Mental Health service for assistance."
+  - text: "Loneliness can be tough, but you're not alone in this. Focus on building connections, finding activities you enjoy, and consider therapy to explore your feelings. Remember, if you ever need immediate support, reach out to Ukara Mental Health service."
+  - text: "Feeling lonely is difficult, but there are ways to combat it. Seek opportunities to meet new people, join groups with similar interests, and consider therapy for additional support. If you're in immediate distress, please contact Ukara Mental Health service."
+  - text: "I'm sorry to hear that you're feeling lonely. Remember, you deserve meaningful connections. Engage in social activities, reach out to friends or family, and consider therapy to work through these emotions. If you need immediate assistance, Ukara Mental Health service is available to help."
+  - text: "Loneliness can be challenging, but there are steps you can take to feel more connected. Reach out to loved ones, engage in social activities, and consider therapy as a supportive resource. If you're in crisis, please reach out to Ukara Mental Health service for immediate help."
+
+  utter_motivation_and_goal_setting:
+  - text: "Staying motivated and setting effective goals is key to achieving success. Visualization, tracking progress, and seeking inspiration from success stories or role models can help. However, if you're struggling to stay motivated or set goals, therapy can offer guidance and support. Remember, if you need immediate mental health support, reach out to Ukara Mental Health service."
+  - text: "Motivation and goal setting can be challenging, but you're capable of achieving great things. Find inspiration from others, break your goals into smaller milestones, and consider therapy to help you stay on track. If you ever need urgent mental health support, contact Ukara Mental Health service."
+  - text: "Setting and achieving goals takes effort and dedication. Stay motivated by envisioning your success, tracking your progress, and seeking support from a therapist. If you're facing difficulties with motivation or goal setting, remember that Ukara Mental Health service is available for additional support."
+  - text: "I believe in your ability to stay motivated and reach your goals. Visualize your desired outcomes, break them into manageable steps, and seek therapy for guidance along the way. If you ever need immediate mental health support, don't hesitate to contact Ukara Mental Health service."
+  - text: "Maintaining motivation and setting effective goals is a continuous process. Find what inspires you, establish a plan, and consider therapy to help you overcome any obstacles. If you require immediate mental health support, reach out to Ukara Mental Health service."
+
+  utter_work_related_stress:
+  - text: "Managing work-related stress is crucial for your well-being. Setting boundaries, practicing relaxation techniques, and seeking support from therapy can help alleviate stress. If work-related stress is overwhelming and affecting your mental health, consider reaching out to Ukara Mental Health service for additional support."
+  - text: "Work-related stress can take a toll on your mental health. Prioritize self-care, communicate your needs with your employer, and consider therapy to manage stress effectively. If you're in immediate distress, please reach out to Ukara Mental Health service for assistance."
+  - text: "Balancing work and well-being is important. Establish boundaries, practice self-care, and consider therapy to help you cope with work-related stress. Remember, Ukara Mental Health service is available if you need immediate mental health support."
+  - text: "Work-related stress can be challenging, but you have the power to navigate it. Set realistic expectations, prioritize self-care, and seek support from therapy. If work-related stress becomes overwhelming, don't hesitate to contact Ukara Mental Health service for guidance."
+  - text: "I understand that work-related stress can be overwhelming. Focus on self-care, practice stress-management techniques, and consider therapy as a resource. If you need immediate support, reach out to Ukara Mental Health service for assistance."
+
+  utter_academic_pressure:
+  - text: "Dealing with academic pressure can be challenging. Implementing effective study techniques, managing time well, and seeking support from teachers or academic resources can make a difference. If academic pressure is negatively impacting your mental health, therapy can provide valuable tools. Remember, Ukara Mental Health service is available for additional support."
+  - text: "Managing academic pressure requires finding a balance. Prioritize self-care, seek help when needed, and consider therapy to develop effective coping strategies. If you're in immediate distress, please reach out to Ukara Mental Health service for assistance."
+  - text: "Academic pressure can be tough, but remember to prioritize your well-being. Utilize time management techniques, ask for support when needed, and consider therapy to navigate academic stress. If you ever need immediate mental health support, contact Ukara Mental Health service."
+  - text: "Academic pressure is common, but it's important to prioritize your mental well-being. Find study techniques that work for you, seek assistance when needed, and consider therapy for additional support. If academic pressure becomes overwhelming, reach out to Ukara Mental Health service for guidance."
+  - text: "Managing academic pressure is a journey. Take breaks, practice self-care, and seek support from teachers or academic counselors. If you're feeling overwhelmed, remember that Ukara Mental Health service is available for additional assistance."
+
+  utter_sleep_problems:
+  - text: "Having trouble sleeping? Many factors can affect sleep quality, such as stress, lifestyle, and sleep environment. Establishing a bedtime routine and creating a sleep-friendly environment in your bedroom can help. If sleep problems persist, consider seeking support from Ukara Mental Health service."
+  - text: "Sleep problems can be challenging. You're not alone. Common causes include stress, anxiety, and unhealthy sleep habits. Try relaxation techniques like deep breathing or guided meditation. For persistent issues, consider reaching out to Ukara Mental Health service for professional assistance."
+  - text: "Struggling with sleep? Lack of sleep can impact mental health. To improve sleep quality, establish a consistent bedtime routine, avoid electronic devices before bed, and create a comfortable sleep environment. Remember, Ukara Mental Health service is here to support you if needed."
+  - text: "Quality sleep is essential for overall well-being. If you're experiencing difficulty falling or staying asleep, consider practicing relaxation techniques, such as deep breathing exercises or meditation. Remember, if sleep problems persist, seeking assistance from Ukara Mental Health service is important."
+  - text: "Creating a healthy sleep routine can make a big difference. Try incorporating relaxation techniques like deep breathing or guided meditation before bed. If you continue to face sleep problems, remember that Ukara Mental Health service is available to provide the support you need."
+
+  utter_emotional_regulation:
+  - text: "Emotional regulation is key to well-being. Techniques like deep breathing, mindfulness, and therapy can help. Remember to be gentle with yourself and seek support when needed. If you require immediate assistance, consider reaching out to Ukara Mental Health service."
+  - text: "Managing emotions can be challenging. Practice emotional self-control through techniques like deep breathing and mindfulness. Seeking therapy can also provide valuable guidance. Remember, Ukara Mental Health service is there to support you if you need to discuss your concerns further."
+  - text: "Balancing emotions is important for mental well-being. Explore techniques like deep breathing, mindfulness, and therapy to better regulate your emotions. Remember to show yourself kindness and reach out to Ukara Mental Health service if you need professional assistance."
+  - text: "Emotional self-regulation is a journey. Techniques like deep breathing, mindfulness, and therapy can be helpful tools. Remember to be patient with yourself and consider seeking support from Ukara Mental Health service when needed."
+  - text: "Cultivating emotional self-control takes practice. Explore techniques such as deep breathing exercises, mindfulness, and therapy. Remember, Ukara Mental Health service is available if you feel the need to discuss your emotions further."
+
+  utter_self_compassion:
+  - text: "Practicing self-compassion is vital for well-being. Be kind to yourself, challenge self-criticism, and seek support when needed. Remember, Ukara Mental Health service can provide professional guidance and resources if you require further assistance."
+  - text: "Self-compassion is a powerful practice. Treat yourself with kindness, challenge negative self-talk, and seek therapy if necessary. Remember, Ukara Mental Health service is there to support you along your journey."
+  - text: "Developing self-compassion is essential. Practice self-kindness, challenge self-judgment, and seek support when needed. Remember, Ukara Mental Health service can provide assistance and resources to help you cultivate self-compassion."
+  - text: "Being kind to yourself is important. Embrace self-compassion by challenging self-criticism, practicing self-care, and seeking therapy when necessary. Ukara Mental Health service is available to provide the support you need."
+  - text: "Self-compassion is a transformative practice. Treat yourself with kindness, practice self-acceptance, and reach out to Ukara Mental Health service if you need guidance or support."
+
+  utter_meditation_techniques:
+  - text: "Meditation offers many benefits for mental well-being. Explore techniques like mindful breathing, body scan meditation, and loving-kindness meditation. Consider incorporating meditation into your daily routine for a positive impact on your mental health."
+  - text: "Meditation can be a powerful tool for mental well-being. Try techniques like mindful breathing, guided meditation, or body scan meditation. Remember, consistency is key. Find a technique that resonates with you and make it a part of your daily routine."
+  - text: "Interested in meditation? It can have a profound effect on mental health. Explore techniques like mindful breathing, guided meditation, or visualization exercises. Remember, the Ukara Mental Health service can provide additional resources and guidance if needed."
+  - text: "Meditation can be a transformative practice. Explore techniques like mindful breathing, body scan meditation, or loving-kindness meditation. Remember, finding a technique that resonates with you is key. The Ukara Mental Health service is available for further support."
+  - text: "Meditation can bring peace and clarity to the mind. Try techniques like mindful breathing, guided meditation, or visualization exercises. Remember, Ukara Mental Health service is there to support you if you have any questions or need additional guidance."
+
+  utter_breathing_exercises:
+  - text: "Deep breathing exercises promote relaxation and calmness. Try techniques like diaphragmatic breathing, box breathing, or 4-7-8 breathing. Incorporate these exercises into your daily routine for stress reduction and improved well-being."
+  - text: "Deep breathing exercises can help reduce stress and promote relaxation. Try techniques like diaphragmatic breathing, box breathing, or alternate nostril breathing. Remember, consistency is key. Practice these exercises regularly for optimal benefits."
+  - text: "Need a moment to relax? Deep breathing exercises can do wonders. Try techniques like diaphragmatic breathing, box breathing, or the 4-7-8 method. Incorporate these exercises into your routine for a sense of calm and balance."
+  - text: "Deep breathing exercises are simple yet effective for relaxation. Techniques like diaphragmatic breathing, box breathing, or square breathing can help calm the mind and body. Remember, Ukara Mental Health service is available to provide further support and guidance."
+  - text: "Incorporating deep breathing exercises into your routine can promote relaxation. Try techniques like diaphragmatic breathing, box breathing, or the 4-7-8 method. Remember, the Ukara Mental Health service can provide additional resources if needed."
+
+  utter_positive_psychology:
+  - text: "Positive psychology focuses on well-being and happiness. Explore concepts like gratitude, resilience, and mindfulness. Incorporating these practices into your life can have a positive impact on your mental well-being."
+  - text: "Positive psychology is all about cultivating happiness and well-being. Explore practices like gratitude, resilience, and self-reflection. Remember, incorporating these principles into your daily life can lead to a more positive mindset."
+  - text: "Interested in positive psychology? It emphasizes well-being, gratitude, and resilience. Explore practices like gratitude journaling, positive affirmations, and acts of kindness. Remember, Ukara Mental Health service is there to support you on your journey."
+  - text: "Positive psychology can transform your outlook on life. Explore concepts like gratitude, optimism, and self-reflection. Remember, the Ukara Mental Health service can provide guidance and resources if you want to delve deeper into positive psychology."
+  - text: "Positive psychology focuses on flourishing and well-being. Incorporate practices like gratitude, mindfulness, and positive self-talk into your daily life. Remember, the Ukara Mental Health service is available to provide support and guidance along the way."
+
+  utter_gratitude_practices:
+  - text: "Gratitude practices have numerous benefits for mental well-being. Try keeping a gratitude journal, expressing gratitude to others, or practicing mindfulness of gratitude. Incorporate these practices into your daily routine for a positive mindset."
+  - text: "Practicing gratitude can have a profound effect on mental health. Try gratitude journaling, writing thank-you notes, or practicing gratitude meditation. Remember, consistency is key. Find a practice that resonates with you and make it a habit."
+  - text: "Incorporating gratitude into your life can foster a positive outlook. Try keeping a gratitude journal, expressing appreciation to others, or practicing gratitude meditation. Remember, Ukara Mental Health service is there to support you on your journey."
+  - text: "Gratitude practices can bring joy and positivity to your life. Try gratitude journaling, writing gratitude letters, or practicing gratitude meditation. Remember, the Ukara Mental Health service can provide additional resources and guidance if needed."
+  - text: "Want to cultivate gratitude? Try practices like keeping a gratitude journal, expressing appreciation to loved ones, or practicing gratitude meditation. Remember, Ukara Mental Health service is available to provide support and resources along the way."
+
+  utter_assertiveness_training:
+  - text: "Assertiveness training can empower you in communication. Practice setting boundaries, using assertive language, and active listening. Remember, assertiveness is a skill that can be developed with time and practice."
+  - text: "Becoming more assertive can improve your communication skills. Try assertiveness exercises, role-playing scenarios, or learning assertive phrases. Remember, Ukara Mental Health service is there to support you on your journey towards assertiveness."
+  - text: "Interested in assertiveness training? It can enhance your communication skills. Practice setting boundaries, expressing your needs, and assertive problem-solving. Remember, the Ukara Mental Health service can provide additional resources if needed."
+  - text: "Assertiveness is a valuable skill for effective communication. Explore techniques like setting clear boundaries, using assertive body language, and active listening. Remember, the Ukara Mental Health service is available to provide guidance and support."
+  - text: "Want to improve your assertiveness? Practice setting boundaries, expressing your opinions confidently, and active listening. Remember, Ukara Mental Health service is there to provide support and resources for your assertiveness journey."
+
+  utter_coping_with_trauma:
+  - text: "Coping with trauma can be challenging, but there are strategies that can help. Practice self-care, seek support from trusted individuals, and consider therapy. Remember, Ukara Mental Health service is available to provide guidance and support on your healing journey."
+  - text: "Coping with trauma requires resilience and self-care. Practice grounding techniques, engage in activities you enjoy, and reach out to trusted individuals for support. Remember, healing takes time, and the Ukara Mental Health service is there to assist you."
+  - text: "Dealing with trauma can be overwhelming, but there are ways to cope. Practice self-care, engage in activities that bring you joy, and consider seeking professional help. Remember, Ukara Mental Health service is available to provide support and resources."
+  - text: "Coping with trauma is a journey that requires self-care and support. Practice mindfulness, engage in creative outlets, and seek therapy if needed. Remember, the Ukara Mental Health service is there to support you on your healing path."
+  - text: "Trauma recovery is a process that takes time and self-compassion. Practice self-care, connect with support networks, and consider therapy. Remember, Ukara Mental Health service is available to provide professional assistance and resources."
+
+  utter_self_harm:
+  - text: "I'm really sorry to hear that you're struggling with self-harm. It's important to seek help and support. Reach out to Ukara Mental Health service or a trusted person in your life. You don't have to face this alone."
+  - text: "I'm sorry to hear that you're experiencing self-harm. It's crucial to prioritize your well-being and seek assistance. Consider reaching out to Ukara Mental Health service for professional support. Remember, you're not alone in this journey."
+  - text: "I'm here for you, and I'm sorry to hear that you're going through self-harm. It's important to talk to someone you trust or contact Ukara Mental Health service. They can provide the help and guidance you need."
+  - text: "I'm really sorry to hear about your struggle with self-harm. Remember, reaching out for support is a courageous step. Consider contacting Ukara Mental Health service to speak with a professional who can provide the guidance you need."
+  - text: "I'm here to support you, and I'm sorry to hear that you're engaging in self-harm. It's essential to seek help from a mental health professional or reach out to Ukara Mental Health service. They can provide the assistance you need to overcome this challenge."
+
+  utter_substance_abuse:
+  - text: "If you're dealing with substance abuse, it's important to seek help. Reach out to Ukara Mental Health service or a professional in your area for guidance and support. You don't have to face this alone."
+  - text: "I'm sorry to hear that you're struggling with substance abuse. It's crucial to seek help and support. Reach out to Ukara Mental Health service or a trusted individual in your life who can guide you on the path to recovery."
+  - text: "I'm here to support you, and I'm sorry to hear about your struggles with substance abuse. It's important to reach out for help. Consider contacting Ukara Mental Health service or a local addiction support center to find the assistance you need."
+  - text: "I'm sorry to hear that you're facing challenges with substance abuse. Remember, you're not alone, and help is available. Reach out to Ukara Mental Health service or a professional who specializes in addiction recovery for guidance and support."
+  - text: "I'm really sorry to hear that you're dealing with substance abuse. It's important to prioritize your well-being and seek professional help. Consider reaching out to Ukara Mental Health service or a local support group to start your journey toward recovery."
+
+  utter_alcohol_addiction:
+  - text: "Alcohol addiction can have serious impacts on physical and mental health. If you're looking to overcome alcohol addiction, consider seeking professional help from a healthcare provider or support groups. They can provide guidance, resources, and personalized treatment options. Remember, recovery is a journey, and with the right support, you can make positive changes."
+  - text: "Overcoming alcohol addiction is a challenging process, but you're not alone. Seek support from healthcare professionals, such as therapists or addiction specialists, who can provide evidence-based treatments and strategies. Support groups can also offer valuable guidance and understanding. Remember, taking the first step towards recovery is a courageous decision."
+  - text: "Recognizing the need for change is the first step towards overcoming alcohol addiction. Seek support from healthcare professionals who specialize in addiction treatment. They can guide you through personalized treatment plans, therapy sessions, and coping strategies. Remember, recovery is a gradual process, and it's important to be patient and kind to yourself."
+  - text: "Alcohol addiction can be challenging, but there are steps you can take towards recovery. Reach out to healthcare professionals who can assess your situation and provide appropriate treatment options. Support groups can also offer valuable insights and a sense of community. Remember, seeking help is a sign of strength, and recovery is possible."
+  - text: "If you're concerned about alcohol addiction, it's important to seek support from healthcare professionals who specialize in addiction treatment. They can help you explore treatment options, develop coping strategies, and address underlying factors. Remember, recovery is a unique journey, and there are resources available to support you every step of the way."
+
+  utter_smoking_cessation:
+  - text: "Quitting smoking is a courageous decision for your health. Consider reaching out to healthcare professionals who can provide guidance and support throughout the process. They may recommend effective methods such as medication, counseling, or support groups. Remember, every small step counts towards a smoke-free future."
+  - text: "Breaking free from nicotine addiction can be challenging, but it's worth the effort. Seek support from healthcare professionals who can assist you in developing a personalized quitting plan. They may recommend various strategies, medications, or therapies to help manage cravings. Remember, you're capable of overcoming this addiction, and support is available."
+  - text: "If you're finding it difficult to quit smoking, know that you're not alone. Reach out to healthcare professionals who specialize in smoking cessation. They can provide guidance, resources, and strategies tailored to your needs. Support groups can also offer valuable insights and encouragement. Remember, every quit attempt brings you closer to success."
+  - text: "Quitting smoking is a positive step towards better health. Consider seeking support from healthcare professionals who can assist you in developing a personalized quitting plan. They may recommend strategies, medications, or counseling to increase your chances of success. Remember, it's never too late to quit, and you deserve a healthier future."
+  - text: "Overcoming nicotine addiction requires determination and support. Reach out to healthcare professionals who can guide you through the quitting process. They may recommend evidence-based methods, such as counseling or nicotine replacement therapy, to manage cravings. Remember, with the right support and mindset, you can achieve a smoke-free life."
+
+  utter_supportive_therapies:
+  - text: "Supportive therapies play a vital role in promoting mental well-being. They can include various approaches like cognitive-behavioral therapy, mindfulness, or art therapy. These therapies aim to enhance coping skills, promote self-awareness, and provide emotional support. Consider reaching out to mental health professionals who specialize in these approaches."
+  - text: "Supportive therapies offer valuable tools for maintaining psychological well-being. They encompass a range of approaches, including talk therapy, holistic practices, and self-help techniques. These therapies focus on developing coping strategies, improving self-esteem, and fostering resilience. Consider exploring different therapy options and finding what resonates with you."
+  - text: "Supportive therapies are designed to support mental health and emotional well-being. They can include various modalities like counseling, psychotherapy, or group therapy. These therapies aim to provide a safe space for exploring thoughts and emotions, developing coping mechanisms, and fostering personal growth. Consider reaching out to mental health professionals who specialize in these therapies."
+  - text: "Supportive therapies offer individuals the opportunity to explore and address their mental health concerns. They encompass a wide range of approaches, such as cognitive-behavioral therapy, psychodynamic therapy, or expressive arts therapy. These therapies focus on developing self-awareness, improving coping skills, and fostering positive change. Consider connecting with mental health professionals who can guide you through these therapeutic journeys."
+  - text: "Supportive therapies can be instrumental in promoting mental well-being. They encompass various approaches, such as counseling, psychotherapy, or mindfulness-based practices. These therapies provide a supportive environment to explore emotions, develop coping mechanisms, and gain insight into oneself. Consider connecting with mental health professionals who can help you find the right therapy for your needs."
+
+  utter_mental_health_stigma:
+  - text: "Reducing mental health stigma is crucial for creating a more inclusive and understanding society. We can combat stigma by educating ourselves and others about mental health, challenging stereotypes, and promoting empathy. Remember, small actions like using respectful language and supporting those who seek help can make a significant impact."
+  - text: "Mental health stigma can be harmful and prevent individuals from seeking the help they need. We can contribute to reducing stigma by promoting open conversations, dispelling myths, and showing compassion towards those facing mental health challenges. Remember, everyone deserves understanding and support on their journey towards well-being."
+  - text: "Mental health stigma can create barriers for individuals seeking help. We can combat stigma by raising awareness, challenging stereotypes, and fostering a culture of empathy and acceptance. Remember, everyone's mental health matters, and by reducing stigma, we can create a more supportive environment for all."
+  - text: "Breaking down mental health stigma is essential for creating a compassionate society. We can challenge stigma by educating ourselves, promoting empathy, and treating mental health as we would any other health condition. Remember, together, we can create a supportive community where everyone feels comfortable seeking help."
+  - text: "Reducing mental health stigma requires collective effort. We can challenge stigma by promoting understanding, sharing personal stories, and advocating for equal treatment. Remember, by supporting and accepting individuals with mental health challenges, we create a more inclusive society where everyone can thrive."
+
+  utter_professional_help_seeking:
+  - text: "Knowing when to seek professional help is an important step towards prioritizing your mental health. If you're experiencing persistent distress, difficulty functioning, or your well-being is significantly affected, consider reaching out to mental health professionals. They can provide appropriate assessment, guidance, and evidence-based treatments tailored to your needs."
+  - text: "Seeking professional help for mental health is a sign of strength and self-care. If your symptoms or challenges persist and interfere with your daily life, consider connecting with mental health professionals. They can help assess your situation, provide personalized treatment options, and support you on your path to well-being."
+  - text: "If you're unsure about seeking professional help, know that it can provide valuable support and guidance. Mental health professionals are trained to assess, diagnose, and treat various mental health concerns. They can offer strategies, therapies, and interventions to help you navigate challenges and promote well-being. Remember, you don't have to face it alone."
+  - text: "When it comes to your mental health, seeking professional help can make a significant difference. If you're experiencing persistent distress, emotional challenges, or difficulties functioning, consider reaching out to mental health professionals. They can provide a safe space, offer evidence-based treatments, and support you on your healing journey."
+  - text: "Recognizing the signs that indicate the need for professional help is an important step towards better mental health. If you're facing persistent symptoms, significant distress, or your quality of life is affected, consider seeking support from mental health professionals. They can provide expert guidance, personalized treatments, and a compassionate ear."
+
+  utter_cultural_influences_on_mental_health:
+  - text: "Culture plays a significant role in shaping our perspectives on mental health. It's important to recognize that different cultures may have unique beliefs, practices, and approaches to mental well-being. By fostering cultural competence, integrating diverse perspectives, and respecting cultural norms, we can create more inclusive and effective mental health support."
+  - text: "Cultural influences can have a profound impact on mental health. It's essential to understand that cultural backgrounds shape individuals' experiences, beliefs, and help-seeking behaviors. By promoting cultural competence, tailoring treatments to individual needs, and addressing cultural barriers, we can enhance the effectiveness of mental health support."
+  - text: "Culture and mental health are intertwined, and it's crucial to acknowledge the diverse perspectives that shape individuals' experiences. Cultural practices, norms, and beliefs can significantly influence mental well-being. By fostering cultural awareness, integrating diverse approaches, and promoting culturally sensitive care, we can enhance mental health support for all."
+  - text: "The intersection of culture and mental health is complex and requires a nuanced understanding. Cultural factors, such as beliefs, values, and social norms, influence mental health experiences and help-seeking behaviors. By promoting cultural competence, tailoring interventions, and addressing cultural barriers, we can improve mental health support for individuals from diverse backgrounds."
+  - text: "Culture plays a vital role in shaping our understanding and experiences of mental health. It's important to recognize and respect the cultural influences on mental well-being, as they can impact help-seeking behaviors and treatment preferences. By fostering cultural competence, promoting inclusive practices, and providing culturally sensitive resources, we can enhance mental health support for everyone."
+
+  utter_healthy_relationships:
+  - text: "Building and maintaining healthy relationships requires open communication, mutual respect, and setting boundaries. Prioritizing self-care, active listening, and seeking couples therapy or relationship counseling can also contribute to nurturing healthy connections. Remember, it's important to prioritize your well-being and foster relationships based on trust and mutual growth."
+  - text: "Healthy relationships are built on trust, effective communication, and mutual respect. Setting boundaries, practicing active listening, and prioritizing quality time can contribute to nurturing positive connections. Remember, it's okay to seek professional help, such as couples therapy or relationship counseling, if challenges arise. Healthy relationships require effort and commitment from both parties."
+  - text: "Cultivating healthy relationships involves open communication, empathy, and respect. It's important to set boundaries, practice active listening, and prioritize self-care within the relationship. Seeking couples therapy or relationship counseling can provide valuable guidance and support. Remember, healthy relationships are built on shared growth and understanding."
+  - text: "Healthy relationships are founded on trust, effective communication, and mutual support. Setting boundaries, practicing empathy, and resolving conflicts in a constructive manner contribute to relationship well-being. Consider exploring resources like couples therapy or relationship counseling to enhance your connection. Remember, building a healthy relationship is an ongoing journey."
+  - text: "Healthy relationships thrive on open communication, trust, and shared values. It's important to prioritize each other's well-being, practice active listening, and address conflicts in a respectful manner. Seeking couples therapy or relationship counseling can provide additional tools and support. Remember, nurturing a healthy relationship requires continuous effort and understanding."
+
+  utter_boundaries_and_assertiveness:
+  - text: "Establishing and maintaining healthy boundaries is crucial for your well-being. Start by clearly communicating your needs and limits to others. Practice assertiveness techniques like using 'I' statements and setting consequences for boundary violations. Remember, respecting your own boundaries is essential for healthy relationships and self-care."
+  - text: "Setting boundaries is important for your emotional and mental health. Communicate your limits openly and assertively. Consider seeking resources like self-help books or classes on assertiveness and boundaries. Remember, prioritizing your needs and well-being is not selfish but necessary for a balanced life."
+  - text: "Assertiveness and clear boundaries are vital for healthy relationships. Practice saying no when necessary and expressing your needs assertively. Seek support from self-help resources or therapy if you struggle with setting and maintaining boundaries. Remember, you deserve to be respected and have your limits honored."
+  - text: "Creating and maintaining healthy boundaries is essential for your overall well-being. Clearly communicate your limits, needs, and expectations to others. Learn assertiveness techniques to express yourself effectively. Remember, setting boundaries is a form of self-care and promotes healthy relationships."
+  - text: "Boundaries and assertiveness are crucial for maintaining healthy relationships and self-care. Practice clear communication, say no when needed, and seek resources on assertiveness. Remember, it's okay to prioritize your well-being and establish boundaries that support your mental health."
+
+  utter_parenting_challenges:
+  - text: "Parenting can be challenging, but you're not alone. Seek support from parenting resources, support groups, or classes. Prioritize self-care to manage stress and overwhelm effectively. Remember, fostering a positive parent-child relationship and seeking help when needed are important for your well-being and your child's development."
+  - text: "Parenting comes with its challenges, but there are strategies to help. Find support through parenting resources, classes, or support groups. Prioritize self-care and manage stress to be the best parent you can be. Remember, seeking help and fostering a positive relationship with your child are key."
+  - text: "Parenting challenges are common, and it's important to seek support. Find resources, support groups, or classes to learn effective parenting techniques. Practice self-care to manage stress and guilt. Remember, nobody is a perfect parent, and seeking help is a sign of strength and love for your child."
+  - text: "Parenting can be overwhelming, but there are strategies to navigate challenges. Prioritize self-care, seek support from parenting resources or support groups, and practice effective communication with your child. Remember, you're doing your best, and seeking help is a sign of strength and dedication to your family."
+  - text: "Parenting is filled with challenges, and it's important to take care of yourself. Seek support from parenting resources, classes, or support groups. Prioritize self-care and find a balance between work, parenting, and self-care. Remember, you're doing a great job, and it's okay to ask for help when needed."
+
+  utter_body_dysmorphia:
+  - text: "Body dysmorphia can impact mental health, but there are ways to cope. Practice self-care, challenge negative thoughts, and seek professional help if needed. Remember, your worth is not defined by your appearance, and there are resources available to support you on your journey to a healthier body image."
+  - text: "Body dysmorphia can be challenging, but there are strategies to improve body image. Practice self-compassion, challenge negative thoughts, and seek support from therapy or support groups. Remember, you are more than your appearance, and there are resources to help you develop a positive body image."
+  - text: "Body dysmorphia can affect mental health, but there is support available. Practice self-care, challenge negative body image thoughts, and consider therapy or support groups specializing in body dysmorphia. Remember, your worth is not solely determined by your appearance, and healing is possible."
+  - text: "Body dysmorphia can impact self-esteem, but there are strategies to cope and improve body image. Practice self-acceptance, challenge negative thoughts, and seek help from professionals specializing in body dysmorphia. Remember, your value goes beyond your physical appearance, and there is hope for healing."
+  - text: "Body dysmorphia can be challenging, but you're not alone. Practice self-care, challenge negative body image thoughts, and seek support from therapists or support groups. Remember, your worth extends far beyond your physical appearance, and there are resources available to help you navigate body dysmorphia."
+
+  utter_performance_anxiety:
+  - text: "Managing performance anxiety is possible with the right strategies. Practice relaxation techniques, positive self-talk, and visualization exercises. Seek support from professionals if needed. Remember, building confidence takes time, and every step forward is progress."
+  - text: "Performance anxiety can be overcome with the right techniques. Practice deep breathing, visualization, and positive affirmations. Seek guidance from professionals if necessary. Remember, you have the ability to succeed and grow, and anxiety doesn't define your potential."
+  - text: "Performance anxiety is common, but you can manage it. Prioritize self-care, practice relaxation techniques, and challenge negative thoughts. Seek support from professionals if needed. Remember, your worth is not determined by your performance, and you have the resilience to overcome anxiety."
+  - text: "Performance anxiety is normal, and there are strategies to cope with it. Practice mindfulness, deep breathing, and positive self-talk. Seek guidance from professionals or coaches specializing in performance anxiety. Remember, you have the ability to succeed and thrive, despite anxious feelings."
+  - text: "Managing performance anxiety is possible with the right tools. Practice grounding techniques, positive visualization, and self-compassion. Seek support from professionals if needed. Remember, anxiety doesn't define your abilities, and you have the strength to overcome it."
+
+  utter_burnout_prevention:
+  - text: "Preventing burnout is essential for your well-being. Set boundaries, practice self-care, and prioritize activities that bring you joy. Seek support from loved ones or professionals if needed. Remember, taking care of yourself is not selfish but necessary for sustained success and happiness."
+  - text: "Avoiding burnout requires self-care and boundary setting. Prioritize rest, delegate tasks when possible, and practice stress management techniques. Seek support from loved ones or professionals if needed. Remember, you deserve a balanced and fulfilling life, free from burnout."
+  - text: "Preventing burnout starts with self-care and boundary setting. Prioritize rest, engage in activities you enjoy, and seek support from loved ones or professionals. Remember, taking care of your well-being allows you to thrive and contribute your best."
+  - text: "Preventing burnout is crucial for your overall well-being. Establish boundaries, practice self-care, and seek a healthy work-life balance. Prioritize activities that rejuvenate you and seek support if needed. Remember, your well-being matters, and burnout is not a measure of success."
+  - text: "Burnout prevention is vital for your mental and physical health. Prioritize self-care, set boundaries, and engage in stress-relieving activities. Seek support from loved ones or professionals if needed. Remember, taking care of yourself allows you to be your best in all areas of life."
+
+  utter_resilience_building:
+  - text: "Building resilience is an ongoing journey. Cultivate a positive mindset, seek social support, and practice self-compassion. Embrace challenges as opportunities for growth and remember that setbacks are temporary. You have the strength within you to overcome difficulties and thrive."
+  - text: "Resilience is a skill that can be developed. Practice self-care, cultivate gratitude, and build a strong support system. Learn from setbacks and believe in your ability to bounce back. Remember, you are capable of adapting, growing, and finding strength in the face of adversity."
+  - text: "Resilience can be nurtured through self-care, positive thinking, and seeking support from others. Embrace challenges as opportunities for growth, and remember that setbacks are part of the journey. Believe in your own resilience and know that you have the power to overcome obstacles."
+  - text: "Building resilience takes time and effort. Practice self-care, develop a growth mindset, and seek support from loved ones or professionals. Embrace challenges as learning experiences and remember that your past does not dictate your future. You have the resilience to overcome any obstacles."
+  - text: "Resilience is a skill that can be cultivated. Prioritize self-care, practice self-compassion, and seek support from loved ones. Embrace challenges as opportunities for growth and remember that setbacks are temporary. Believe in your own resilience and keep moving forward."
+
+  utter_traumatic_experiences:
+  - text: "Coping with traumatic experiences can be challenging, but you're not alone. Practice self-care, seek professional support, and consider therapy options such as trauma-focused therapy. Remember, healing takes time, and there are resources available to support you on your journey."
+  - text: "Dealing with trauma is difficult, but healing is possible. Prioritize self-care, reach out for professional support, and consider therapy specializing in trauma. Remember, you deserve support and understanding as you navigate your healing process."
+  - text: "Coping with traumatic experiences is a journey, and it's important to prioritize self-care. Seek professional help specializing in trauma, practice grounding techniques, and consider support groups. Remember, you are not defined by your past, and healing is possible."
+  - text: "Coping with trauma can be challenging, but there are resources available to support you. Practice self-care, reach out to professionals specializing in trauma, and consider therapy options such as EMDR or cognitive-behavioral therapy. Remember, healing is a gradual process, and you are not alone."
+  - text: "Healing from traumatic experiences takes time and support. Prioritize self-care, seek professional help specializing in trauma, and consider therapy options like EMDR or exposure therapy. Remember, your journey to healing is unique, and there are resources available to guide you."
+
+  utter_suicidal_thoughts_prevention:
+  - text: "If you're having suicidal thoughts, it's crucial to reach out for help immediately. Contact helplines such as Ukara Mental Health Service or emergency services in your country. Remember, you're not alone, and there are people who can provide the support you need."
+  - text: "If you're experiencing suicidal thoughts, it's important to seek help right away. Contact helplines like Ukara Mental Health Service or emergency services in your country. Remember, reaching out for support is a sign of strength, and there are professionals available to assist you."
+  - text: "If you're struggling with suicidal thoughts, please reach out for help immediately. Contact helplines such as Ukara Mental Health Service or emergency services in your country. Remember, there are people who care about you and want to help you through this difficult time."
+  - text: "If you're feeling suicidal, it's crucial to seek immediate help. Contact helplines like Ukara Mental Health Service or emergency services in your country. Remember, you don't have to face this alone, and there are professionals who can provide the support you need."
+  - text: "If you're experiencing suicidal thoughts, please seek help right away. Contact helplines such as Ukara Mental Health Service or emergency services in your country. Remember, you matter, and there are people who care about your well-being and want to support you."
+
+  utter_coping_chronic_illness:
+  - text: "Living with a chronic illness can be challenging, but there are strategies to help you cope. Practice self-care by managing your physical and emotional health. Join support groups for individuals with chronic illnesses to connect with others who understand your experience. Communicate your needs to your loved ones, and remember to seek professional help if needed. Explore available resources for more information and support."
+  - text: "Coping with a chronic illness requires self-care and support. Take care of your physical and mental well-being through healthy habits and stress management techniques. Connect with others who share similar experiences in support groups. Communicate openly with your loved ones about your needs, and don't hesitate to seek professional help when necessary. Explore available resources for additional guidance and support."
+  - text: "Chronic illness can bring challenges, but you're not alone. Prioritize self-care by maintaining a healthy lifestyle and engaging in activities that bring you joy. Seek support from support groups and loved ones who can provide understanding and empathy. Remember to communicate your needs and seek professional help if needed. Utilize available resources to learn more about managing your chronic illness."
+  - text: "Living with a chronic illness can be tough, but there are ways to cope. Focus on self-care and prioritize your well-being. Seek support from others who understand your journey, whether through support groups or online communities. Communicate openly with your loved ones about your needs, and remember that professional help is available if you need it. Explore resources to learn more about managing your chronic illness."
+  - text: "Managing a chronic illness can be challenging, but there are strategies to help you navigate the journey. Practice self-care by prioritizing your physical and mental well-being. Connect with support groups and organizations that can provide guidance and understanding. Communicate your needs to your loved ones, and reach out for professional help if necessary. Explore available resources for additional support and information."
+
+  utter_neurodiversity_mental_health:
+  - text: "Neurodiversity can impact mental health in unique ways. If you're neurodivergent, it's important to find support and coping strategies. Seek out communities and resources that understand your experiences. Explore accommodations that can help improve your mental well-being. Focus on self-esteem and self-acceptance, and consider therapies tailored to neurodivergent individuals. Remember to advocate for yourself and educate others about the intersection of neurodiversity and mental health."
+  - text: "Neurodiversity can present specific mental health challenges, but there are ways to cope and find support. Seek out strategies and coping mechanisms that work for you as a neurodivergent individual. Connect with communities and organizations that offer understanding and guidance. Consider accommodations that can support your mental well-being. Remember to prioritize self-esteem and self-acceptance, and advocate for yourself in the context of neurodiversity and mental health."
+  - text: "Neurodiversity can influence mental health experiences, and finding support is crucial. Explore coping strategies designed for neurodivergent individuals. Connect with communities and organizations that specialize in supporting neurodivergent individuals' mental health. Consider accommodations that can improve your well-being. Focus on building self-esteem and self-acceptance, and don't hesitate to educate others about the unique intersection of neurodiversity and mental health."
+  - text: "Mental health challenges can be experienced differently for neurodivergent individuals. If you're neurodivergent, seek out coping strategies tailored to your needs. Connect with communities and organizations that understand your experiences. Explore accommodations that can enhance your mental well-being. Embrace self-acceptance and work on improving self-esteem. Remember to advocate for yourself and access specialized therapies when necessary."
+  - text: "Neurodiversity and mental health are interconnected, and finding support is important. Seek coping strategies and resources designed for neurodivergent individuals. Connect with communities and organizations that prioritize neurodivergent mental health. Explore accommodations that can support your well-being. Cultivate self-esteem and educate others about the intersection of neurodiversity and mental health."
+
+  utter_identity_self_discovery:
+  - text: "Self-discovery is an enriching journey that impacts mental well-being. Engage in self-reflection and exploration to understand your identity better. Try activities that promote self-discovery, such as journaling or creative expression. Embrace self-acceptance and let go of societal expectations. Building a positive self-image takes time, but remember that challenges are part of the process. Seek available resources for guidance and support during your self-discovery journey."
+  - text: "Exploring your identity and engaging in self-discovery can be transformative. Take time for self-reflection and self-exploration. Seek out activities that resonate with you and promote personal growth. Remember that self-acceptance plays a crucial role in identity formation. Embrace your true self and navigate conflicts between your identity and societal norms. Recognize that challenges are normal during self-discovery, and utilize available resources for guidance and support."
+  - text: "Self-discovery is a journey worth embarking on, and it can positively impact your mental well-being. Engage in self-reflection and self-exploration to understand your identity better. Seek activities that facilitate self-discovery, and prioritize self-acceptance over societal expectations. Building a positive self-image takes time, and it's essential to navigate conflicts with self-compassion. Remember that challenges during self-discovery are normal, and there are resources available to support you."
+  - text: "Embracing self-discovery and exploring your identity can lead to personal growth and improved mental well-being. Engage in self-reflection and self-exploration activities that resonate with you. Foster self-acceptance and let go of societal pressures. Building a positive self-image requires patience, but it's worth it. Recognize that conflicts between your identity and societal norms are common, and seek guidance from available resources during your self-discovery journey."
+  - text: "Self-discovery is a powerful journey that influences mental well-being. Take time for self-reflection and engage in activities that promote self-exploration. Embrace self-acceptance and release societal expectations. Building a positive self-image is an ongoing process, and it's normal to face challenges. Seek support from available resources as you navigate conflicts between your identity and societal norms."
+
+  utter_career_choices_satisfaction:
+  - text: "Making career choices aligned with your values and passions is essential for long-term satisfaction. Consider factors like your interests, skills, and values when deciding on a career path. Explore different options and utilize career planning resources. Overcome career-related anxiety by setting goals and breaking them down into manageable steps. Remember to prioritize work-life balance and seek meaning and purpose in your chosen career."
+  - text: "Finding career satisfaction requires thoughtful decision-making. Consider various factors, such as your interests, values, and skills, when choosing a career path. Explore different options and utilize available career planning resources. Overcome career-related anxiety by breaking your goals into smaller, achievable steps. Embrace work-life balance and seek meaning and purpose in your current job or career."
+  - text: "Career choices that align with your values and passions lead to greater satisfaction. Reflect on your interests, skills, and values when deciding on a career path. Explore different career options and use resources to support your decision-making process. Overcome career-related anxiety or uncertainty by setting realistic goals and creating actionable plans. Prioritize work-life balance and seek meaning in your current job or career."
+  - text: "Making career choices that align with your values and passions is key to finding satisfaction. Consider factors like your interests, skills, and values when exploring career options. Utilize resources to gather information and make informed decisions. Overcome career-related anxiety by breaking down your goals into smaller steps. Prioritize work-life balance and find meaning and purpose in your current job or career."
+  - text: "Choosing a career that aligns with your values and passions is crucial for long-term satisfaction. Reflect on your interests, skills, and values when exploring different career paths. Utilize career planning resources to gather information and make informed decisions. Overcome career-related anxiety by setting realistic goals and seeking support when needed. Prioritize work-life balance and strive to find meaning and fulfillment in your chosen career."
+
+  utter_coping_with_change:
+  - text: "Coping with major life changes can be challenging, but you have the resilience to adapt. Practice strategies for managing stress, such as mindfulness or journaling. Embrace uncertainty as an opportunity for growth and focus on building resilience. Seek support from loved ones or professional help if needed. Remember that change is a natural part of life, and resources are available to guide you through the process."
+  - text: "Adapting to change requires resilience and coping strategies. Practice techniques like mindfulness or deep breathing to manage stress during transitions. Embrace the unknown as an opportunity for personal growth. Cultivate a positive mindset and seek support from loved ones or professional resources. Remember that change is a constant in life, and it's normal to face challenges along the way."
+  - text: "Coping with major life changes can be overwhelming, but you can navigate them successfully. Develop strategies for managing stress, such as engaging in activities you enjoy or seeking professional help if needed. Embrace uncertainty and view change as an opportunity for personal growth. Remember that resilience plays a crucial role in adapting to new circumstances. Explore available resources for additional guidance and support."
+  - text: "Dealing with major life changes can be daunting, but you're capable of adapting. Focus on managing stress through techniques like exercise, meditation, or talking to someone you trust. Embrace the unknown as an opportunity for personal development. Cultivate resilience and seek support from your support network or professionals when necessary. Remember that challenges are normal during transitions, and resources are available to assist you."
+  - text: "Coping with change requires resilience and adaptability. Practice stress management techniques, such as exercise or mindfulness, during times of transition. Embrace the unknown as a chance for personal growth and self-discovery. Seek support from loved ones or professional resources to navigate challenges. Remember that change is a constant in life, and there are resources available to help you through the process."
+
+  utter_forgiveness_letting_go:
+  - text: "Forgiving others and letting go of resentment can be a healing process. Explore strategies like empathy and perspective-taking to cultivate forgiveness. Understand the benefits forgiveness brings to your own mental health. Seek healing through practices like therapy or forgiveness rituals. Set healthy boundaries to protect yourself after forgiving someone. Remember that closure and peace are attainable with self-care and time."
+  - text: "Forgiveness and letting go can bring healing and peace. Practice empathy and understanding towards others to foster forgiveness. Recognize the positive impact forgiveness has on your own mental well-being. Seek healing through therapy or forgiveness rituals. After forgiving someone, establish boundaries to maintain your well-being. Remember that closure and peace are possible through self-care and self-reflection."
+  - text: "Forgiving others and letting go of resentment is a transformative process. Cultivate empathy and understanding to foster forgiveness. Recognize that forgiveness is primarily for your own well-being and mental health. Seek healing through therapy or forgiveness practices. Set boundaries to protect yourself after forgiving someone. Remember that closure and peace can be achieved with self-care and patience."
+  - text: "Forgiveness and letting go can lead to emotional healing. Practice empathy and try to understand the perspective of others to foster forgiveness. Recognize the positive impact forgiveness has on your mental well-being. Seek support from therapy or forgiveness rituals to facilitate the healing process. Establish healthy boundaries to maintain your well-being after forgiving someone. Remember that closure and peace are achievable through self-care and personal growth."
+  - text: "Forgiveness and letting go are powerful acts of healing. Foster empathy and understanding to cultivate forgiveness towards others. Recognize that forgiveness benefits your own mental well-being. Seek support from therapy or forgiveness practices to aid in the process. Set healthy boundaries to prioritize your well-being after forgiving someone. Remember that closure and peace are within reach through self-care and self-reflection."
+
+
+
+
+
 
 session_config:
   session_expiration_time: 60
