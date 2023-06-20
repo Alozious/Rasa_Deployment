@@ -1512,514 +1512,514 @@ nlu:
     - How can I explain the effects of childhood trauma to others and seek their understanding?
     - Are there any resources or books on healing from childhood trauma that you recommend?
 
-# - intent: resilience_children
-#   examples: |
-#     - How can resilience be fostered in children?
-#     - What are some activities or exercises to promote resilience in children?
-#     - Can resilience help children overcome adverse experiences?
-#     - How does resilience contribute to children's mental well-being?
-#     - Are there any signs that indicate a child has developed resilience?
-#     - How can parents and caregivers support the development of resilience in children?
-#     - Are there any books or resources on building resilience in children?
-#     - Can resilience protect children from the negative effects of stress?
-#     - What are some strategies for helping children bounce back from setbacks?
-#     - Is it possible to teach resilience to children who have experienced trauma?
+- intent: resilience_children
+  examples: |
+    - How can resilience be fostered in children?
+    - What are some activities or exercises to promote resilience in children?
+    - Can resilience help children overcome adverse experiences?
+    - How does resilience contribute to children's mental well-being?
+    - Are there any signs that indicate a child has developed resilience?
+    - How can parents and caregivers support the development of resilience in children?
+    - Are there any books or resources on building resilience in children?
+    - Can resilience protect children from the negative effects of stress?
+    - What are some strategies for helping children bounce back from setbacks?
+    - Is it possible to teach resilience to children who have experienced trauma?
 
-# - intent: parenting_child_mental_health_challenges
-#   examples: |
-#     - How can I effectively parent a child with mental health challenges?
-#     - What are some strategies for supporting my child's mental health at home?
-#     - Can parenting styles impact a child's mental health?
-#     - How can I communicate with my child about their mental health challenges?
-#     - Are there any support groups or organizations for parents of children with mental health issues?
-#     - Can therapy or counseling be beneficial for both the child and the parent?
-#     - What are some self-care practices for parents dealing with their child's mental health challenges?
-#     - How can I educate myself about my child's specific mental health condition?
-#     - Are there any books or resources for parents navigating their child's mental health journey?
-#     - What are some common misconceptions about parenting a child with mental health challenges?
+- intent: parenting_child_mental_health_challenges
+  examples: |
+    - How can I effectively parent a child with mental health challenges?
+    - What are some strategies for supporting my child's mental health at home?
+    - Can parenting styles impact a child's mental health?
+    - How can I communicate with my child about their mental health challenges?
+    - Are there any support groups or organizations for parents of children with mental health issues?
+    - Can therapy or counseling be beneficial for both the child and the parent?
+    - What are some self-care practices for parents dealing with their child's mental health challenges?
+    - How can I educate myself about my child's specific mental health condition?
+    - Are there any books or resources for parents navigating their child's mental health journey?
+    - What are some common misconceptions about parenting a child with mental health challenges?
 
-# - intent: youth_mental_health_empowerment
-#   examples: |
-#     - How can we empower youth in terms of their mental health?
-#     - What are some initiatives or programs focused on youth mental health empowerment?
-#     - Can peer support groups play a role in empowering youth with mental health challenges?
-#     - How can schools and communities create a supportive environment for youth mental health?
-#     - Are there any resources or apps specifically designed to empower youth in managing their mental health?
-#     - What are some strategies for reducing the stigma surrounding youth mental health?
-#     - How can parents and caregivers encourage open dialogue about mental health with their children?
-#     - Can storytelling or artistic expression be used as tools for youth mental health empowerment?
-#     - What are some signs that a youth may need additional support for their mental health?
-#     - How can youth access mental health services and resources on their own?
+- intent: youth_mental_health_empowerment
+  examples: |
+    - How can we empower youth in terms of their mental health?
+    - What are some initiatives or programs focused on youth mental health empowerment?
+    - Can peer support groups play a role in empowering youth with mental health challenges?
+    - How can schools and communities create a supportive environment for youth mental health?
+    - Are there any resources or apps specifically designed to empower youth in managing their mental health?
+    - What are some strategies for reducing the stigma surrounding youth mental health?
+    - How can parents and caregivers encourage open dialogue about mental health with their children?
+    - Can storytelling or artistic expression be used as tools for youth mental health empowerment?
+    - What are some signs that a youth may need additional support for their mental health?
+    - How can youth access mental health services and resources on their own?
 
-# - intent: social_media_mental_health
-#   examples: |
-#     - How does social media impact mental health?
-#     - What are some signs that social media is negatively affecting my mental well-being?
-#     - Are there any strategies for using social media in a healthy and mindful way?
-#     - Can excessive use of social media contribute to anxiety or depression?
-#     - How can I set healthy boundaries with social media to protect my mental health?
-#     - Are there any social media platforms or communities that focus on mental health support?
-#     - What are some alternative activities I can engage in instead of spending time on social media?
-#     - Can social media be a helpful tool for finding support and resources for mental health?
-#     - What are some privacy and security measures I can take while using social media for mental health support?
-#     - How can I educate others about the potential negative impact of social media on mental health?
+- intent: social_media_mental_health
+  examples: |
+    - How does social media impact mental health?
+    - What are some signs that social media is negatively affecting my mental well-being?
+    - Are there any strategies for using social media in a healthy and mindful way?
+    - Can excessive use of social media contribute to anxiety or depression?
+    - How can I set healthy boundaries with social media to protect my mental health?
+    - Are there any social media platforms or communities that focus on mental health support?
+    - What are some alternative activities I can engage in instead of spending time on social media?
+    - Can social media be a helpful tool for finding support and resources for mental health?
+    - What are some privacy and security measures I can take while using social media for mental health support?
+    - How can I educate others about the potential negative impact of social media on mental health?
 
-# - intent: coping_natural_disasters
-#   examples: |
-#     - How can I cope with the mental and emotional effects of a natural disaster?
-#     - Are there any support services or hotlines available for people affected by natural disasters?
-#     - What are some common reactions to experiencing a natural disaster?
-#     - Can participating in community recovery efforts help with coping after a natural disaster?
-#     - How can I support others who have been impacted by a natural disaster?
-#     - Are there any specific self-care practices for individuals recovering from a natural disaster?
-#     - What are some signs that indicate I may need professional help to cope with a natural disaster?
-#     - Can participating in trauma-focused therapy be beneficial for natural disaster survivors?
-#     - How can I prepare myself mentally and emotionally for future natural disasters?
-#     - Are there any online forums or communities for sharing experiences and coping strategies after a natural disaster?
+- intent: coping_natural_disasters
+  examples: |
+    - How can I cope with the mental and emotional effects of a natural disaster?
+    - Are there any support services or hotlines available for people affected by natural disasters?
+    - What are some common reactions to experiencing a natural disaster?
+    - Can participating in community recovery efforts help with coping after a natural disaster?
+    - How can I support others who have been impacted by a natural disaster?
+    - Are there any specific self-care practices for individuals recovering from a natural disaster?
+    - What are some signs that indicate I may need professional help to cope with a natural disaster?
+    - Can participating in trauma-focused therapy be beneficial for natural disaster survivors?
+    - How can I prepare myself mentally and emotionally for future natural disasters?
+    - Are there any online forums or communities for sharing experiences and coping strategies after a natural disaster?
 
-# - intent: job_loss_unemployment_stress
-#   examples: |
-#     - How can I manage the stress of job loss and unemployment?
-#     - What are some strategies for coping with financial uncertainty during unemployment?
-#     - Can job loss and unemployment impact a person's mental health?
-#     - How can I maintain a positive mindset while searching for employment?
-#     - Are there any support groups or organizations for individuals dealing with job loss and unemployment?
-#     - Can career counseling or coaching be helpful during the job search process?
-#     - What are some ways to stay motivated and productive during periods of unemployment?
-#     - How can I address the emotional challenges that come with job loss and unemployment?
-#     - Are there any resources or workshops for developing new skills during unemployment?
-#     - How can I communicate with family and friends about my job loss and unemployment without feeling ashamed or embarrassed?
+- intent: job_loss_unemployment_stress
+  examples: |
+    - How can I manage the stress of job loss and unemployment?
+    - What are some strategies for coping with financial uncertainty during unemployment?
+    - Can job loss and unemployment impact a person's mental health?
+    - How can I maintain a positive mindset while searching for employment?
+    - Are there any support groups or organizations for individuals dealing with job loss and unemployment?
+    - Can career counseling or coaching be helpful during the job search process?
+    - What are some ways to stay motivated and productive during periods of unemployment?
+    - How can I address the emotional challenges that come with job loss and unemployment?
+    - Are there any resources or workshops for developing new skills during unemployment?
+    - How can I communicate with family and friends about my job loss and unemployment without feeling ashamed or embarrassed?
 
-# - intent: supporting_loved_one_mental_illness
-#   examples: |
-#     - How can I support a loved one with mental illness?
-#     - What are some effective ways to communicate with someone who has a mental illness?
-#     - Can I play a role in encouraging a loved one to seek professional help for their mental illness?
-#     - How can I educate myself about my loved one's specific mental health condition?
-#     - Are there any support groups or resources for family members of individuals with mental illness?
-#     - What are some self-care practices for individuals supporting a loved one with mental illness?
-#     - Can I assist my loved one in developing a mental health treatment plan or routine?
-#     - How can I be a source of emotional support without becoming overwhelmed myself?
-#     - What are some strategies for setting boundaries while supporting a loved one with mental illness?
-#     - Are there any books or documentaries that can help me better understand the experience of mental illness?
+- intent: supporting_loved_one_mental_illness
+  examples: |
+    - How can I support a loved one with mental illness?
+    - What are some effective ways to communicate with someone who has a mental illness?
+    - Can I play a role in encouraging a loved one to seek professional help for their mental illness?
+    - How can I educate myself about my loved one's specific mental health condition?
+    - Are there any support groups or resources for family members of individuals with mental illness?
+    - What are some self-care practices for individuals supporting a loved one with mental illness?
+    - Can I assist my loved one in developing a mental health treatment plan or routine?
+    - How can I be a source of emotional support without becoming overwhelmed myself?
+    - What are some strategies for setting boundaries while supporting a loved one with mental illness?
+    - Are there any books or documentaries that can help me better understand the experience of mental illness?
 
-# - intent: college_student_stressors_support
-#   examples: |
-#     - What are some common stressors faced by college students?
-#     - How can I manage academic stress and pressure as a college student?
-#     - Are there any resources or counseling services available for college students?
-#     - How can I balance my mental health and academic responsibilities in college?
-#     - Can peer support groups or clubs help with the challenges of college life?
-#     - What are some self-care practices for college students to prioritize their mental well-being?
-#     - How can I seek help or support from professors or campus staff when needed?
-#     - Are there any time management strategies for reducing stress and staying organized in college?
-#     - How can I address feelings of homesickness or loneliness while at college?
-#     - Can engaging in extracurricular activities or hobbies enhance my overall college experience?
+- intent: college_student_stressors_support
+  examples: |
+    - What are some common stressors faced by college students?
+    - How can I manage academic stress and pressure as a college student?
+    - Are there any resources or counseling services available for college students?
+    - How can I balance my mental health and academic responsibilities in college?
+    - Can peer support groups or clubs help with the challenges of college life?
+    - What are some self-care practices for college students to prioritize their mental well-being?
+    - How can I seek help or support from professors or campus staff when needed?
+    - Are there any time management strategies for reducing stress and staying organized in college?
+    - How can I address feelings of homesickness or loneliness while at college?
+    - Can engaging in extracurricular activities or hobbies enhance my overall college experience?
 
-# - intent: positive_affirmations
-#   examples: |
-#     - What are positive affirmations and how do they work?
-#     - Can positive affirmations help with improving self-esteem and self-confidence?
-#     - How can I create and incorporate positive affirmations into my daily routine?
-#     - Are there any specific affirmations for managing anxiety or stress?
-#     - Can positive affirmations be used to overcome negative thought patterns?
-#     - What are some tips for making positive affirmations more effective?
-#     - Can positive affirmations be tailored to specific goals or areas of personal growth?
-#     - How long does it usually take to see the effects of practicing positive affirmations?
-#     - Are there any apps or resources for accessing guided positive affirmations?
-#     - What are some examples of positive affirmations for promoting mental well-being?
+- intent: positive_affirmations
+  examples: |
+    - What are positive affirmations and how do they work?
+    - Can positive affirmations help with improving self-esteem and self-confidence?
+    - How can I create and incorporate positive affirmations into my daily routine?
+    - Are there any specific affirmations for managing anxiety or stress?
+    - Can positive affirmations be used to overcome negative thought patterns?
+    - What are some tips for making positive affirmations more effective?
+    - Can positive affirmations be tailored to specific goals or areas of personal growth?
+    - How long does it usually take to see the effects of practicing positive affirmations?
+    - Are there any apps or resources for accessing guided positive affirmations?
+    - What are some examples of positive affirmations for promoting mental well-being?
 
-# - intent: learning_disabilities_mental_health
-#   examples: |
-#     - How can learning disabilities impact a person's mental health?
-#     - Are there any specific challenges or stressors associated with learning disabilities?
-#     - Can therapy or counseling be beneficial for individuals with learning disabilities?
-#     - How can I advocate for myself or my child with a learning disability in terms of mental health support?
-#     - What are some strategies for managing anxiety or low self-esteem related to learning disabilities?
-#     - Are there any assistive technologies or tools available for individuals with learning disabilities?
-#     - How can I create a supportive environment at home or in the classroom for someone with learning disabilities?
-#     - Can learning disabilities coexist with other mental health conditions?
-#     - What are some resources or organizations that provide support for individuals with learning disabilities and mental health challenges?
-#     - How can I communicate my needs or challenges to others regarding my learning disabilities and mental health?
+- intent: learning_disabilities_mental_health
+  examples: |
+    - How can learning disabilities impact a person's mental health?
+    - Are there any specific challenges or stressors associated with learning disabilities?
+    - Can therapy or counseling be beneficial for individuals with learning disabilities?
+    - How can I advocate for myself or my child with a learning disability in terms of mental health support?
+    - What are some strategies for managing anxiety or low self-esteem related to learning disabilities?
+    - Are there any assistive technologies or tools available for individuals with learning disabilities?
+    - How can I create a supportive environment at home or in the classroom for someone with learning disabilities?
+    - Can learning disabilities coexist with other mental health conditions?
+    - What are some resources or organizations that provide support for individuals with learning disabilities and mental health challenges?
+    - How can I communicate my needs or challenges to others regarding my learning disabilities and mental health?
 
-# - intent: mind_body_connection
-#   examples: |
-#     - What is the mind-body connection and how does it affect overall well-being?
-#     - Can stress or negative emotions impact physical health?
-#     - How can I cultivate a positive mind-body connection for better mental and physical health?
-#     - Are there any practices or techniques for enhancing the mind-body connection?
-#     - Can the mind-body connection play a role in managing chronic pain or illnesses?
-#     - What are some self-care activities that promote a healthy mind-body connection?
-#     - How does practicing mindfulness or meditation contribute to the mind-body connection?
-#     - Are there any scientific studies or research on the mind-body connection?
-#     - How can I incorporate exercise and movement into my routine to strengthen the mind-body connection?
-#     - Can a healthy mind-body connection help with managing anxiety or depression?
+- intent: mind_body_connection
+  examples: |
+    - What is the mind-body connection and how does it affect overall well-being?
+    - Can stress or negative emotions impact physical health?
+    - How can I cultivate a positive mind-body connection for better mental and physical health?
+    - Are there any practices or techniques for enhancing the mind-body connection?
+    - Can the mind-body connection play a role in managing chronic pain or illnesses?
+    - What are some self-care activities that promote a healthy mind-body connection?
+    - How does practicing mindfulness or meditation contribute to the mind-body connection?
+    - Are there any scientific studies or research on the mind-body connection?
+    - How can I incorporate exercise and movement into my routine to strengthen the mind-body connection?
+    - Can a healthy mind-body connection help with managing anxiety or depression?
 
-# - intent: trauma_and_addiction_recovery
-#   examples: |
-#     - How can I recover from trauma and addiction?
-#     - What are some strategies for overcoming trauma and addiction?
-#     - Is there a specific therapy that helps with trauma and addiction recovery?
-#     - How long does it typically take to recover from trauma and addiction?
-#     - Can you suggest some support groups for trauma and addiction recovery?
-#     - What are the signs that I'm making progress in my trauma and addiction recovery?
-#     - How can I cope with triggers during my recovery from trauma and addiction?
-#     - Are there any medications that can assist in trauma and addiction recovery?
-#     - How important is a strong support system in trauma and addiction recovery?
-#     - What are some self-care practices that can aid in trauma and addiction recovery?
+- intent: trauma_and_addiction_recovery
+  examples: |
+    - How can I recover from trauma and addiction?
+    - What are some strategies for overcoming trauma and addiction?
+    - Is there a specific therapy that helps with trauma and addiction recovery?
+    - How long does it typically take to recover from trauma and addiction?
+    - Can you suggest some support groups for trauma and addiction recovery?
+    - What are the signs that I'm making progress in my trauma and addiction recovery?
+    - How can I cope with triggers during my recovery from trauma and addiction?
+    - Are there any medications that can assist in trauma and addiction recovery?
+    - How important is a strong support system in trauma and addiction recovery?
+    - What are some self-care practices that can aid in trauma and addiction recovery?
 
-# - intent: mindfulness_for_children
-#   examples: |
-#     - How can mindfulness help children with their mental health?
-#     - Are there any specific mindfulness techniques suitable for children?
-#     - What are the benefits of teaching mindfulness to children?
-#     - How can I introduce mindfulness to my child?
-#     - Can you recommend any mindfulness apps or resources for children?
-#     - How can mindfulness help children manage stress and anxiety?
-#     - Are there any age-appropriate mindfulness exercises for children?
-#     - What are some fun mindfulness activities I can do with my child?
-#     - How can mindfulness enhance a child's focus and attention span?
-#     - Can you provide some tips for parents to encourage mindfulness in children?
+- intent: mindfulness_for_children
+  examples: |
+    - How can mindfulness help children with their mental health?
+    - Are there any specific mindfulness techniques suitable for children?
+    - What are the benefits of teaching mindfulness to children?
+    - How can I introduce mindfulness to my child?
+    - Can you recommend any mindfulness apps or resources for children?
+    - How can mindfulness help children manage stress and anxiety?
+    - Are there any age-appropriate mindfulness exercises for children?
+    - What are some fun mindfulness activities I can do with my child?
+    - How can mindfulness enhance a child's focus and attention span?
+    - Can you provide some tips for parents to encourage mindfulness in children?
 
-# - intent: body_positivity_for_adolescents
-#   examples: |
-#     - How can I promote body positivity in adolescents?
-#     - What are some strategies to help adolescents develop a positive body image?
-#     - How can I support an adolescent struggling with body image issues?
-#     - Are there any books or resources about body positivity for adolescents?
-#     - How can social media affect body image in adolescents, and how do we combat it?
-#     - What are some activities or exercises that can help improve body positivity in adolescents?
-#     - How do I address negative body talk or fat-shaming in an adolescent's environment?
-#     - Are there any support groups or communities for adolescents focused on body positivity?
-#     - How can parents and educators foster body acceptance in adolescents?
-#     - What are some ways to teach adolescents about media literacy and body ideals?
+- intent: body_positivity_for_adolescents
+  examples: |
+    - How can I promote body positivity in adolescents?
+    - What are some strategies to help adolescents develop a positive body image?
+    - How can I support an adolescent struggling with body image issues?
+    - Are there any books or resources about body positivity for adolescents?
+    - How can social media affect body image in adolescents, and how do we combat it?
+    - What are some activities or exercises that can help improve body positivity in adolescents?
+    - How do I address negative body talk or fat-shaming in an adolescent's environment?
+    - Are there any support groups or communities for adolescents focused on body positivity?
+    - How can parents and educators foster body acceptance in adolescents?
+    - What are some ways to teach adolescents about media literacy and body ideals?
 
-# - intent: emotional_resilience_in_the_face_of_adversity
-#   examples: |
-#     - How can I build emotional resilience in the face of adversity?
-#     - What are some techniques to develop resilience during challenging times?
-#     - Can you provide examples of people who have shown emotional resilience in the face of adversity?
-#     - How does practicing gratitude contribute to emotional resilience?
-#     - Are there any specific exercises or activities that can strengthen emotional resilience?
-#     - What role does self-care play in developing emotional resilience?
-#     - How can I reframe negative thoughts and build a more resilient mindset?
-#     - Are there any books or resources on emotional resilience that you recommend?
-#     - How can I bounce back from failure or setbacks with greater emotional resilience?
-#     - What are some coping strategies for maintaining emotional resilience in the long run?
+- intent: emotional_resilience_in_the_face_of_adversity
+  examples: |
+    - How can I build emotional resilience in the face of adversity?
+    - What are some techniques to develop resilience during challenging times?
+    - Can you provide examples of people who have shown emotional resilience in the face of adversity?
+    - How does practicing gratitude contribute to emotional resilience?
+    - Are there any specific exercises or activities that can strengthen emotional resilience?
+    - What role does self-care play in developing emotional resilience?
+    - How can I reframe negative thoughts and build a more resilient mindset?
+    - Are there any books or resources on emotional resilience that you recommend?
+    - How can I bounce back from failure or setbacks with greater emotional resilience?
+    - What are some coping strategies for maintaining emotional resilience in the long run?
 
-# - intent: cultural_sensitivity_in_therapy
-#   examples: |
-#     - How can therapists be more culturally sensitive in their practice?
-#     - What are some considerations therapists should keep in mind regarding cultural diversity?
-#     - Can you provide examples of culturally sensitive therapeutic approaches?
-#     - How can a therapist address cultural biases or stereotypes in therapy sessions?
-#     - Are there any resources or training programs for therapists to enhance cultural sensitivity?
-#     - How can I find a therapist who is culturally sensitive and understands my background?
-#     - What should I do if I feel my therapist is not culturally sensitive?
-#     - How can therapists create a safe and inclusive space for clients from different cultures?
-#     - What role does cultural competence play in effective therapy?
-#     - Are there any organizations or initiatives promoting cultural sensitivity in therapy?
+- intent: cultural_sensitivity_in_therapy
+  examples: |
+    - How can therapists be more culturally sensitive in their practice?
+    - What are some considerations therapists should keep in mind regarding cultural diversity?
+    - Can you provide examples of culturally sensitive therapeutic approaches?
+    - How can a therapist address cultural biases or stereotypes in therapy sessions?
+    - Are there any resources or training programs for therapists to enhance cultural sensitivity?
+    - How can I find a therapist who is culturally sensitive and understands my background?
+    - What should I do if I feel my therapist is not culturally sensitive?
+    - How can therapists create a safe and inclusive space for clients from different cultures?
+    - What role does cultural competence play in effective therapy?
+    - Are there any organizations or initiatives promoting cultural sensitivity in therapy?
 
-# - intent: coping_with_chronic_pain
-#   examples: |
-#     - How can I cope with chronic pain on a daily basis?
-#     - Are there any alternative therapies or treatments for chronic pain management?
-#     - What lifestyle changes can I make to better manage chronic pain?
-#     - Can you recommend any support groups or communities for individuals with chronic pain?
-#     - How can I communicate my chronic pain effectively to healthcare providers?
-#     - Are there any relaxation techniques or exercises that help alleviate chronic pain?
-#     - What are some coping strategies for dealing with the emotional impact of chronic pain?
-#     - How can I modify my daily routine to accommodate chronic pain?
-#     - Are there any technological tools or apps that can assist in managing chronic pain?
-#     - What are some self-help resources or books for individuals living with chronic pain?
+- intent: coping_with_chronic_pain
+  examples: |
+    - How can I cope with chronic pain on a daily basis?
+    - Are there any alternative therapies or treatments for chronic pain management?
+    - What lifestyle changes can I make to better manage chronic pain?
+    - Can you recommend any support groups or communities for individuals with chronic pain?
+    - How can I communicate my chronic pain effectively to healthcare providers?
+    - Are there any relaxation techniques or exercises that help alleviate chronic pain?
+    - What are some coping strategies for dealing with the emotional impact of chronic pain?
+    - How can I modify my daily routine to accommodate chronic pain?
+    - Are there any technological tools or apps that can assist in managing chronic pain?
+    - What are some self-help resources or books for individuals living with chronic pain?
 
-# - intent: mindfulness_based_stress_reduction
-#   examples: |
-#     - What is Mindfulness-Based Stress Reduction (MBSR) and how does it work?
-#     - Can you explain the benefits of practicing Mindfulness-Based Stress Reduction?
-#     - Are there any scientific studies supporting the effectiveness of MBSR?
-#     - How can I incorporate Mindfulness-Based Stress Reduction into my daily life?
-#     - Are there any online MBSR programs or resources available?
-#     - What are some mindfulness exercises commonly used in MBSR?
-#     - Can you provide examples of real-life success stories from practicing MBSR?
-#     - How long does it typically take to see the benefits of Mindfulness-Based Stress Reduction?
-#     - What are some common misconceptions about MBSR?
-#     - Is MBSR suitable for everyone, or are there any specific contraindications?
+- intent: mindfulness_based_stress_reduction
+  examples: |
+    - What is Mindfulness-Based Stress Reduction (MBSR) and how does it work?
+    - Can you explain the benefits of practicing Mindfulness-Based Stress Reduction?
+    - Are there any scientific studies supporting the effectiveness of MBSR?
+    - How can I incorporate Mindfulness-Based Stress Reduction into my daily life?
+    - Are there any online MBSR programs or resources available?
+    - What are some mindfulness exercises commonly used in MBSR?
+    - Can you provide examples of real-life success stories from practicing MBSR?
+    - How long does it typically take to see the benefits of Mindfulness-Based Stress Reduction?
+    - What are some common misconceptions about MBSR?
+    - Is MBSR suitable for everyone, or are there any specific contraindications?
 
-# - intent: digital_detox_and_mental_health
-#   examples: |
-#     - How can a digital detox benefit my mental health?
-#     - What are the signs that I may need a digital detox?
-#     - Can you provide tips for effectively disconnecting from digital devices?
-#     - How long should a digital detox ideally last for noticeable mental health benefits?
-#     - Are there any activities or hobbies that can replace digital usage during a detox?
-#     - How can I set boundaries around technology usage to maintain better mental health?
-#     - What are some strategies to resist the urge to constantly check digital notifications?
-#     - Can you recommend any apps or tools to help with digital detox and mental health?
-#     - Are there any studies or research supporting the positive effects of digital detox on mental health?
-#     - How can I communicate the importance of a digital detox to my friends or family?
+- intent: digital_detox_and_mental_health
+  examples: |
+    - How can a digital detox benefit my mental health?
+    - What are the signs that I may need a digital detox?
+    - Can you provide tips for effectively disconnecting from digital devices?
+    - How long should a digital detox ideally last for noticeable mental health benefits?
+    - Are there any activities or hobbies that can replace digital usage during a detox?
+    - How can I set boundaries around technology usage to maintain better mental health?
+    - What are some strategies to resist the urge to constantly check digital notifications?
+    - Can you recommend any apps or tools to help with digital detox and mental health?
+    - Are there any studies or research supporting the positive effects of digital detox on mental health?
+    - How can I communicate the importance of a digital detox to my friends or family?
 
-# - intent: coping_with_terminal_illness
-#   examples: |
-#     - How can I cope with a terminal illness and maintain my mental well-being?
-#     - What are some support networks or organizations available for individuals with terminal illnesses?
-#     - Can you provide strategies for managing the emotional impact of a terminal illness?
-#     - How can I communicate my needs and emotions effectively to my loved ones during this time?
-#     - Are there any resources or books on coping with a terminal illness?
-#     - What role can therapy or counseling play in supporting individuals with terminal illnesses?
-#     - How do I navigate end-of-life discussions and decisions while prioritizing my mental health?
-#     - Can you recommend any self-care practices that are beneficial for individuals with terminal illnesses?
-#     - What are some ways to find meaning or maintain hope when facing a terminal illness?
-#     - Are there any online communities or forums where I can connect with others in similar situations?
+- intent: coping_with_terminal_illness
+  examples: |
+    - How can I cope with a terminal illness and maintain my mental well-being?
+    - What are some support networks or organizations available for individuals with terminal illnesses?
+    - Can you provide strategies for managing the emotional impact of a terminal illness?
+    - How can I communicate my needs and emotions effectively to my loved ones during this time?
+    - Are there any resources or books on coping with a terminal illness?
+    - What role can therapy or counseling play in supporting individuals with terminal illnesses?
+    - How do I navigate end-of-life discussions and decisions while prioritizing my mental health?
+    - Can you recommend any self-care practices that are beneficial for individuals with terminal illnesses?
+    - What are some ways to find meaning or maintain hope when facing a terminal illness?
+    - Are there any online communities or forums where I can connect with others in similar situations?
 
-# - intent: social_anxiety_in_social_settings
-#   examples: |
-#     - How can I manage social anxiety in social settings?
-#     - What are some techniques for overcoming social anxiety when interacting with others?
-#     - Can you provide tips for feeling more comfortable and confident in social situations?
-#     - How can I challenge negative thoughts or beliefs that contribute to social anxiety?
-#     - Are there any support groups or therapy options specifically for social anxiety?
-#     - What are some relaxation exercises that can help reduce social anxiety symptoms?
-#     - How can I handle panic or anxiety attacks in social settings?
-#     - Can you recommend any books or resources on coping with social anxiety?
-#     - What role does self-compassion play in managing social anxiety?
-#     - Are there any online courses or programs focused on overcoming social anxiety?
+- intent: social_anxiety_in_social_settings
+  examples: |
+    - How can I manage social anxiety in social settings?
+    - What are some techniques for overcoming social anxiety when interacting with others?
+    - Can you provide tips for feeling more comfortable and confident in social situations?
+    - How can I challenge negative thoughts or beliefs that contribute to social anxiety?
+    - Are there any support groups or therapy options specifically for social anxiety?
+    - What are some relaxation exercises that can help reduce social anxiety symptoms?
+    - How can I handle panic or anxiety attacks in social settings?
+    - Can you recommend any books or resources on coping with social anxiety?
+    - What role does self-compassion play in managing social anxiety?
+    - Are there any online courses or programs focused on overcoming social anxiety?
 
-# - intent: coping_with_nightmares
-#   examples: |
-#     - How can I cope with nightmares and reduce their frequency?
-#     - What are some potential causes of recurring nightmares, and how can I address them?
-#     - Can you provide relaxation techniques or exercises to promote better sleep and reduce nightmares?
-#     - How can I create a more peaceful sleep environment to prevent nightmares?
-#     - Are there any medications or supplements that can help with nightmares?
-#     - What strategies can I use to cope with the emotional impact of nightmares?
-#     - Can you recommend any resources or books on understanding and managing nightmares?
-#     - How can I differentiate between regular dreams and nightmares?
-#     - What are some common triggers for nightmares, and how can I avoid them?
-#     - Are there any therapy options or techniques specifically designed for nightmare management?
+- intent: coping_with_nightmares
+  examples: |
+    - How can I cope with nightmares and reduce their frequency?
+    - What are some potential causes of recurring nightmares, and how can I address them?
+    - Can you provide relaxation techniques or exercises to promote better sleep and reduce nightmares?
+    - How can I create a more peaceful sleep environment to prevent nightmares?
+    - Are there any medications or supplements that can help with nightmares?
+    - What strategies can I use to cope with the emotional impact of nightmares?
+    - Can you recommend any resources or books on understanding and managing nightmares?
+    - How can I differentiate between regular dreams and nightmares?
+    - What are some common triggers for nightmares, and how can I avoid them?
+    - Are there any therapy options or techniques specifically designed for nightmare management?
 
-# - intent: aging_and_mental_health
-#   examples: |
-#     - How does aging impact mental health, and what are some common challenges?
-#     - Can you provide tips for maintaining good mental health as I age?
-#     - How can I address feelings of loneliness or isolation that often accompany aging?
-#     - Are there any resources or support groups for older adults focused on mental health?
-#     - What are some strategies to promote cognitive well-being and prevent cognitive decline?
-#     - How can I cope with the loss of independence that can come with aging?
-#     - Can you recommend any activities or exercises to promote mental stimulation in older adults?
-#     - What role does physical activity play in maintaining mental health as we age?
-#     - How can I address age-related changes in sleep patterns or insomnia?
-#     - Are there any specific mental health concerns or conditions that are more prevalent in older adults?
+- intent: aging_and_mental_health
+  examples: |
+    - How does aging impact mental health, and what are some common challenges?
+    - Can you provide tips for maintaining good mental health as I age?
+    - How can I address feelings of loneliness or isolation that often accompany aging?
+    - Are there any resources or support groups for older adults focused on mental health?
+    - What are some strategies to promote cognitive well-being and prevent cognitive decline?
+    - How can I cope with the loss of independence that can come with aging?
+    - Can you recommend any activities or exercises to promote mental stimulation in older adults?
+    - What role does physical activity play in maintaining mental health as we age?
+    - How can I address age-related changes in sleep patterns or insomnia?
+    - Are there any specific mental health concerns or conditions that are more prevalent in older adults?
 
-# - intent: transitioning_to_retirement
-#   examples: |
-#     - How can I navigate the emotional challenges of transitioning to retirement?
-#     - What are some strategies for finding purpose and fulfillment in retirement?
-#     - Can you provide tips for adjusting to the changes in routine and identity during retirement?
-#     - How can I maintain social connections and combat feelings of isolation in retirement?
-#     - Are there any resources or support groups specifically for individuals transitioning to retirement?
-#     - What are some activities or hobbies that can help make the transition to retirement smoother?
-#     - How can I financially plan for retirement to alleviate stress and anxiety?
-#     - Can you recommend any books or resources on transitioning to retirement successfully?
-#     - What role does self-reflection and goal-setting play in adjusting to retirement?
-#     - How can I approach retirement as an opportunity for personal growth and new experiences?
+- intent: transitioning_to_retirement
+  examples: |
+    - How can I navigate the emotional challenges of transitioning to retirement?
+    - What are some strategies for finding purpose and fulfillment in retirement?
+    - Can you provide tips for adjusting to the changes in routine and identity during retirement?
+    - How can I maintain social connections and combat feelings of isolation in retirement?
+    - Are there any resources or support groups specifically for individuals transitioning to retirement?
+    - What are some activities or hobbies that can help make the transition to retirement smoother?
+    - How can I financially plan for retirement to alleviate stress and anxiety?
+    - Can you recommend any books or resources on transitioning to retirement successfully?
+    - What role does self-reflection and goal-setting play in adjusting to retirement?
+    - How can I approach retirement as an opportunity for personal growth and new experiences?
 
-# - intent: mental_health_in_lgbtq_community
-#   examples: |
-#     - What are some unique mental health challenges faced by the LGBTQ+ community?
-#     - Can you provide resources or support groups specifically for LGBTQ+ individuals' mental health?
-#     - How can I create a supportive environment for LGBTQ+ individuals' mental well-being?
-#     - What role does societal stigma play in the mental health of LGBTQ+ individuals?
-#     - Are there any specific therapy approaches or interventions tailored for LGBTQ+ mental health?
-#     - How can I navigate coming out and the potential impact on my mental health?
-#     - Can you recommend books or resources that address mental health issues in the LGBTQ+ community?
-#     - What are some strategies for building resilience and self-acceptance within the LGBTQ+ community?
-#     - How can I support a friend or loved one who is struggling with mental health as an LGBTQ+ individual?
-#     - Are there any LGBTQ+-friendly mental health professionals or organizations I can reach out to?
+- intent: mental_health_in_lgbtq_community
+  examples: |
+    - What are some unique mental health challenges faced by the LGBTQ+ community?
+    - Can you provide resources or support groups specifically for LGBTQ+ individuals' mental health?
+    - How can I create a supportive environment for LGBTQ+ individuals' mental well-being?
+    - What role does societal stigma play in the mental health of LGBTQ+ individuals?
+    - Are there any specific therapy approaches or interventions tailored for LGBTQ+ mental health?
+    - How can I navigate coming out and the potential impact on my mental health?
+    - Can you recommend books or resources that address mental health issues in the LGBTQ+ community?
+    - What are some strategies for building resilience and self-acceptance within the LGBTQ+ community?
+    - How can I support a friend or loved one who is struggling with mental health as an LGBTQ+ individual?
+    - Are there any LGBTQ+-friendly mental health professionals or organizations I can reach out to?
 
-# - intent: mindfulness_for_parents
-#   examples: |
-#     - How can mindfulness benefit parents' mental health and well-being?
-#     - Can you provide tips for incorporating mindfulness into daily parenting routines?
-#     - What are some mindfulness exercises or practices that parents can engage in?
-#     - How can mindfulness help parents manage stress and overwhelm?
-#     - Are there any resources or apps specifically for mindful parenting?
-#     - How can mindfulness enhance the parent-child relationship?
-#     - What are some strategies to practice self-compassion and self-care as a parent?
-#     - Can you recommend any books or resources on mindfulness for parents?
-#     - How can I model mindfulness and emotional regulation for my children?
-#     - What role does mindfulness play in reducing parental guilt or self-judgment?
+- intent: mindfulness_for_parents
+  examples: |
+    - How can mindfulness benefit parents' mental health and well-being?
+    - Can you provide tips for incorporating mindfulness into daily parenting routines?
+    - What are some mindfulness exercises or practices that parents can engage in?
+    - How can mindfulness help parents manage stress and overwhelm?
+    - Are there any resources or apps specifically for mindful parenting?
+    - How can mindfulness enhance the parent-child relationship?
+    - What are some strategies to practice self-compassion and self-care as a parent?
+    - Can you recommend any books or resources on mindfulness for parents?
+    - How can I model mindfulness and emotional regulation for my children?
+    - What role does mindfulness play in reducing parental guilt or self-judgment?
 
-# - intent: healthy_grieving_process
-#   examples: |
-#     - What is a healthy grieving process, and what are its stages?
-#     - Can you provide tips for navigating grief and loss in a healthy way?
-#     - How can I support someone who is going through a grieving process?
-#     - What are some self-care practices that can aid in the grieving process?
-#     - Are there any support groups or therapy options specifically for grief counseling?
-#     - How can I honor the memory of a loved one while still moving forward in the grieving process?
-#     - Can you recommend any books or resources on healthy grieving and bereavement?
-#     - What role does self-compassion play in the grieving process?
-#     - How can I cope with grief triggers or anniversaries?
-#     - Are there any creative outlets or activities that can help with the grieving process?
+- intent: healthy_grieving_process
+  examples: |
+    - What is a healthy grieving process, and what are its stages?
+    - Can you provide tips for navigating grief and loss in a healthy way?
+    - How can I support someone who is going through a grieving process?
+    - What are some self-care practices that can aid in the grieving process?
+    - Are there any support groups or therapy options specifically for grief counseling?
+    - How can I honor the memory of a loved one while still moving forward in the grieving process?
+    - Can you recommend any books or resources on healthy grieving and bereavement?
+    - What role does self-compassion play in the grieving process?
+    - How can I cope with grief triggers or anniversaries?
+    - Are there any creative outlets or activities that can help with the grieving process?
 
-# - intent: body_image_and_social_media
-#   examples: |
-#     - How does social media impact body image, and what are some negative effects?
-#     - Can you provide strategies for maintaining a positive body image in the era of social media?
-#     - How can I filter or curate my social media feed to promote better body positivity?
-#     - What are some ways to develop a healthy relationship with social media while prioritizing body acceptance?
-#     - Are there any resources or campaigns challenging unrealistic beauty standards on social media?
-#     - How can I address comparison and self-esteem issues triggered by social media content?
-#     - Can you recommend any body-positive influencers or accounts to follow on social media?
-#     - What role can mindfulness play in managing body image concerns related to social media?
-#     - How can I help a friend or loved one struggling with body image issues exacerbated by social media?
-#     - What are some positive affirmations or mantras to counteract negative body image messages on social media?
+- intent: body_image_and_social_media
+  examples: |
+    - How does social media impact body image, and what are some negative effects?
+    - Can you provide strategies for maintaining a positive body image in the era of social media?
+    - How can I filter or curate my social media feed to promote better body positivity?
+    - What are some ways to develop a healthy relationship with social media while prioritizing body acceptance?
+    - Are there any resources or campaigns challenging unrealistic beauty standards on social media?
+    - How can I address comparison and self-esteem issues triggered by social media content?
+    - Can you recommend any body-positive influencers or accounts to follow on social media?
+    - What role can mindfulness play in managing body image concerns related to social media?
+    - How can I help a friend or loved one struggling with body image issues exacerbated by social media?
+    - What are some positive affirmations or mantras to counteract negative body image messages on social media?
 
-# - intent: emotional_boundaries_in_relationships
-#   examples: |
-#     - What are emotional boundaries in relationships, and why are they important?
-#     - Can you provide examples of healthy emotional boundaries in a relationship?
-#     - How can I set and communicate my emotional boundaries effectively?
-#     - What are some signs that my emotional boundaries are being violated?
-#     - Are there any strategies for maintaining boundaries while still fostering intimacy and connection?
-#     - How can I address boundary issues in an existing relationship?
-#     - Can you recommend any books or resources on establishing and maintaining emotional boundaries?
-#     - What role does self-esteem play in setting and maintaining healthy emotional boundaries?
-#     - How can I navigate conflicts or disagreements related to emotional boundaries in a relationship?
-#     - Are there any red flags to watch out for in relationships that may indicate boundary violations?
+- intent: emotional_boundaries_in_relationships
+  examples: |
+    - What are emotional boundaries in relationships, and why are they important?
+    - Can you provide examples of healthy emotional boundaries in a relationship?
+    - How can I set and communicate my emotional boundaries effectively?
+    - What are some signs that my emotional boundaries are being violated?
+    - Are there any strategies for maintaining boundaries while still fostering intimacy and connection?
+    - How can I address boundary issues in an existing relationship?
+    - Can you recommend any books or resources on establishing and maintaining emotional boundaries?
+    - What role does self-esteem play in setting and maintaining healthy emotional boundaries?
+    - How can I navigate conflicts or disagreements related to emotional boundaries in a relationship?
+    - Are there any red flags to watch out for in relationships that may indicate boundary violations?
 
-# - intent: mindfulness_in_the_workplace
-#   examples: |
-#     - How can mindfulness practices benefit mental health in the workplace?
-#     - Can you provide tips for incorporating mindfulness into a busy workday?
-#     - What are some mindfulness exercises that can be done discreetly at work?
-#     - How can mindfulness help manage workplace stress and improve focus and productivity?
-#     - Are there any mindfulness-based workplace programs or initiatives available?
-#     - How can I encourage a mindful work culture within my organization?
-#     - Can you recommend any resources or apps for mindfulness at work?
-#     - What role does self-compassion play in promoting mental well-being in the workplace?
-#     - How can I address work-related anxiety or burnout through mindfulness practices?
-#     - Are there any studies or research supporting the effectiveness of mindfulness in the workplace?
+- intent: mindfulness_in_the_workplace
+  examples: |
+    - How can mindfulness practices benefit mental health in the workplace?
+    - Can you provide tips for incorporating mindfulness into a busy workday?
+    - What are some mindfulness exercises that can be done discreetly at work?
+    - How can mindfulness help manage workplace stress and improve focus and productivity?
+    - Are there any mindfulness-based workplace programs or initiatives available?
+    - How can I encourage a mindful work culture within my organization?
+    - Can you recommend any resources or apps for mindfulness at work?
+    - What role does self-compassion play in promoting mental well-being in the workplace?
+    - How can I address work-related anxiety or burnout through mindfulness practices?
+    - Are there any studies or research supporting the effectiveness of mindfulness in the workplace?
 
-# - intent: emotional_intelligence_for_leaders
-#   examples: |
-#     - What is emotional intelligence, and why is it important for leaders?
-#     - Can you provide tips for developing emotional intelligence as a leader?
-#     - How can emotional intelligence enhance team dynamics and collaboration?
-#     - What are some strategies for practicing self-awareness and self-regulation as a leader?
-#     - Are there any resources or courses on emotional intelligence specifically tailored for leaders?
-#     - How can emotional intelligence help in conflict resolution and effective communication?
-#     - Can you recommend any books or resources on emotional intelligence for leaders?
-#     - What role does empathy play in effective leadership and emotional intelligence?
-#     - How can leaders cultivate a positive and emotionally intelligent work environment?
-#     - Are there any case studies or success stories highlighting the impact of emotional intelligence on leadership?
-
-
-# - intent: coping_with_long_distance_relationships
-#   examples: |
-#     - How can I cope with being in a long-distance relationship?
-#     - What are some strategies for maintaining a healthy long-distance relationship?
-#     - How do I deal with the emotional challenges of a long-distance relationship?
-#     - What can I do to make a long-distance relationship work?
-#     - How do I manage the loneliness of being in a long-distance relationship?
-#     - Are there any communication techniques that can help with long-distance relationships?
-#     - What are some activities or hobbies that can strengthen a long-distance relationship?
-#     - How can I overcome the trust issues in a long-distance relationship?
-#     - Are there any resources or support groups for people in long-distance relationships?
-#     - What are some ways to surprise or connect with my partner in a long-distance relationship?
-
-# - intent: sleep_hygiene_mental_health
-#   examples: |
-#     - How does sleep hygiene affect mental health?
-#     - What are some tips for improving sleep hygiene for better mental health?
-#     - How much sleep is recommended for maintaining good mental health?
-#     - Does lack of sleep contribute to mental health problems?
-#     - How can I establish a bedtime routine for better sleep and mental well-being?
-#     - Are there any relaxation techniques that can help with sleep hygiene and mental health?
-#     - What are the consequences of poor sleep hygiene on mental health?
-#     - Can you suggest any natural remedies or techniques to promote better sleep and mental health?
-#     - How does screen time before bed impact sleep and mental well-being?
-#     - Are there any apps or tools that can assist in improving sleep hygiene and mental health?
-
-# - intent: emotional_support_animals
-#   examples: |
-#     - What is the role of emotional support animals in mental health?
-#     - How can emotional support animals help with anxiety or depression?
-#     - Can you provide information about the benefits of emotional support animals?
-#     - How do I get an emotional support animal for my mental health needs?
-#     - What are the legal rights and protections for emotional support animals?
-#     - Are there specific requirements or certifications for emotional support animals?
-#     - Can emotional support animals be helpful for children with mental health issues?
-#     - Are there alternative forms of emotional support if having a pet is not possible?
-#     - How do emotional support animals differ from service animals?
-#     - Are there any studies or research supporting the effectiveness of emotional support animals?
-
-# - intent: coping_with_fertility_issues
-#   examples: |
-#     - How can I cope with the emotional impact of fertility issues?
-#     - What are some strategies for managing stress during fertility treatments?
-#     - Are there any support groups or counseling services for individuals dealing with fertility issues?
-#     - How do fertility issues affect mental health?
-#     - What are some self-care practices that can help while going through fertility treatments?
-#     - Can you suggest any resources or books for coping with fertility challenges?
-#     - How can I communicate with my partner about the emotional strain of fertility issues?
-#     - What are some coping mechanisms for dealing with disappointment and grief related to fertility?
-#     - Are there any lifestyle changes that can improve fertility and mental well-being?
-#     - Can you provide information about alternative options or treatments for fertility issues?
-
-# - intent: perinatal_mental_health
-#   examples: |
-#     - What are some common perinatal mental health disorders?
-#     - How can I seek help for perinatal mental health issues?
-#     - What are the signs and symptoms of perinatal depression or anxiety?
-#     - Are there any support groups or resources specifically for perinatal mental health?
-#     - How does perinatal mental health affect the baby's well-being?
-#     - Can you recommend any self-care practices for promoting perinatal mental well-being?
-#     - What are the treatment options for perinatal mental health disorders?
-#     - How can I involve my partner or family in supporting my perinatal mental health?
-#     - Are there any preventative measures for perinatal mental health problems?
-#     - Can you provide information about the long-term effects of perinatal mental health issues?
-
-# - intent: dealing_with_pet_loss
-#   examples: |
-#     - How do I cope with the loss of a pet?
-#     - What are some strategies for grieving the loss of a beloved animal companion?
-#     - Are there any support groups or resources for pet loss grief?
-#     - How can I honor the memory of my pet after their passing?
-#     - Can you suggest any coping mechanisms for the sadness and emptiness following pet loss?
-#     - How long does it typically take to heal from the loss of a pet?
-#     - What are some self-care practices that can help during the grieving process?
-#     - Are there any rituals or ceremonies to aid in the healing process after losing a pet?
-#     - How can I explain the loss of a pet to children or other family members?
-#     - Can you recommend any books or articles about pet loss and grief?
-
-# - intent: supporting_children_with_anxiety
-#   examples: |
-#     - How can I support a child with anxiety?
-#     - What are some strategies for helping children manage their anxiety?
-#     - Can you suggest any relaxation techniques or coping mechanisms for anxious children?
-#     - How do I communicate with a child about their anxiety in an understanding manner?
-#     - Are there any resources or books for parents dealing with children's anxiety?
-#     - What are some signs and symptoms of anxiety in children?
-#     - How can I create a supportive environment at home for a child with anxiety?
-#     - Are there any recommended activities or exercises for reducing anxiety in children?
-#     - Can you provide information about therapy options for children with anxiety?
-#     - How can I help a child build resilience and confidence while dealing with anxiety?
+- intent: emotional_intelligence_for_leaders
+  examples: |
+    - What is emotional intelligence, and why is it important for leaders?
+    - Can you provide tips for developing emotional intelligence as a leader?
+    - How can emotional intelligence enhance team dynamics and collaboration?
+    - What are some strategies for practicing self-awareness and self-regulation as a leader?
+    - Are there any resources or courses on emotional intelligence specifically tailored for leaders?
+    - How can emotional intelligence help in conflict resolution and effective communication?
+    - Can you recommend any books or resources on emotional intelligence for leaders?
+    - What role does empathy play in effective leadership and emotional intelligence?
+    - How can leaders cultivate a positive and emotionally intelligent work environment?
+    - Are there any case studies or success stories highlighting the impact of emotional intelligence on leadership?
 
 
-# - intent: coping_with_chronic_stress
-#   examples: |
-#     - How can I cope with chronic stress?
-#     - What are some techniques for managing long-term stress?
-#     - Can you suggest any relaxation or mindfulness exercises for reducing chronic stress?
-#     - How does chronic stress impact mental health?
-#     - Are there any support groups or resources for individuals dealing with chronic stress?
-#     - What are the physical and emotional consequences of prolonged stress?
-#     - How can I establish healthy boundaries to prevent chronic stress?
-#     - Are there any lifestyle changes or self-care practices that can help with chronic stress?
-#     - Can you provide information about stress management therapies or techniques?
-#     - How do I communicate my stress levels and needs to others in a healthy way?
+- intent: coping_with_long_distance_relationships
+  examples: |
+    - How can I cope with being in a long-distance relationship?
+    - What are some strategies for maintaining a healthy long-distance relationship?
+    - How do I deal with the emotional challenges of a long-distance relationship?
+    - What can I do to make a long-distance relationship work?
+    - How do I manage the loneliness of being in a long-distance relationship?
+    - Are there any communication techniques that can help with long-distance relationships?
+    - What are some activities or hobbies that can strengthen a long-distance relationship?
+    - How can I overcome the trust issues in a long-distance relationship?
+    - Are there any resources or support groups for people in long-distance relationships?
+    - What are some ways to surprise or connect with my partner in a long-distance relationship?
+
+- intent: sleep_hygiene_mental_health
+  examples: |
+    - How does sleep hygiene affect mental health?
+    - What are some tips for improving sleep hygiene for better mental health?
+    - How much sleep is recommended for maintaining good mental health?
+    - Does lack of sleep contribute to mental health problems?
+    - How can I establish a bedtime routine for better sleep and mental well-being?
+    - Are there any relaxation techniques that can help with sleep hygiene and mental health?
+    - What are the consequences of poor sleep hygiene on mental health?
+    - Can you suggest any natural remedies or techniques to promote better sleep and mental health?
+    - How does screen time before bed impact sleep and mental well-being?
+    - Are there any apps or tools that can assist in improving sleep hygiene and mental health?
+
+- intent: emotional_support_animals
+  examples: |
+    - What is the role of emotional support animals in mental health?
+    - How can emotional support animals help with anxiety or depression?
+    - Can you provide information about the benefits of emotional support animals?
+    - How do I get an emotional support animal for my mental health needs?
+    - What are the legal rights and protections for emotional support animals?
+    - Are there specific requirements or certifications for emotional support animals?
+    - Can emotional support animals be helpful for children with mental health issues?
+    - Are there alternative forms of emotional support if having a pet is not possible?
+    - How do emotional support animals differ from service animals?
+    - Are there any studies or research supporting the effectiveness of emotional support animals?
+
+- intent: coping_with_fertility_issues
+  examples: |
+    - How can I cope with the emotional impact of fertility issues?
+    - What are some strategies for managing stress during fertility treatments?
+    - Are there any support groups or counseling services for individuals dealing with fertility issues?
+    - How do fertility issues affect mental health?
+    - What are some self-care practices that can help while going through fertility treatments?
+    - Can you suggest any resources or books for coping with fertility challenges?
+    - How can I communicate with my partner about the emotional strain of fertility issues?
+    - What are some coping mechanisms for dealing with disappointment and grief related to fertility?
+    - Are there any lifestyle changes that can improve fertility and mental well-being?
+    - Can you provide information about alternative options or treatments for fertility issues?
+
+- intent: perinatal_mental_health
+  examples: |
+    - What are some common perinatal mental health disorders?
+    - How can I seek help for perinatal mental health issues?
+    - What are the signs and symptoms of perinatal depression or anxiety?
+    - Are there any support groups or resources specifically for perinatal mental health?
+    - How does perinatal mental health affect the baby's well-being?
+    - Can you recommend any self-care practices for promoting perinatal mental well-being?
+    - What are the treatment options for perinatal mental health disorders?
+    - How can I involve my partner or family in supporting my perinatal mental health?
+    - Are there any preventative measures for perinatal mental health problems?
+    - Can you provide information about the long-term effects of perinatal mental health issues?
+
+- intent: dealing_with_pet_loss
+  examples: |
+    - How do I cope with the loss of a pet?
+    - What are some strategies for grieving the loss of a beloved animal companion?
+    - Are there any support groups or resources for pet loss grief?
+    - How can I honor the memory of my pet after their passing?
+    - Can you suggest any coping mechanisms for the sadness and emptiness following pet loss?
+    - How long does it typically take to heal from the loss of a pet?
+    - What are some self-care practices that can help during the grieving process?
+    - Are there any rituals or ceremonies to aid in the healing process after losing a pet?
+    - How can I explain the loss of a pet to children or other family members?
+    - Can you recommend any books or articles about pet loss and grief?
+
+- intent: supporting_children_with_anxiety
+  examples: |
+    - How can I support a child with anxiety?
+    - What are some strategies for helping children manage their anxiety?
+    - Can you suggest any relaxation techniques or coping mechanisms for anxious children?
+    - How do I communicate with a child about their anxiety in an understanding manner?
+    - Are there any resources or books for parents dealing with children's anxiety?
+    - What are some signs and symptoms of anxiety in children?
+    - How can I create a supportive environment at home for a child with anxiety?
+    - Are there any recommended activities or exercises for reducing anxiety in children?
+    - Can you provide information about therapy options for children with anxiety?
+    - How can I help a child build resilience and confidence while dealing with anxiety?
+
+
+- intent: coping_with_chronic_stress
+  examples: |
+    - How can I cope with chronic stress?
+    - What are some techniques for managing long-term stress?
+    - Can you suggest any relaxation or mindfulness exercises for reducing chronic stress?
+    - How does chronic stress impact mental health?
+    - Are there any support groups or resources for individuals dealing with chronic stress?
+    - What are the physical and emotional consequences of prolonged stress?
+    - How can I establish healthy boundaries to prevent chronic stress?
+    - Are there any lifestyle changes or self-care practices that can help with chronic stress?
+    - Can you provide information about stress management therapies or techniques?
+    - How do I communicate my stress levels and needs to others in a healthy way?
 
 # - intent: healthy_aging_mental_wellbeing
 #   examples: |
