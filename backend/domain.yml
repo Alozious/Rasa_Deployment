@@ -1423,6 +1423,236 @@ responses:
   - text: "Developing emotional intelligence is essential for students' overall growth. Practice exercises that enhance self-awareness, empathy, and conflict resolution. Seek resources and participate in workshops specifically designed for emotional intelligence development."
   - text: "Emotional intelligence is key for students' success. Practice exercises that promote self-awareness, empathy, and conflict resolution. Seek resources and workshops dedicated to enhancing emotional intelligence in a school setting."
 
+  utter_coping_with_disordered_eating:
+  - text: "Coping with disordered eating can be challenging. It's important to seek professional help and build a support network. Focus on developing a healthier relationship with food, challenging negative thoughts, and practicing self-care. Consider joining support groups or accessing resources for recovery."
+  - text: "Managing disordered eating requires a multi-faceted approach. Seek professional help, challenge negative thoughts, and develop self-care practices. Build a support network and consider resources like support groups and books on recovery. Remember, you're not alone in this journey."
+  - text: "Developing a healthier relationship with food is crucial when coping with disordered eating. Seek professional help, challenge negative thoughts, and practice self-care. Joining support groups and accessing resources can provide additional guidance and support along the way."
+  - text: "Addressing disordered eating involves seeking professional help and adopting healthy strategies. Challenge negative thoughts, practice self-care, and build a support network. Support groups and resources focused on recovery can offer valuable insights and assistance."
+  - text: "Coping with disordered eating is a journey, but you don't have to face it alone. Seek professional help, challenge negative thoughts, and prioritize self-care. Consider joining support groups or exploring resources to aid you in developing a healthier relationship with food."
+
+  utter_emotional_resilience_in_the_face_of_bullying:
+  - text: "Building emotional resilience in the face of bullying is important. Develop strategies for coping, such as building a support network, addressing long-term effects, and managing stress. Seek resources and organizations that provide support for bullying victims."
+  - text: "Coping with bullying requires emotional resilience. Build coping strategies, create a support network, and address long-term effects. Remember, you're not alone—resources and organizations are available to provide assistance and support."
+  - text: "Developing emotional resilience when facing bullying is crucial. Build coping strategies, create a support network, and seek support from resources and organizations. Remember to prioritize self-confidence and healthy responses to bullying."
+  - text: "Coping with bullying requires emotional resilience and support. Develop strategies for managing the emotional impact, build a support network, and seek assistance from resources and organizations. Remember to prioritize self-confidence and self-esteem."
+  - text: "Building emotional resilience in the face of bullying takes time and effort. Develop coping strategies, build a support network, and seek help from resources and organizations. Remember, your well-being matters."
+
+  utter_mindfulness_for_busy_professionals:
+  - text: "Mindfulness can benefit busy professionals by reducing stress and enhancing work-life balance. Incorporate mindfulness exercises into your schedule, explore mindfulness apps or tools, and consider attending workshops tailored for busy professionals."
+  - text: "Busy professionals can benefit from mindfulness practices to manage stress and improve focus. Find time for mindfulness exercises, explore apps or tools designed for busy individuals, and consider attending workshops or programs that cater to your needs."
+  - text: "Mindfulness is valuable for busy professionals. Incorporate mindfulness techniques into your daily routine, explore apps or tools designed for busy individuals, and consider attending workshops or programs tailored to your schedule."
+  - text: "Incorporating mindfulness into a busy schedule can enhance productivity and well-being. Find time for mindfulness exercises, explore apps or tools designed for busy professionals, and consider attending workshops or programs to deepen your practice."
+  - text: "Mindfulness offers busy professionals tools for stress management and focus. Find ways to integrate mindfulness into your routine, explore apps or tools for busy individuals, and consider attending workshops or programs to enhance your practice."
+
+  utter_coping_with_chronic_migraines:
+  - text: "Coping with chronic migraines can be challenging, but there are strategies to help. Seek professional advice, identify triggers, and communicate your needs to others. Explore alternative therapies and consider joining support groups for additional support."
+  - text: "Managing chronic migraines requires a comprehensive approach. Seek professional guidance, identify triggers, communicate your needs, and consider alternative therapies. Joining support groups can provide valuable insights and a sense of community."
+  - text: "Coping with chronic migraines involves a multi-faceted approach. Seek professional help, identify triggers, communicate your needs, and explore alternative therapies. Support groups can offer additional guidance and understanding."
+  - text: "Dealing with chronic migraines can be overwhelming, but there are strategies to manage symptoms. Seek professional advice, identify triggers, communicate your needs, and consider alternative therapies. Joining support groups can provide valuable resources and connections."
+  - text: "Coping with chronic migraines requires a personalized approach. Seek professional guidance, identify triggers, communicate your needs, and explore alternative therapies. Support groups can offer empathy and valuable coping strategies."
+
+  utter_emotional_intelligence_in_customer_service:
+  - text: "Applying emotional intelligence in customer service can improve customer satisfaction. Develop strategies for managing difficult customers, practice active listening, and seek resources or training programs on emotional intelligence for further growth."
+  - text: "Emotional intelligence enhances customer service interactions. Practice empathy, active listening, and techniques for managing stress. Seek resources or training programs that focus on emotional intelligence for customer service professionals."
+  - text: "Emotional intelligence plays a crucial role in customer service. Practice empathy, active listening, and stress management techniques. Explore resources or training programs to enhance your emotional intelligence skills."
+  - text: "Emotional intelligence is essential in customer service. Develop strategies for handling difficult customers, practice active listening, and seek resources or training programs focused on emotional intelligence for continuous improvement."
+  - text: "Applying emotional intelligence in customer service can foster positive relationships. Prioritize empathy, active listening, and stress management techniques. Seek resources or training programs that emphasize emotional intelligence for professional growth."
+
+  utter_coping_with_a_critical_inner_voice:
+  - text: "Coping with a critical inner voice can be challenging. Develop strategies for challenging self-criticism, cultivating self-compassion, and reframing negative thoughts. Remember to seek support and resources focused on transforming a critical inner voice."
+  - text: "Managing a critical inner voice requires self-compassion and positive practices. Challenge self-criticism, cultivate self-compassion, and reframe negative thoughts. Seek resources and support to help you transform your inner dialogue."
+  - text: "Coping with a critical inner voice is a journey of self-acceptance. Challenge self-criticism, cultivate self-compassion, and practice reframing negative thoughts. Remember, you're deserving of self-confidence and support on this path."
+  - text: "Dealing with a critical inner voice is challenging but possible. Challenge self-criticism, cultivate self-compassion, and reframe negative thoughts. Seek resources and support to help you embrace self-acceptance and self-worth."
+  - text: "Addressing a critical inner voice is important for self-growth. Challenge self-criticism, cultivate self-compassion, and practice reframing negative thoughts. Seek resources and support to help you foster a more supportive inner dialogue."
+
+  utter_coping_with_a_difficult_diagnosis:
+  - text: "Coping with a difficult diagnosis can be emotionally overwhelming. Prioritize self-care, seek support from loved ones and healthcare professionals, and explore resources for understanding and educating yourself about your condition. Remember to take it one step at a time."
+  - text: "Managing a difficult diagnosis requires self-care and support. Focus on self-care practices, seek support from loved ones and healthcare professionals, and access resources that can provide valuable insights and guidance."
+  - text: "Coping with a difficult diagnosis is a challenging journey. Prioritize self-care, seek support from loved ones and healthcare professionals, and access resources to educate yourself about your condition. Remember to be kind to yourself throughout this process."
+  - text: "Dealing with a difficult diagnosis can be overwhelming, but you're not alone. Prioritize self-care, seek support from loved ones and healthcare professionals, and explore resources that can provide valuable information and emotional support."
+  - text: "Navigating a difficult diagnosis is a journey that requires self-care and support. Take time for self-care practices, reach out to loved ones and healthcare professionals, and access resources to better understand your condition and find comfort."
+
+  utter_emotional_support_during_infertility:
+  - text: "Finding emotional support during infertility is crucial. Prioritize self-care, communicate your needs to your partner and loved ones, and consider joining support groups or online communities. Remember to manage stress and seek professional help if needed."
+  - text: "Coping with the emotional challenges of infertility requires self-care and support. Prioritize your well-being, communicate openly with your partner and loved ones, and connect with support groups or online communities that can provide understanding and guidance."
+  - text: "Managing the emotional challenges of infertility necessitates self-care and open communication. Prioritize your emotional well-being, share your feelings with your partner and loved ones, and consider joining support groups or online communities for additional support."
+  - text: "Dealing with infertility can be emotionally demanding, but you're not alone. Prioritize self-care, maintain open communication with your partner and loved ones, and seek support from online communities or support groups that understand your journey."
+  - text: "Finding emotional support during infertility is essential. Focus on self-care, communicate your emotions with your partner and loved ones, and connect with support groups or online communities that offer empathy and guidance."
+
+  utter_mindfulness_for_athletes:
+  - text: "Mindfulness can enhance athletic performance by improving focus and concentration. Try mindful breathing, body scans, and visualization techniques. Consider using mindfulness apps like Headspace or Calm for athlete-specific guidance."
+  - text: "Incorporate mindfulness into your training routine to enhance mental resilience. Practice mindful movement, such as yoga or tai chi. Explore mindfulness retreats like Mindful Athlete Retreats for immersive experiences."
+  - text: "Mindfulness helps athletes manage stress and recover from injuries. Use mindful meditation and self-compassion practices. Explore resources like 'The Mindful Athlete' book by George Mumford."
+  - text: "Mindfulness fosters a mindful approach to competition and sportsmanship. Cultivate present moment awareness and non-judgment. Seek mindfulness workshops tailored for athletes to deepen your practice."
+  - text: "Mindfulness promotes injury recovery and rehabilitation. Try body scan meditations to cultivate body awareness. Seek guidance from sports psychologists who incorporate mindfulness techniques."
+
+  utter_coping_with_impostor_syndrome_at_work:
+  - text: "To cope with impostor syndrome, reframe negative thoughts and embrace your achievements. Practice self-compassion and focus on your strengths. Seek support from mentors, attend workshops, and read books like 'The Secret Thoughts of Successful Women' by Valerie Young."
+  - text: "Overcome self-doubt by building self-confidence. Challenge perfectionism and practice self-care. Surround yourself with a supportive network and engage in positive self-talk. Consider therapy or counseling for deeper exploration."
+  - text: "Combat impostor syndrome by acknowledging your worth. Embrace your accomplishments and keep a record of positive feedback. Develop a growth mindset and practice gratitude. Seek resources like TED Talks on impostor syndrome."
+  - text: "Manage impostor feelings by recognizing that everyone experiences self-doubt. Practice self-compassion and remind yourself of past successes. Engage in regular reflection and set realistic goals. Connect with others who share similar experiences."
+  - text: "Address impostor syndrome through self-awareness. Identify triggers and self-comparisons. Develop a support system and share your feelings with trusted colleagues. Explore professional development opportunities to build confidence."
+
+  utter_emotional_intelligence_for_educators:
+  - text: "Educators can develop emotional intelligence by practicing self-awareness and empathy. Foster a positive learning environment through active listening and effective conflict management. Attend training programs like RULER for in-depth emotional intelligence development."
+  - text: "Promote emotional intelligence in the classroom by teaching self-regulation and social skills. Model emotional awareness and provide opportunities for reflection. Use case studies and examples to illustrate emotional intelligence concepts."
+  - text: "Manage stress as an educator through self-care practices. Prioritize your well-being and seek support from colleagues. Implement mindfulness exercises and relaxation techniques in the classroom."
+  - text: "Address conflicts effectively by practicing empathy and active listening. Use 'I' statements and engage in open dialogue. Seek guidance from conflict resolution workshops or resources like 'Difficult Conversations' by Douglas Stone."
+  - text: "Emotional intelligence benefits educators and students by fostering a positive climate for learning. Enhance emotional regulation in students through mindfulness-based activities and emotional check-ins."
+
+  utter_coping_with_seasonal_transitions:
+  - text: "Cope with seasonal transitions by maintaining self-care practices. Prioritize sleep, exercise, and healthy eating. Seek natural light and consider light therapy for seasonal affective disorder. Engage in community events to combat isolation."
+  - text: "Manage emotional changes during seasonal transitions by practicing mindfulness and self-reflection. Embrace the unique aspects of each season and focus on gratitude. Explore resources like 'Winter Blues' by Norman E. Rosenthal."
+  - text: "Adapt to seasonal changes by adjusting your daily routine and lifestyle habits. Incorporate activities you enjoy and find meaning in each season. Seek therapy or counseling if seasonal transitions significantly impact your well-being."
+  - text: "Stay motivated during challenging seasonal shifts by setting small goals and celebrating accomplishments. Engage in activities that bring you joy and connect you with nature. Reach out to support networks for additional encouragement."
+  - text: "Maintain a positive mood during seasonal transitions through self-care practices. Seek out activities that uplift you, such as art or music. Consider participating in mindfulness-based stress reduction programs."
+
+  utter_coping_with_a_high_pressure_work_environment:
+  - text: "Cope with a high-pressure work environment by setting boundaries and prioritizing self-care. Practice stress-management techniques like deep breathing and time management. Seek support from colleagues and consider therapy for additional guidance."
+  - text: "Manage stress and maintain well-being by finding work-life balance. Delegate tasks, practice self-compassion, and engage in stress-relief activities outside of work. Explore resources like 'Burnout' by Emily Nagoski and Amelia Nagoski."
+  - text: "Handle tight deadlines and high expectations by breaking tasks into smaller steps. Seek clarity on priorities and communicate concerns with your superiors. Develop a self-care routine to replenish your energy."
+  - text: "Communicate your needs and concerns in a high-pressure work environment by scheduling regular check-ins with your superiors. Advocate for yourself and ask for support when necessary. Seek guidance from mentors or career coaches."
+  - text: "Build resilience in a high-pressure work environment by cultivating a growth mindset. Embrace challenges as opportunities for growth and learning. Engage in regular self-reflection to identify areas of improvement."
+
+  utter_mindfulness_parents_special_needs:
+  - text: "As a parent of a child with special needs, practice mindfulness to stay present and focused. Take time for self-care and seek support from support groups or therapy. Find mindfulness exercises tailored for parents of children with special needs."
+  - text: "Mindfulness can help parents cope with the challenges of parenting a child with special needs. Prioritize self-compassion and engage in stress-relief practices. Explore resources like 'The Mindful Parent' by Susan Bögels."
+  - text: "Reduce stress and anxiety through mindfulness practices designed for parents of children with special needs. Cultivate acceptance and patience. Consider seeking guidance from professionals who specialize in this area."
+  - text: "Stay present and manage overwhelm as a parent of a child with special needs by practicing mindfulness. Engage in mindful activities together with your child. Seek out online courses or workshops on mindfulness for parents."
+  - text: "Enhance self-care and well-being as a parent of a child with special needs through mindfulness. Take moments for self-reflection and self-compassion. Connect with other parents who share similar experiences."
+
+  utter_emotional_resilience_cyberbullying:
+  - text: "Build emotional resilience to cope with cyberbullying by focusing on self-care and seeking support from trusted individuals. Engage in activities that promote well-being and consider therapy to process the emotional impact."
+  - text: "Develop emotional resilience to deal with cyberbullying by reframing negative thoughts and practicing self-compassion. Surround yourself with a supportive network and engage in activities that boost your self-esteem."
+  - text: "Combat cyberbullying by building emotional resilience. Set boundaries online, report abusive behavior, and seek guidance from online safety resources. Remember that you are not alone, and your worth is not defined by others' opinions."
+  - text: "Strengthen emotional resilience in the face of cyberbullying by practicing self-care and engaging in activities that bring you joy. Connect with support groups or online communities for individuals who have experienced similar challenges."
+  - text: "Become more resilient to cyberbullying by developing coping strategies, such as engaging in mindfulness exercises, journaling, or seeking therapy. Remember to prioritize your well-being and reach out for support when needed."
+
+  utter_coping_toxic_friendship:
+  - text: "Cope with a toxic friendship by setting boundaries that protect your well-being. Seek support from trusted friends or a therapist to process your emotions. Prioritize your self-care and consider whether the friendship is salvageable."
+  - text: "Deal with a toxic friendship by practicing self-care and seeking support from trusted individuals. Reflect on your needs and values and consider if the friendship aligns with them. Remember that it's okay to prioritize your own well-being."
+  - text: "Protect your mental health in a toxic friendship by maintaining healthy boundaries and seeking guidance from supportive individuals. Reflect on whether the friendship is positively contributing to your life and consider distance if necessary."
+  - text: "Handle a toxic friendship by focusing on your well-being and surrounding yourself with positive influences. Seek therapy to explore coping strategies and develop a plan for managing the friendship or transitioning away from it."
+  - text: "Coping with a toxic friendship involves setting boundaries and prioritizing your emotional well-being. Surround yourself with positive relationships and seek professional help if needed. Remember that you deserve healthy and supportive connections."
+
+  utter_emotional_intelligence_conflict_resolution:
+  - text: "Emotional intelligence plays a crucial role in conflict resolution. It involves understanding and managing emotions, practicing empathy, and improving communication skills. By enhancing your emotional intelligence, you can better navigate conflicts, build positive relationships, and find win-win solutions."
+  - text: "When it comes to conflict resolution, emotional intelligence is invaluable. It enables you to recognize and regulate emotions, empathize with others' perspectives, and communicate effectively. Developing emotional intelligence can greatly enhance your ability to resolve conflicts peacefully and build stronger relationships."
+  - text: "Conflict resolution can be improved through emotional intelligence. It involves being aware of your own emotions, understanding others' feelings, and effectively expressing yourself. By honing your emotional intelligence skills, you can foster understanding, collaboration, and positive outcomes in conflicts."
+  - text: "Emotional intelligence is a powerful tool for resolving conflicts. It encompasses self-awareness, empathy, and effective communication. By cultivating emotional intelligence, you can navigate conflicts with greater understanding, find common ground, and foster mutually beneficial resolutions."
+  - text: "In conflict resolution, emotional intelligence plays a pivotal role. It involves recognizing and managing emotions, understanding others' perspectives, and practicing empathy. By developing your emotional intelligence, you can approach conflicts with clarity, compassion, and the ability to find constructive solutions."
+
+  utter_coping_chronic_illness_diagnosis:
+  - text: "Coping with a chronic illness diagnosis can be challenging. Focus on self-care, seek support from loved ones, and explore support groups or counseling services. Remember to prioritize your emotional well-being and communicate your needs to others."
+  - text: "Managing the emotions that arise from a chronic illness diagnosis can be overwhelming. Take time for self-care, engage in activities that bring you joy, and consider joining support groups to connect with others who understand your experience."
+  - text: "A chronic illness diagnosis can have a significant emotional impact. Practice self-compassion, develop a support system, and seek professional help if needed. Remember to be patient with yourself and focus on maintaining a positive mindset."
+  - text: "When facing a chronic illness diagnosis, it's important to prioritize your emotional well-being. Find healthy coping mechanisms that work for you, such as practicing mindfulness, journaling, or seeking therapy. Remember that you are not alone and reach out for support when needed."
+  - text: "Coping with a chronic illness diagnosis requires resilience and self-care. Take small steps towards acceptance, engage in activities that bring you comfort, and connect with others who share similar experiences. Remember to be kind to yourself throughout the process."
+
+  utter_mindfulness_first_responders:
+  - text: "Practicing mindfulness can greatly benefit first responders. It helps manage stress, enhances emotional resilience, and promotes overall well-being. Consider incorporating mindfulness techniques into your daily routine and explore mindfulness resources tailored for first responders."
+  - text: "Mindfulness is a powerful tool for first responders to navigate the stress and trauma of their job. It promotes self-awareness, reduces burnout, and improves decision-making. Explore mindfulness techniques designed specifically for first responders to enhance your well-being."
+  - text: "Mindfulness can be transformative for first responders. It aids in managing the challenges of the job, reduces emotional exhaustion, and promotes mental clarity. Embrace mindfulness practices, such as deep breathing and mindfulness meditation, to cultivate inner calmness and resilience."
+  - text: "For first responders, practicing mindfulness is essential for self-care and emotional well-being. It helps manage job-related stress, enhances focus, and fosters mental clarity. Incorporate mindfulness exercises, such as grounding techniques or mindful breathing, into your daily routine."
+  - text: "Mindfulness is a valuable tool for first responders to cultivate emotional well-being and resilience. It offers a way to manage the demands of the job, reduce anxiety, and improve overall mental health. Explore mindfulness resources specifically tailored for first responders."
+
+  utter_coping_social_isolation:
+  - text: "Coping with social isolation can be challenging. Stay connected virtually, engage in hobbies or activities you enjoy, and reach out to friends or family for support. Consider joining online communities or seeking professional help if feelings of loneliness persist."
+  - text: "Social isolation can take a toll on mental health. Focus on maintaining social connections through virtual means, engage in self-care activities, and explore online platforms or support groups where you can connect with others who share similar interests or experiences."
+  - text: "During social isolation, it's important to prioritize self-care and connection. Find ways to stay socially engaged through online communities, schedule virtual hangouts with friends, and seek support from loved ones. Remember to be gentle with yourself during this challenging time."
+  - text: "When faced with social isolation, it's crucial to find ways to combat loneliness. Reach out to friends or family for virtual meet-ups, engage in hobbies or creative outlets, and explore online resources for support. Remember that you are not alone and seek help if needed."
+  - text: "Social isolation can be difficult, but there are ways to cope. Stay connected virtually, participate in online activities or classes, and seek support from others who understand your experience. Remember to prioritize self-care and reach out for professional help if necessary."
+
+  utter_emotional_support_relocation:
+  - text: "Finding emotional support during the process of relocating is important. Reach out to friends or family for support, join local community groups, and consider seeking professional help if needed. Remember to be patient with yourself as you adjust to the changes."
+  - text: "Relocating can bring about various emotions. Seek emotional support from loved ones, connect with new people in your community, and engage in self-care practices to navigate the transition. Remember that it takes time to adapt to a new environment."
+  - text: "During relocation, prioritize your emotional well-being. Build a support network in your new location, connect with local resources or organizations, and be open to new experiences. Remember that it's normal to feel a mix of emotions during this process."
+  - text: "Relocating can be emotionally challenging, but you can find support. Reach out to local communities, connect with others who have gone through a similar experience, and practice self-care. Remember to be kind to yourself as you navigate this transition."
+  - text: "Emotional support is crucial when going through relocation. Connect with friends, family, or online communities for support, explore local resources or meetups, and consider seeking professional help if needed. Remember to prioritize self-care during this transformative period."
+
+  utter_coping_workplace_bullying:
+  - text: "Coping with workplace bullying can be tough. Focus on self-care, set boundaries, and document incidents. Seek support from trusted colleagues or a supervisor, and consider reaching out to human resources or seeking legal advice if necessary."
+  - text: "Dealing with workplace bullying can be challenging, but you're not alone. Prioritize your well-being, establish clear boundaries, and document instances of bullying. Reach out to supportive colleagues, consider speaking with HR, and seek professional advice if needed."
+  - text: "Workplace bullying is unacceptable, and it's essential to take steps to protect your well-being. Practice self-care, seek support from trusted individuals, document incidents, and explore available resources such as employee assistance programs or legal advice."
+  - text: "Coping with workplace bullying requires resilience and self-care. Set boundaries, seek support from trusted colleagues or mentors, and consider reporting the bullying to HR or management. Remember to prioritize your mental health and well-being throughout the process."
+  - text: "Dealing with workplace bullying can be emotionally draining. Focus on self-care, establish boundaries, and seek support from trusted individuals. Document instances of bullying and consider reaching out to HR or seeking legal advice if necessary."
+
+  utter_emotional_resilience_rejection:
+  - text: "Building emotional resilience in the face of rejection takes time and self-compassion. Focus on self-care, practice self-reflection, and reframe rejection as an opportunity for growth. Seek support from loved ones or a therapist to navigate the emotional impact."
+  - text: "Rejection can be tough, but it doesn't define your worth. Cultivate self-compassion, practice self-care, and seek support from friends, family, or a therapist. Remember that resilience grows with time and experience."
+  - text: "Overcoming the fear of rejection requires emotional resilience. Focus on self-care, surround yourself with supportive people, and reframe rejection as a learning experience. Seek resources like books or therapy to develop coping strategies and maintain a positive mindset."
+  - text: "Developing emotional resilience in the face of rejection is possible. Practice self-compassion, engage in self-care activities, and seek support from loved ones or a therapist. Remember that rejection is a normal part of life's journey, and it can lead to new opportunities."
+  - text: "Rejection can be challenging, but you have the strength to bounce back. Cultivate self-compassion, focus on personal growth, and seek support from a therapist or support groups. Remember that each rejection brings you closer to finding the right path."
+
+  utter_coping_survivors_guilt:
+  - text: "Coping with survivor's guilt is complex. Practice self-compassion, engage in self-care, and consider seeking therapy or joining support groups. Remember that healing takes time and it's okay to ask for help."
+  - text: "Survivor's guilt can be overwhelming, but you're not alone. Reach out to support groups, practice self-care, and consider seeking therapy to process your emotions. Remember to honor the memory of those lost while finding ways to move forward and live a fulfilling life."
+  - text: "Survivor's guilt is a challenging emotion to navigate. Seek support from loved ones or a therapist, engage in self-care practices, and explore coping strategies such as journaling or mindfulness. Remember that healing is a journey, and it's important to be patient with yourself."
+  - text: "Coping with survivor's guilt requires self-compassion and support. Reach out to others who have experienced similar feelings, consider therapy or counseling, and engage in self-care activities. Remember that your healing is a testament to the strength within you."
+  - text: "Survivor's guilt can be difficult to handle alone. Reach out to support networks, share your feelings with trusted individuals, and consider seeking professional help to process your emotions. Remember that you deserve healing and support along your journey."
+
+  utter_mindfulness_caregivers:
+  - text: "As a caregiver, practicing mindfulness can help you manage stress and burnout. Try incorporating mindfulness techniques into your daily routine. Check out recommended mindfulness apps and resources for caregivers. Remember to prioritize self-care and seek support from Ukara Mental Health service if needed."
+  - text: "Mindfulness can benefit caregivers by enhancing overall well-being. Integrate mindfulness into your daily routine and explore specific techniques designed for caregivers. Build emotional resilience and compassion through mindfulness. Reach out to Ukara Mental Health service for additional support."
+  - text: "Caregivers can benefit from mindfulness by reducing stress and enhancing well-being. Incorporate mindfulness techniques in your caregiving routine. Explore recommended mindfulness apps and resources. Remember to prioritize self-care and consider seeking support from Ukara Mental Health service."
+  - text: "Mindfulness can support caregivers in managing stress and burnout. Practice mindfulness techniques tailored for caregivers. Discover recommended mindfulness apps and resources. Prioritize self-care and seek support from Ukara Mental Health service if needed."
+  - text: "Integrating mindfulness into your caregiving journey can contribute to your well-being. Explore mindfulness techniques designed for caregivers. Check out recommended mindfulness apps and resources. Remember to prioritize self-care and seek support from Ukara Mental Health service if necessary."
+
+  utter_coping_demanding_workload:
+  - text: "Coping with a demanding workload can be challenging. Try time management techniques to prioritize tasks effectively. Set boundaries to avoid burnout. Remember to practice self-care and seek support from Ukara Mental Health service if the workload becomes overwhelming."
+  - text: "Handling a demanding workload requires effective coping strategies. Prioritize tasks using time management techniques. Set boundaries to prevent burnout. Remember to take care of yourself and reach out to Ukara Mental Health service if you need additional support."
+  - text: "Managing a demanding workload can be overwhelming. Implement time management techniques to stay organized. Set boundaries to maintain work-life balance. Prioritize self-care and consider seeking support from Ukara Mental Health service if needed."
+  - text: "When facing a heavy workload, coping strategies are essential. Practice time management techniques to prioritize tasks. Establish boundaries to prevent burnout. Remember to prioritize self-care and reach out to Ukara Mental Health service for support if necessary."
+  - text: "Dealing with a demanding workload can be stressful. Try time management strategies to effectively handle tasks. Set boundaries to maintain well-being. Don't forget to practice self-care and seek support from Ukara Mental Health service if needed."
+
+  utter_emotional_intelligence_healthcare_professionals:
+  - text: "Healthcare professionals can benefit from emotional intelligence. Enhance patient care through self-awareness and empathy. Improve workplace relationships and decision-making. Explore resources and training programs focused on emotional intelligence for healthcare professionals. Seek support from Ukara Mental Health service if needed."
+  - text: "Developing emotional intelligence is valuable for healthcare professionals. It enhances patient care, improves workplace relationships, and fosters self-awareness and empathy. Consider exploring resources and training programs dedicated to emotional intelligence. Reach out to Ukara Mental Health service for support if necessary."
+  - text: "Emotional intelligence is crucial for healthcare professionals. It enhances patient care, improves relationships, and promotes self-awareness and empathy. Consider applying emotional intelligence in healthcare settings. Explore resources and training programs. Seek support from Ukara Mental Health service when necessary."
+  - text: "Emotional intelligence plays a significant role in healthcare professionals' well-being. Enhance patient care through improved self-awareness and empathy. Apply emotional intelligence skills to manage workplace relationships effectively. Explore resources and training programs. Seek support from Ukara Mental Health service if needed."
+  - text: "Healthcare professionals can benefit from developing emotional intelligence. It enhances patient care, improves workplace relationships, and fosters self-awareness and empathy. Explore emotional intelligence skills and their application in healthcare settings. Consider seeking support from Ukara Mental Health service when necessary."
+
+  utter_coping_body_changes_pregnancy:
+  - text: "Coping with body changes during pregnancy can be challenging. Embrace self-care and self-acceptance. Seek support from resources, support groups, and counseling services tailored to pregnancy. Reach out to Ukara Mental Health service for additional guidance if needed."
+  - text: "Body changes during pregnancy can impact self-image. Practice self-care and self-acceptance. Explore resources, support groups, and counseling services focusing on pregnancy. Remember to seek support from Ukara Mental Health service if you need additional guidance."
+  - text: "Managing body changes during pregnancy can be difficult. Prioritize self-care and self-acceptance. Find support through resources, support groups, and counseling services dedicated to pregnancy. Reach out to Ukara Mental Health service for guidance if necessary."
+  - text: "Coping with body changes during pregnancy can be challenging emotionally. Embrace self-care and self-acceptance. Seek support from resources, support groups, and counseling services specializing in pregnancy. If you need additional guidance, reach out to Ukara Mental Health service."
+  - text: "During pregnancy, body changes can trigger insecurities. Practice self-care and self-acceptance. Connect with resources, support groups, and counseling services catering to pregnancy-related challenges. Remember to seek guidance from Ukara Mental Health service if needed."
+
+  utter_coping_judgmental_family_members:
+  - text: "Dealing with judgmental family members can be difficult. Set boundaries and protect your well-being. Practice assertive communication techniques to address judgmental comments effectively. Remember to prioritize your own well-being and seek support from Ukara Mental Health service if necessary."
+  - text: "Coping with judgmental family members can be challenging. Establish boundaries to protect your mental well-being. Utilize assertive communication techniques to address judgmental comments. Prioritize self-care and consider seeking support from Ukara Mental Health service if needed."
+  - text: "Managing judgmental family members can be tough. Set boundaries to protect your well-being. Utilize communication techniques to address their comments assertively. Prioritize self-care and reach out to Ukara Mental Health service for support when necessary."
+  - text: "Navigating judgmental family members can be challenging emotionally. Set boundaries to safeguard your well-being. Practice assertive communication to address their comments effectively. Prioritize self-care and seek support from Ukara Mental Health service if needed."
+  - text: "Coping with judgmental family members can be emotionally draining. Set boundaries to protect your mental well-being. Utilize assertive communication techniques to address their comments constructively. Prioritize self-care and consider seeking support from Ukara Mental Health service if necessary."
+
+  utter_emotional_support_career_transitions:
+  - text: "Finding emotional support during career transitions is important. Seek guidance from mentors, support networks, and career counseling services. Practice self-reflection and self-care. Remember to reach out to Ukara Mental Health service for additional emotional support if needed."
+  - text: "Career transitions can be challenging emotionally. Seek emotional support from mentors, support networks, and career counseling services. Prioritize self-reflection and self-care. Reach out to Ukara Mental Health service if you require additional emotional support."
+  - text: "Emotional support is crucial during career transitions. Seek guidance from mentors, support networks, and career counseling services. Engage in self-reflection and self-care practices. If you need additional emotional support, contact Ukara Mental Health service."
+  - text: "During career transitions, emotional support is valuable. Seek guidance from mentors, support networks, and career counseling services. Prioritize self-reflection and self-care. If you require additional emotional support, consider reaching out to Ukara Mental Health service."
+  - text: "When going through career transitions, emotional support is essential. Connect with mentors, support networks, and career counseling services. Engage in self-reflection and self-care practices. Remember to seek additional emotional support from Ukara Mental Health service if needed."
+
+  utter_coping_emotional_triggers:
+  - text: "Coping with emotional triggers can be challenging. Learn to identify and manage them effectively. Explore therapy approaches, self-help exercises, and grounding techniques. Seek support from Ukara Mental Health service for guidance when needed."
+  - text: "Managing emotional triggers can be difficult. Develop skills to identify and regulate them. Discover therapy approaches, self-help exercises, and grounding techniques. Remember to reach out to Ukara Mental Health service for support and guidance if necessary."
+  - text: "Navigating emotional triggers can be overwhelming. Learn to recognize and manage them effectively. Explore therapy approaches, self-help exercises, and grounding techniques. If you need guidance or support, consider reaching out to Ukara Mental Health service."
+  - text: "Coping with emotional triggers can be challenging emotionally. Learn to identify and regulate them effectively. Discover therapy approaches, self-help exercises, and grounding techniques. If you need support or guidance, reach out to Ukara Mental Health service."
+  - text: "Emotional triggers can be overwhelming. Develop skills to recognize and manage them effectively. Explore therapy approaches, self-help exercises, and grounding techniques. Remember to seek support from Ukara Mental Health service for guidance if needed."
+
+  utter_emotional_resilience_financial_challenges:
+  - text: "Building emotional resilience during financial challenges is important. Practice stress management and positive mindset. Cultivate gratitude and focus on non-material aspects of life. Seek support from Ukara Mental Health service for additional guidance and coping strategies."
+  - text: "Developing emotional resilience in the face of financial challenges is crucial. Prioritize stress management and maintain a positive mindset. Cultivate gratitude and appreciate non-material aspects of life. Remember to seek support from Ukara Mental Health service for additional coping strategies."
+  - text: "During financial challenges, building emotional resilience is essential. Practice stress management and adopt a positive mindset. Cultivate gratitude and focus on non-material aspects of life. Seek guidance from Ukara Mental Health service for additional coping strategies and support."
+  - text: "Navigating financial challenges requires emotional resilience. Prioritize stress management and cultivate a positive mindset. Embrace gratitude and non-material aspects of life. If you need additional coping strategies and support, reach out to Ukara Mental Health service."
+  - text: "Building emotional resilience during financial challenges is vital. Practice stress management and maintain a positive outlook. Cultivate gratitude and focus on non-material aspects of life. Seek support from Ukara Mental Health service for additional coping strategies and guidance."
+
+  utter_coping_anticipatory_grief:
+  - text: "Coping with anticipatory grief can be difficult. Find healthy ways to process and manage your emotions. Seek support from support groups and counseling services specializing in grief. Reach out to Ukara Mental Health service for additional guidance and support."
+  - text: "Managing anticipatory grief is challenging emotionally. Process and manage your emotions in healthy ways. Explore support groups and counseling services focused on grief. Remember to seek guidance and support from Ukara Mental Health service when needed."
+  - text: "Navigating anticipatory grief can be emotionally overwhelming. Find healthy ways to process and manage your emotions. Connect with support groups and counseling services specializing in grief. If you require additional guidance and support, reach out to Ukara Mental Health service."
+  - text: "Coping with anticipatory grief can be emotionally draining. Prioritize healthy ways to process and manage your emotions. Seek support from grief-focused support groups and counseling services. Remember to reach out to Ukara Mental Health service for additional guidance and support."
+  - text: "Anticipatory grief can be emotionally challenging. Find healthy outlets to process and manage your emotions. Connect with support groups and counseling services specializing in grief. If you need additional guidance and support, consider reaching out to Ukara Mental Health service."
 
 session_config:
   session_expiration_time: 60
