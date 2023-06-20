@@ -1290,6 +1290,140 @@ responses:
   - text: "When coping with chronic stress, prioritize self-care activities and stress reduction techniques like mindfulness or yoga. Establish boundaries and communicate your needs effectively. Seek support from resources or support groups. Consider therapy options such as stress management techniques or counseling. For immediate professional assistance, reach out to Ukara Mental Health."
   - text: "Coping with chronic stress requires self-care and healthy coping mechanisms. Engage in relaxation exercises, set boundaries, and practice mindfulness. Seek support from stress management resources or support groups. Consider therapy options like stress management techniques or counseling. If stress becomes overwhelming, reach out to Ukara Mental Health for professional guidance."
 
+  utter_healthy_aging_mental_wellbeing:
+  - text: "As you age, maintaining mental well-being is important. Stay socially connected and engaged, try cognitive exercises, and consider joining support groups for older adults. Additionally, incorporate a balanced diet and seek professional help if needed."
+  - text: "Promote healthy aging and mental health by staying socially active and engaging in cognitive exercises. Explore support groups for older adults and consider following dietary recommendations. Seek professional help if you're facing challenges."
+  - text: "Maintaining mental well-being as you age is crucial. Stay socially connected, engage in cognitive exercises, and consider joining support groups for older adults. Remember to seek professional support if needed."
+  - text: "To maintain mental well-being as you age, try staying socially connected, engaging in cognitive exercises, and exploring support groups for older adults. Also, consider following specific dietary recommendations and seeking professional assistance when necessary."
+  - text: "As you age, prioritize your mental well-being. Stay socially active, engage in cognitive exercises, and explore support groups tailored for older adults. Seek professional guidance if you need additional support."
+
+  utter_art_therapy_mental_health:
+  - text: "Art therapy can greatly benefit mental health. Engaging in art-based activities promotes emotional well-being and stress reduction. Consider exploring art therapy programs or resources for personalized support and guidance."
+  - text: "Art therapy is a powerful tool for improving mental health. Engage in art-based activities to promote emotional well-being and manage stress. Explore art therapy programs and resources for further guidance and support."
+  - text: "Art therapy offers numerous benefits for mental health. Try art-based activities to promote emotional well-being and manage stress. Explore art therapy programs or resources for additional support and guidance."
+  - text: "Engaging in art therapy can have a positive impact on mental health. Explore art-based activities to promote emotional well-being and reduce stress. Consider seeking art therapy programs or resources for personalized guidance."
+  - text: "Art therapy has a significant impact on mental health. Explore art-based activities for emotional well-being and stress management. Consider seeking art therapy programs or resources for tailored support and guidance."
+
+  utter_coping_with_sibling_rivalry:
+  - text: "Coping with sibling rivalry can be challenging. Foster positive sibling relationships through conflict resolution techniques, promoting cooperation and teamwork, and ensuring each child feels loved and valued. Seek parenting resources for additional guidance."
+  - text: "Dealing with sibling rivalry requires patience. Foster positive sibling relationships by using conflict resolution techniques, promoting cooperation, and making each child feel loved and valued. Explore parenting resources for additional guidance."
+  - text: "Sibling rivalry can be challenging, but there are strategies to cope with it. Foster positive relationships by using conflict resolution techniques, promoting cooperation, and ensuring each child feels valued. Seek parenting resources for further guidance."
+  - text: "Managing sibling rivalry can be tough, but there are strategies that can help. Foster positive sibling relationships through conflict resolution techniques, promoting cooperation, and ensuring each child feels loved. Seek parenting resources for additional support."
+  - text: "Sibling rivalry can be difficult to navigate, but there are ways to cope. Foster positive sibling relationships by using conflict resolution techniques, promoting cooperation, and ensuring each child feels valued. Seek parenting resources for further guidance."
+
+  utter_mindfulness_for_seniors:
+  - text: "Mindfulness benefits seniors' mental well-being. Practice mindfulness exercises and meditation to enhance resilience and emotional balance. Look for mindfulness-based programs, retreats, or workshops specifically designed for seniors."
+  - text: "Mindfulness is beneficial for seniors' mental well-being. Incorporate mindfulness exercises and meditation to enhance emotional resilience. Consider joining mindfulness-based programs, retreats, or workshops tailored for seniors."
+  - text: "Seniors can benefit from practicing mindfulness. Engage in mindfulness exercises and meditation to improve emotional balance and resilience. Explore mindfulness-based programs, retreats, or workshops for seniors."
+  - text: "Mindfulness plays a vital role in seniors' mental well-being. Practice mindfulness exercises and meditation to enhance emotional balance and resilience. Look for mindfulness-based programs, retreats, or workshops designed for seniors."
+  - text: "Practicing mindfulness can have a positive impact on seniors' mental well-being. Engage in mindfulness exercises and meditation to enhance emotional balance and resilience. Consider exploring mindfulness-based programs, retreats, or workshops for seniors."
+
+  utter_trauma_attachment_issues:
+  - text: "Trauma can affect attachment, causing attachment issues. Healing from traumatic events is crucial, and therapy can provide support. Explore coping strategies and encourage professional help for both the individual and their loved ones."
+  - text: "Trauma can lead to attachment issues, impacting relationships. Healing from traumatic events is essential, and therapy can offer support. Explore coping strategies and consider seeking professional help for yourself or someone you know."
+  - text: "Trauma can cause attachment issues and impact relationships. Healing from traumatic events is important, and therapy can provide the necessary support. Explore coping strategies and encourage seeking professional help when needed."
+  - text: "Attachment issues can arise from trauma, affecting relationships. Healing from traumatic events is essential, and therapy can offer support in navigating these challenges. Explore coping strategies and consider seeking professional help if necessary."
+  - text: "Trauma can have a significant impact on attachment and relationships. Healing from traumatic events is crucial, and therapy can provide support. Explore coping strategies and encourage seeking professional help for both individuals and their loved ones."
+
+  utter_empty_nest_syndrome:
+  - text: "Empty nest syndrome refers to the sense of loss parents experience when children leave home. Coping strategies include finding new activities, maintaining a strong relationship with adult children, and seeking support from support groups or therapy if needed."
+  - text: "Experiencing sadness when children leave home is common, known as empty nest syndrome. Coping strategies include engaging in new activities, maintaining a strong relationship with adult children, and seeking support from support groups or therapy if necessary."
+  - text: "Empty nest syndrome is a normal response when children leave home. Coping strategies involve finding new activities, nurturing the relationship with adult children, and seeking support from support groups or therapy if required."
+  - text: "When children leave home, it's normal to experience empty nest syndrome, which can lead to feelings of loss. Coping strategies include finding new activities, nurturing the relationship with adult children, and seeking support from support groups or therapy if necessary."
+  - text: "Parents often feel a sense of loss known as empty nest syndrome when children leave home. Coping strategies involve finding new activities, maintaining a strong relationship with adult children, and seeking support from support groups or therapy when needed."
+
+  utter_emotional_intelligence_parenting:
+  - text: "Emotional intelligence in parenting is crucial for nurturing healthy parent-child relationships. Develop emotional intelligence by teaching empathy, managing emotions, and providing support. Explore resources and books on emotional intelligence in parenting for further guidance."
+  - text: "Emotional intelligence plays a vital role in parenting. Foster healthy parent-child relationships by teaching empathy, helping children manage emotions, and providing support. Explore resources and books on emotional intelligence in parenting for additional guidance."
+  - text: "Developing emotional intelligence as a parent is important for building strong parent-child relationships. Teach empathy, guide children in managing emotions, and provide support. Explore resources and books on emotional intelligence in parenting for further guidance."
+  - text: "Emotional intelligence is key in parenting for cultivating positive parent-child relationships. Help children develop emotional intelligence by teaching empathy, guiding them in managing emotions, and offering support. Explore resources and books on emotional intelligence in parenting for additional guidance."
+  - text: "Emotional intelligence is essential in parenting to foster healthy parent-child relationships. Nurture empathy, support children in managing emotions, and seek resources and books on emotional intelligence in parenting for further guidance."
+
+  utter_mindfulness_classroom:
+  - text: "Mindfulness plays a vital role in the classroom, benefiting students' well-being. Incorporate mindfulness exercises to improve focus, concentration, and reduce stress and anxiety. Explore mindfulness programs and training opportunities for teachers."
+  - text: "Mindfulness has a positive impact in the classroom, enhancing students' well-being. Implement mindfulness exercises to improve focus, concentration, and reduce stress and anxiety. Teachers can explore mindfulness programs and training opportunities for further guidance."
+  - text: "Incorporating mindfulness in the classroom promotes students' well-being. Use mindfulness exercises to enhance focus, concentration, and reduce stress and anxiety. Teachers can explore mindfulness programs and training opportunities for additional support."
+  - text: "Mindfulness has numerous benefits for students' well-being in the classroom. Integrate mindfulness exercises to improve focus, concentration, and alleviate stress and anxiety. Teachers can explore mindfulness programs and training opportunities for further guidance."
+  - text: "Mindfulness has a significant role in the classroom, positively impacting students' well-being. Incorporate mindfulness exercises to improve focus, concentration, and decrease stress and anxiety levels. Teachers can explore mindfulness programs and training opportunities for additional support."
+
+  utter_coping_premenstrual_syndrome:
+  - text: "Coping with premenstrual syndrome (PMS) can be challenging. Try natural remedies, lifestyle changes, and self-care practices to alleviate symptoms. If severe mood swings persist, consider discussing medication options with a healthcare professional."
+  - text: "Managing premenstrual syndrome (PMS) can be challenging. Explore natural remedies, make lifestyle changes, and prioritize self-care to alleviate symptoms. If severe mood swings persist, consult with a healthcare professional to discuss potential medication options."
+  - text: "Coping with premenstrual syndrome (PMS) requires various approaches. Try natural remedies, adopt lifestyle changes, and prioritize self-care practices to alleviate symptoms. If severe mood swings persist, consult a healthcare professional for additional guidance."
+  - text: "Dealing with premenstrual syndrome (PMS) can be tough. Explore natural remedies, make lifestyle adjustments, and prioritize self-care practices to alleviate symptoms. If severe mood swings continue, consult a healthcare professional to discuss potential medication options."
+  - text: "Premenstrual syndrome (PMS) can be challenging to cope with. Explore natural remedies, make lifestyle changes, and prioritize self-care practices to alleviate symptoms. If severe mood swings persist, consult with a healthcare professional for further guidance."
+
+  utter_coping_narcissistic_partner:
+  - text: "Coping with a narcissistic partner can be challenging. Setting clear boundaries and seeking support from therapy or support groups can help. Remember to prioritize your own well-being and self-esteem."
+  - text: "Living with a narcissistic partner can be difficult, but you can cope by establishing healthy boundaries and seeking professional support. Prioritize self-care and surround yourself with a support network."
+  - text: "Dealing with a narcissistic partner requires setting boundaries and prioritizing self-care. Consider seeking therapy or joining support groups to navigate the challenges and maintain your well-being."
+  - text: "In a relationship with a narcissistic partner, it's important to prioritize your own emotional well-being. Establish clear boundaries, seek professional help, and focus on self-care to cope effectively."
+  - text: "Coping with a narcissistic partner involves setting boundaries, prioritizing self-care, and seeking support from therapy or support groups. Remember that your well-being is important."
+
+  utter_emotional_support_divorce:
+  - text: "During a divorce, finding emotional support is crucial. Consider joining support groups, seeking therapy, and practicing self-care. Remember that healing takes time, and building a fulfilling life is possible."
+  - text: "Divorce can be emotionally challenging, but you can find support through therapy, support groups, and self-care practices. Prioritize your well-being and seek help when needed to navigate the process."
+  - text: "Finding emotional support during a divorce is essential. Seek therapy, join support groups, and practice self-care to cope with the emotions. Remember that healing and building a new life are possible."
+  - text: "Navigating the emotions of divorce can be tough, but you're not alone. Seek emotional support through therapy, support groups, and self-care practices to help you heal and rebuild your life."
+  - text: "During a divorce, it's important to seek emotional support. Consider therapy, support groups, and self-care activities to help you cope with the challenges and move forward in a healthy way."
+
+  utter_work_life_balance:
+  - text: "Achieving a better work-life balance is possible. Set clear boundaries, practice time management techniques, and prioritize self-care. Remember that a healthy personal life is essential for overall well-being."
+  - text: "Managing work-life balance requires setting boundaries, prioritizing self-care, and practicing effective time management. Remember that success can be achieved while maintaining a healthy personal life."
+  - text: "Striving for a work-life balance is important for overall well-being. Set boundaries, explore time management strategies, and prioritize self-care to create a healthier and more fulfilling lifestyle."
+  - text: "To achieve work-life balance, set boundaries, manage your time effectively, and prioritize self-care. Remember that maintaining a healthy personal life is crucial for your well-being and success."
+  - text: "Finding a work-life balance is a journey. Set boundaries, practice time management techniques, and prioritize self-care to ensure a healthier and more fulfilling lifestyle."
+
+  utter_coping_with_chronic_fatigue_syndrome:
+  - text: "Managing chronic fatigue syndrome requires lifestyle adjustments. Pace yourself, prioritize rest, and consider seeking treatments and support from healthcare professionals. Joining support groups can also provide valuable guidance."
+  - text: "Coping with chronic fatigue syndrome involves making lifestyle changes. Practice pacing yourself, prioritize self-care, and explore treatment options with healthcare professionals. Support groups can offer understanding and guidance."
+  - text: "Living with chronic fatigue syndrome requires managing your energy levels and seeking support. Pace yourself, make lifestyle adjustments, and consider joining support groups for insights and encouragement."
+  - text: "Managing chronic fatigue syndrome involves lifestyle modifications and seeking professional help. Pace yourself, prioritize rest, and explore treatments recommended by healthcare professionals. Support groups can also provide valuable advice."
+  - text: "Living with chronic fatigue syndrome can be challenging, but there are ways to manage it. Practice pacing yourself, prioritize self-care, and seek guidance from healthcare professionals and support groups."
+
+  utter_mindfulness_for_teenagers:
+  - text: "Mindfulness can benefit teenagers by reducing stress and promoting self-awareness. Encourage mindfulness through exercises, apps, and incorporating it into their daily routines. It's a valuable tool for managing anxiety and enhancing well-being."
+  - text: "Teenagers can benefit from mindfulness practice. Introduce mindfulness exercises, suggest mindfulness apps, and emphasize the advantages, such as stress reduction and improved focus. Encourage incorporating mindfulness into their daily routines."
+  - text: "Mindfulness offers teenagers tools to manage stress and cultivate self-awareness. Introduce mindfulness exercises, recommend apps designed for teenagers, and emphasize its positive impact on well-being and mental health."
+  - text: "Practicing mindfulness can help teenagers manage stress and enhance their well-being. Introduce mindfulness exercises, suggest relevant apps, and highlight the benefits it brings to their daily lives."
+  - text: "Mindfulness is a valuable practice for teenagers to manage stress and cultivate present-moment awareness. Recommend mindfulness exercises, apps, and resources that cater specifically to their age group."
+
+  utter_coping_with_demanding_boss:
+  - text: "Dealing with a demanding boss can be challenging, but setting boundaries and practicing effective communication can help. Take care of yourself, maintain work-life balance, and consider seeking guidance from mentors or career coaches."
+  - text: "Coping with a demanding boss requires setting boundaries, practicing self-care, and maintaining open communication. Prioritize your well-being and seek guidance from mentors or career professionals for additional support."
+  - text: "Handling a demanding boss involves setting boundaries, managing stress, and maintaining work-life balance. Practice effective communication and seek support from mentors or career resources to navigate the challenges."
+  - text: "Managing a demanding boss requires setting clear boundaries and practicing effective communication. Prioritize your well-being, seek support from mentors or career advisors, and maintain work-life balance to cope effectively."
+  - text: "Dealing with a demanding boss can be tough, but you can cope by establishing boundaries, prioritizing self-care, and seeking guidance from mentors or career professionals. Remember to maintain work-life balance for your overall well-being."
+
+  utter_emotional_regulation_in_relationships:
+  - text: "Regulating emotions in a relationship is important for healthy communication. Practice techniques like active listening, expressing feelings calmly, and seeking couples' therapy for further support and growth."
+  - text: "Managing emotions in a relationship requires effective communication and empathy. Focus on active listening, expressing emotions constructively, and consider couples' therapy to enhance emotional intimacy."
+  - text: "Emotional regulation in relationships involves effective communication and mutual support. Practice active listening, express emotions respectfully, and consider couples' therapy for further guidance and connection."
+  - text: "Building emotional regulation skills in a relationship involves effective communication and understanding. Cultivate active listening, express emotions honestly, and consider couples' therapy to deepen emotional intimacy."
+  - text: "Navigating emotions in a relationship requires open communication and empathy. Practice active listening, express emotions with compassion, and consider couples' therapy to enhance emotional well-being."
+
+  utter_mindfulness_for_veterans:
+  - text: "Mindfulness can benefit veterans by reducing stress, managing PTSD symptoms, and improving overall well-being. Incorporate mindfulness into daily routines, consider specialized resources, and explore mindfulness retreats or programs designed for veterans."
+  - text: "Mindfulness offers veterans tools for managing stress, PTSD symptoms, and improving overall well-being. Integrate mindfulness into daily routines, explore specialized resources, and consider mindfulness retreats or programs designed for veterans."
+  - text: "Veterans can benefit from mindfulness practice as it helps manage stress, PTSD symptoms, and promotes overall well-being. Incorporate mindfulness into daily routines, explore specialized resources, and consider joining mindfulness programs or retreats tailored for veterans."
+  - text: "Practicing mindfulness can help veterans manage stress, cope with PTSD symptoms, and enhance their overall well-being. Incorporate mindfulness into daily routines, explore specialized resources, and consider joining mindfulness programs or retreats for veterans."
+  - text: "Mindfulness is a powerful tool for veterans to manage stress, alleviate PTSD symptoms, and improve overall well-being. Incorporate mindfulness into daily routines, explore specialized resources, and consider joining mindfulness programs or retreats tailored for veterans."
+
+  utter_coping_with_cultural_discrimination:
+  - text: "Coping with cultural discrimination can be challenging, but building resilience and seeking support are key. Educate yourself on cultural diversity, practice self-care, and connect with support networks or organizations that address cultural discrimination."
+  - text: "Navigating cultural discrimination can be tough, but building resilience is essential. Educate yourself on cultural diversity, practice self-care, and connect with support networks or organizations that tackle cultural discrimination."
+  - text: "Handling cultural discrimination requires resilience and self-care. Educate yourself on cultural diversity, practice self-compassion, and connect with support networks or organizations that address cultural discrimination."
+  - text: "Cultural discrimination can be difficult to handle, but building resilience is crucial. Educate yourself on cultural diversity, prioritize self-care, and connect with support networks or organizations addressing cultural discrimination."
+  - text: "Dealing with cultural discrimination can be challenging, but resilience is key. Educate yourself on cultural diversity, practice self-care, and connect with support networks or organizations dedicated to addressing cultural discrimination."
+
+  utter_emotional_intelligence_for_students:
+  - text: "Developing emotional intelligence as a student is valuable for academic and social success. Engage in exercises and activities to enhance self-awareness, empathy, and conflict resolution. Seek resources and workshops focusing on emotional intelligence."
+  - text: "Enhancing emotional intelligence as a student benefits academic and social growth. Engage in exercises promoting self-awareness, empathy, and conflict resolution. Seek resources and participate in workshops dedicated to emotional intelligence."
+  - text: "Emotional intelligence is crucial for students' academic and social well-being. Engage in exercises promoting self-awareness, empathy, and conflict resolution. Seek resources and participate in workshops centered around emotional intelligence development."
+  - text: "Developing emotional intelligence is essential for students' overall growth. Practice exercises that enhance self-awareness, empathy, and conflict resolution. Seek resources and participate in workshops specifically designed for emotional intelligence development."
+  - text: "Emotional intelligence is key for students' success. Practice exercises that promote self-awareness, empathy, and conflict resolution. Seek resources and workshops dedicated to enhancing emotional intelligence in a school setting."
+
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

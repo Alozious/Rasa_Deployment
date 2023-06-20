@@ -2021,253 +2021,253 @@ nlu:
     - Can you provide information about stress management therapies or techniques?
     - How do I communicate my stress levels and needs to others in a healthy way?
 
-# - intent: healthy_aging_mental_wellbeing
-#   examples: |
-#     - How can I maintain mental well-being as I age?
-#     - What are some strategies for promoting healthy aging and mental health?
-#     - Can you suggest any activities or exercises that are beneficial for seniors' mental well-being?
-#     - How does aging affect mental health?
-#     - Are there any support groups or resources for older adults dealing with mental health challenges?
-#     - What are some cognitive exercises or brain training techniques for healthy aging?
-#     - How can I stay socially connected and engaged as I age?
-#     - Are there any specific dietary recommendations for promoting mental well-being in older adults?
-#     - Can you provide information about age-related mental health disorders and their treatment?
-#     - How do I address stigma surrounding mental health in older adults?
+- intent: healthy_aging_mental_wellbeing
+  examples: |
+    - How can I maintain mental well-being as I age?
+    - What are some strategies for promoting healthy aging and mental health?
+    - Can you suggest any activities or exercises that are beneficial for seniors' mental well-being?
+    - How does aging affect mental health?
+    - Are there any support groups or resources for older adults dealing with mental health challenges?
+    - What are some cognitive exercises or brain training techniques for healthy aging?
+    - How can I stay socially connected and engaged as I age?
+    - Are there any specific dietary recommendations for promoting mental well-being in older adults?
+    - Can you provide information about age-related mental health disorders and their treatment?
+    - How do I address stigma surrounding mental health in older adults?
 
-# - intent: art_therapy_mental_health
-#   examples: |
-#     - How can art therapy benefit mental health?
-#     - What are some art-based activities or exercises for promoting emotional well-being?
-#     - Can you suggest any art therapy techniques for managing stress or anxiety?
-#     - How does creative expression contribute to mental health?
-#     - Are there any art therapy programs or resources available for individuals seeking mental health support?
-#     - What are the potential therapeutic effects of engaging in art as a form of self-expression?
-#     - How can I incorporate art therapy into my self-care routine?
-#     - Can you provide information about the qualifications or certifications required to become an art therapist?
-#     - How do I choose the right art medium or approach for my mental health needs?
-#     - Are there any research studies or success stories about art therapy and mental health?
+- intent: art_therapy_mental_health
+  examples: |
+    - How can art therapy benefit mental health?
+    - What are some art-based activities or exercises for promoting emotional well-being?
+    - Can you suggest any art therapy techniques for managing stress or anxiety?
+    - How does creative expression contribute to mental health?
+    - Are there any art therapy programs or resources available for individuals seeking mental health support?
+    - What are the potential therapeutic effects of engaging in art as a form of self-expression?
+    - How can I incorporate art therapy into my self-care routine?
+    - Can you provide information about the qualifications or certifications required to become an art therapist?
+    - How do I choose the right art medium or approach for my mental health needs?
+    - Are there any research studies or success stories about art therapy and mental health?
 
-# - intent: coping_with_sibling_rivalry
-#   examples: |
-#     - How can I cope with sibling rivalry?
-#     - What are some strategies for fostering positive sibling relationships?
-#     - Can you suggest any conflict resolution techniques for dealing with sibling rivalry?
-#     - How does sibling rivalry impact mental well-being?
-#     - Are there any books or resources for parents navigating sibling rivalry issues?
-#     - What are some ways to promote cooperation and teamwork among siblings?
-#     - How can I ensure each child feels loved and valued amidst sibling rivalry?
-#     - Are there any activities or games that can help siblings bond and reduce rivalry?
-#     - Can you provide information about the role of parental involvement in managing sibling rivalry?
-#     - How do I address jealousy and competition between siblings in a healthy manner?
+- intent: coping_with_sibling_rivalry
+  examples: |
+    - How can I cope with sibling rivalry?
+    - What are some strategies for fostering positive sibling relationships?
+    - Can you suggest any conflict resolution techniques for dealing with sibling rivalry?
+    - How does sibling rivalry impact mental well-being?
+    - Are there any books or resources for parents navigating sibling rivalry issues?
+    - What are some ways to promote cooperation and teamwork among siblings?
+    - How can I ensure each child feels loved and valued amidst sibling rivalry?
+    - Are there any activities or games that can help siblings bond and reduce rivalry?
+    - Can you provide information about the role of parental involvement in managing sibling rivalry?
+    - How do I address jealousy and competition between siblings in a healthy manner?
 
-# - intent: mindfulness_for_seniors
-#   examples: |
-#     - How can mindfulness benefit seniors' mental well-being?
-#     - What are some mindfulness exercises or practices suitable for older adults?
-#     - Can you suggest any meditation techniques for promoting mindfulness in seniors?
-#     - How does mindfulness contribute to mental resilience and emotional balance in aging?
-#     - Are there any mindfulness-based programs or resources specifically designed for seniors?
-#     - What are the potential cognitive benefits of incorporating mindfulness into daily life as a senior?
-#     - How can I integrate mindfulness into my self-care routine as I age?
-#     - Can you provide information about mindfulness retreats or workshops for older adults?
-#     - How do I overcome any initial resistance or skepticism towards mindfulness as a senior?
-#     - Are there any studies or research supporting the efficacy of mindfulness for seniors?
+- intent: mindfulness_for_seniors
+  examples: |
+    - How can mindfulness benefit seniors' mental well-being?
+    - What are some mindfulness exercises or practices suitable for older adults?
+    - Can you suggest any meditation techniques for promoting mindfulness in seniors?
+    - How does mindfulness contribute to mental resilience and emotional balance in aging?
+    - Are there any mindfulness-based programs or resources specifically designed for seniors?
+    - What are the potential cognitive benefits of incorporating mindfulness into daily life as a senior?
+    - How can I integrate mindfulness into my self-care routine as I age?
+    - Can you provide information about mindfulness retreats or workshops for older adults?
+    - How do I overcome any initial resistance or skepticism towards mindfulness as a senior?
+    - Are there any studies or research supporting the efficacy of mindfulness for seniors?
 
-# - intent: trauma_attachment_issues
-#   examples: |
-#     - How does trauma affect attachment?
-#     - Can trauma cause attachment issues?
-#     - What are the signs of attachment issues in adults?
-#     - How can I heal from a traumatic event?
-#     - How does childhood trauma impact relationships?
-#     - What is complex trauma and its effects on attachment?
-#     - Can therapy help with attachment issues?
-#     - How can I develop secure attachments after trauma?
-#     - What are some coping strategies for trauma and attachment issues?
-#     - How can I support someone with attachment issues?
+- intent: trauma_attachment_issues
+  examples: |
+    - How does trauma affect attachment?
+    - Can trauma cause attachment issues?
+    - What are the signs of attachment issues in adults?
+    - How can I heal from a traumatic event?
+    - How does childhood trauma impact relationships?
+    - What is complex trauma and its effects on attachment?
+    - Can therapy help with attachment issues?
+    - How can I develop secure attachments after trauma?
+    - What are some coping strategies for trauma and attachment issues?
+    - How can I support someone with attachment issues?
 
-# - intent: empty_nest_syndrome
-#   examples: |
-#     - What is empty nest syndrome?
-#     - How do I cope with empty nest syndrome?
-#     - Why do parents experience sadness when children leave home?
-#     - What are some activities to fill the void of an empty nest?
-#     - Is it normal to feel a sense of loss when children move out?
-#     - How can I maintain a strong relationship with my adult children?
-#     - Are there support groups for empty nest syndrome?
-#     - What are some self-care practices for coping with empty nest syndrome?
-#     - How long does empty nest syndrome typically last?
-#     - Can therapy help with empty nest syndrome?
+- intent: empty_nest_syndrome
+  examples: |
+    - What is empty nest syndrome?
+    - How do I cope with empty nest syndrome?
+    - Why do parents experience sadness when children leave home?
+    - What are some activities to fill the void of an empty nest?
+    - Is it normal to feel a sense of loss when children move out?
+    - How can I maintain a strong relationship with my adult children?
+    - Are there support groups for empty nest syndrome?
+    - What are some self-care practices for coping with empty nest syndrome?
+    - How long does empty nest syndrome typically last?
+    - Can therapy help with empty nest syndrome?
 
-# - intent: emotional_intelligence_parenting
-#   examples: |
-#     - What is emotional intelligence in parenting?
-#     - How can I develop emotional intelligence as a parent?
-#     - What are the benefits of emotional intelligence in parenting?
-#     - How can I teach my children emotional intelligence?
-#     - What are some strategies for managing emotions in children?
-#     - How can I be more empathetic towards my child's emotions?
-#     - How does emotional intelligence impact parent-child relationships?
-#     - Are there any books or resources on emotional intelligence in parenting?
-#     - How can I help my child regulate their emotions?
-#     - Can emotional intelligence be learned or is it innate?
+- intent: emotional_intelligence_parenting
+  examples: |
+    - What is emotional intelligence in parenting?
+    - How can I develop emotional intelligence as a parent?
+    - What are the benefits of emotional intelligence in parenting?
+    - How can I teach my children emotional intelligence?
+    - What are some strategies for managing emotions in children?
+    - How can I be more empathetic towards my child's emotions?
+    - How does emotional intelligence impact parent-child relationships?
+    - Are there any books or resources on emotional intelligence in parenting?
+    - How can I help my child regulate their emotions?
+    - Can emotional intelligence be learned or is it innate?
 
-# - intent: mindfulness_classroom
-#   examples: |
-#     - What is the role of mindfulness in the classroom?
-#     - How can mindfulness benefit students' well-being?
-#     - Are there specific mindfulness exercises for the classroom?
-#     - Can mindfulness help improve students' focus and concentration?
-#     - How can teachers incorporate mindfulness into their lesson plans?
-#     - What are the potential challenges of implementing mindfulness in the classroom?
-#     - Is there research supporting the effectiveness of mindfulness in education?
-#     - Are there mindfulness programs or training for teachers?
-#     - How can mindfulness help reduce stress and anxiety in students?
-#     - Can mindfulness improve students' academic performance?
+- intent: mindfulness_classroom
+  examples: |
+    - What is the role of mindfulness in the classroom?
+    - How can mindfulness benefit students' well-being?
+    - Are there specific mindfulness exercises for the classroom?
+    - Can mindfulness help improve students' focus and concentration?
+    - How can teachers incorporate mindfulness into their lesson plans?
+    - What are the potential challenges of implementing mindfulness in the classroom?
+    - Is there research supporting the effectiveness of mindfulness in education?
+    - Are there mindfulness programs or training for teachers?
+    - How can mindfulness help reduce stress and anxiety in students?
+    - Can mindfulness improve students' academic performance?
 
-# - intent: coping_premenstrual_syndrome
-#   examples: |
-#     - What is premenstrual syndrome (PMS)?
-#     - How can I cope with the symptoms of PMS?
-#     - Are there any natural remedies for PMS?
-#     - Can lifestyle changes help alleviate PMS symptoms?
-#     - What are the common emotional symptoms of PMS?
-#     - How long does PMS typically last?
-#     - Is it normal to experience severe mood swings during PMS?
-#     - Are there any medications for managing PMS symptoms?
-#     - What are some self-care practices for dealing with PMS?
-#     - Can PMS symptoms vary from month to month?
+- intent: coping_premenstrual_syndrome
+  examples: |
+    - What is premenstrual syndrome (PMS)?
+    - How can I cope with the symptoms of PMS?
+    - Are there any natural remedies for PMS?
+    - Can lifestyle changes help alleviate PMS symptoms?
+    - What are the common emotional symptoms of PMS?
+    - How long does PMS typically last?
+    - Is it normal to experience severe mood swings during PMS?
+    - Are there any medications for managing PMS symptoms?
+    - What are some self-care practices for dealing with PMS?
+    - Can PMS symptoms vary from month to month?
 
-# - intent: coping_narcissistic_partner
-#   examples: |
-#     - How can I cope with a narcissistic partner?
-#     - What are the signs of being in a relationship with a narcissist?
-#     - Is it possible to have a healthy relationship with a narcissist?
-#     - How can I set boundaries with a narcissistic partner?
-#     - Are there any support groups for people in relationships with narcissists?
-#     - Can therapy help in dealing with a narcissistic partner?
-#     - What are some strategies for self-preservation in a relationship with a narcissist?
-#     - How can I protect my self-esteem when in a relationship with a narcissist?
-#     - Is it possible for a narcissist to change their behavior?
-#     - What are some red flags to watch out for in a narcissistic partner?
+- intent: coping_narcissistic_partner
+  examples: |
+    - How can I cope with a narcissistic partner?
+    - What are the signs of being in a relationship with a narcissist?
+    - Is it possible to have a healthy relationship with a narcissist?
+    - How can I set boundaries with a narcissistic partner?
+    - Are there any support groups for people in relationships with narcissists?
+    - Can therapy help in dealing with a narcissistic partner?
+    - What are some strategies for self-preservation in a relationship with a narcissist?
+    - How can I protect my self-esteem when in a relationship with a narcissist?
+    - Is it possible for a narcissist to change their behavior?
+    - What are some red flags to watch out for in a narcissistic partner?
 
-# - intent: emotional_support_divorce
-#   examples: |
-#     - How can I find emotional support during a divorce?
-#     - What are some coping mechanisms for dealing with the emotions of divorce?
-#     - Are there support groups for people going through a divorce?
-#     - How can I help my children cope with the emotional impact of divorce?
-#     - What are some self-care practices during the divorce process?
-#     - Is therapy beneficial for emotional support during divorce?
-#     - How can I communicate effectively with my ex-spouse during a divorce?
-#     - Are there any books or resources on emotional support during divorce?
-#     - How long does it take to heal emotionally after a divorce?
-#     - Can I build a fulfilling life after divorce?
+- intent: emotional_support_divorce
+  examples: |
+    - How can I find emotional support during a divorce?
+    - What are some coping mechanisms for dealing with the emotions of divorce?
+    - Are there support groups for people going through a divorce?
+    - How can I help my children cope with the emotional impact of divorce?
+    - What are some self-care practices during the divorce process?
+    - Is therapy beneficial for emotional support during divorce?
+    - How can I communicate effectively with my ex-spouse during a divorce?
+    - Are there any books or resources on emotional support during divorce?
+    - How long does it take to heal emotionally after a divorce?
+    - Can I build a fulfilling life after divorce?
 
-# - intent: work_life_balance
-#   examples: |
-#     - How can I achieve a better work-life balance?
-#     - What are some strategies for managing work and personal life effectively?
-#     - Is it possible to have a successful career while maintaining a healthy personal life?
-#     - How can I set boundaries between work and personal life?
-#     - What are the consequences of an imbalanced work-life situation?
-#     - Are there any time management techniques for improving work-life balance?
-#     - How can I reduce stress and burnout related to work?
-#     - Can employers support employees in achieving work-life balance?
-#     - How do I prioritize my personal life without compromising my career goals?
-#     - What are some signs of an unhealthy work-life balance?
+- intent: work_life_balance
+  examples: |
+    - How can I achieve a better work-life balance?
+    - What are some strategies for managing work and personal life effectively?
+    - Is it possible to have a successful career while maintaining a healthy personal life?
+    - How can I set boundaries between work and personal life?
+    - What are the consequences of an imbalanced work-life situation?
+    - Are there any time management techniques for improving work-life balance?
+    - How can I reduce stress and burnout related to work?
+    - Can employers support employees in achieving work-life balance?
+    - How do I prioritize my personal life without compromising my career goals?
+    - What are some signs of an unhealthy work-life balance?
 
 
-# - intent: coping_with_chronic_fatigue_syndrome
-#   examples: |
-#     - How can I manage chronic fatigue syndrome?
-#     - What are some coping strategies for CFS?
-#     - How do I deal with the symptoms of chronic fatigue syndrome?
-#     - Can you give me tips for living with chronic fatigue syndrome?
-#     - What lifestyle changes can help with CFS?
-#     - How can I improve my energy levels with chronic fatigue syndrome?
-#     - Are there any treatments that can alleviate CFS symptoms?
-#     - What exercises are suitable for someone with chronic fatigue syndrome?
-#     - How do I pace myself and avoid overexertion with CFS?
-#     - Are there any support groups for people with chronic fatigue syndrome?
+- intent: coping_with_chronic_fatigue_syndrome
+  examples: |
+    - How can I manage chronic fatigue syndrome?
+    - What are some coping strategies for CFS?
+    - How do I deal with the symptoms of chronic fatigue syndrome?
+    - Can you give me tips for living with chronic fatigue syndrome?
+    - What lifestyle changes can help with CFS?
+    - How can I improve my energy levels with chronic fatigue syndrome?
+    - Are there any treatments that can alleviate CFS symptoms?
+    - What exercises are suitable for someone with chronic fatigue syndrome?
+    - How do I pace myself and avoid overexertion with CFS?
+    - Are there any support groups for people with chronic fatigue syndrome?
 
-# - intent: mindfulness_for_teenagers
-#   examples: |
-#     - How can mindfulness benefit teenagers?
-#     - What are some mindfulness exercises for teenagers?
-#     - Can you suggest mindfulness apps for teenagers?
-#     - How do I teach mindfulness to teenagers?
-#     - What are the advantages of practicing mindfulness as a teenager?
-#     - How can mindfulness help with stress and anxiety in teenagers?
-#     - Are there any mindfulness techniques specifically designed for teenagers?
-#     - How do I incorporate mindfulness into a teenager's daily routine?
-#     - Are there any books or resources on mindfulness for teenagers?
-#     - How can I encourage a teenager to practice mindfulness?
+- intent: mindfulness_for_teenagers
+  examples: |
+    - How can mindfulness benefit teenagers?
+    - What are some mindfulness exercises for teenagers?
+    - Can you suggest mindfulness apps for teenagers?
+    - How do I teach mindfulness to teenagers?
+    - What are the advantages of practicing mindfulness as a teenager?
+    - How can mindfulness help with stress and anxiety in teenagers?
+    - Are there any mindfulness techniques specifically designed for teenagers?
+    - How do I incorporate mindfulness into a teenager's daily routine?
+    - Are there any books or resources on mindfulness for teenagers?
+    - How can I encourage a teenager to practice mindfulness?
 
-# - intent: coping_with_demanding_boss
-#   examples: |
-#     - How do I deal with a demanding boss?
-#     - What are some coping strategies for handling a demanding boss?
-#     - How can I manage stress caused by a demanding boss?
-#     - Are there any techniques for setting boundaries with a demanding boss?
-#     - How do I communicate effectively with a demanding boss?
-#     - Can you give me tips for maintaining work-life balance with a demanding boss?
-#     - How can I manage my workload when dealing with a demanding boss?
-#     - Are there any resources for improving my relationship with a demanding boss?
-#     - How do I handle criticism from a demanding boss?
-#     - What are some self-care practices for coping with a demanding boss?
+- intent: coping_with_demanding_boss
+  examples: |
+    - How do I deal with a demanding boss?
+    - What are some coping strategies for handling a demanding boss?
+    - How can I manage stress caused by a demanding boss?
+    - Are there any techniques for setting boundaries with a demanding boss?
+    - How do I communicate effectively with a demanding boss?
+    - Can you give me tips for maintaining work-life balance with a demanding boss?
+    - How can I manage my workload when dealing with a demanding boss?
+    - Are there any resources for improving my relationship with a demanding boss?
+    - How do I handle criticism from a demanding boss?
+    - What are some self-care practices for coping with a demanding boss?
 
-# - intent: emotional_regulation_in_relationships
-#   examples: |
-#     - How can I regulate my emotions in a relationship?
-#     - What are some techniques for managing emotions in a romantic relationship?
-#     - How do I communicate my feelings effectively in a relationship?
-#     - Can you give me tips for handling conflicts and emotions with my partner?
-#     - How can I improve emotional intimacy in my relationship?
-#     - Are there any exercises for developing emotional regulation skills in relationships?
-#     - How do I navigate disagreements without becoming overwhelmed by emotions?
-#     - What are some healthy ways to express emotions in a relationship?
-#     - Are there any resources for couples seeking to improve emotional regulation?
-#     - How can I support my partner in their emotional regulation journey?
+- intent: emotional_regulation_in_relationships
+  examples: |
+    - How can I regulate my emotions in a relationship?
+    - What are some techniques for managing emotions in a romantic relationship?
+    - How do I communicate my feelings effectively in a relationship?
+    - Can you give me tips for handling conflicts and emotions with my partner?
+    - How can I improve emotional intimacy in my relationship?
+    - Are there any exercises for developing emotional regulation skills in relationships?
+    - How do I navigate disagreements without becoming overwhelmed by emotions?
+    - What are some healthy ways to express emotions in a relationship?
+    - Are there any resources for couples seeking to improve emotional regulation?
+    - How can I support my partner in their emotional regulation journey?
 
-# - intent: mindfulness_for_veterans
-#   examples: |
-#     - How can mindfulness help veterans?
-#     - What are some mindfulness techniques for veterans?
-#     - Can you suggest mindfulness resources for veterans?
-#     - How does mindfulness benefit veterans with PTSD?
-#     - How do I incorporate mindfulness into my daily routine as a veteran?
-#     - Are there any mindfulness retreats or programs specifically for veterans?
-#     - How can mindfulness assist with managing stress and anxiety as a veteran?
-#     - What are some mindfulness exercises for veterans dealing with trauma?
-#     - Are there any support groups or communities for veterans practicing mindfulness?
-#     - How can mindfulness improve sleep and overall well-being for veterans?
+- intent: mindfulness_for_veterans
+  examples: |
+    - How can mindfulness help veterans?
+    - What are some mindfulness techniques for veterans?
+    - Can you suggest mindfulness resources for veterans?
+    - How does mindfulness benefit veterans with PTSD?
+    - How do I incorporate mindfulness into my daily routine as a veteran?
+    - Are there any mindfulness retreats or programs specifically for veterans?
+    - How can mindfulness assist with managing stress and anxiety as a veteran?
+    - What are some mindfulness exercises for veterans dealing with trauma?
+    - Are there any support groups or communities for veterans practicing mindfulness?
+    - How can mindfulness improve sleep and overall well-being for veterans?
 
-# - intent: coping_with_cultural_discrimination
-#   examples: |
-#     - How do I cope with cultural discrimination?
-#     - What are some strategies for dealing with cultural discrimination?
-#     - Can you give me tips for navigating cultural discrimination?
-#     - How can I handle the emotional impact of cultural discrimination?
-#     - How do I build resilience in the face of cultural discrimination?
-#     - Are there any resources for understanding and addressing cultural discrimination?
-#     - How can I advocate for myself and others experiencing cultural discrimination?
-#     - What are some self-care practices for coping with cultural discrimination?
-#     - How do I respond to microaggressions and stereotypes related to my culture?
-#     - Are there any support networks or organizations for individuals facing cultural discrimination?
+- intent: coping_with_cultural_discrimination
+  examples: |
+    - How do I cope with cultural discrimination?
+    - What are some strategies for dealing with cultural discrimination?
+    - Can you give me tips for navigating cultural discrimination?
+    - How can I handle the emotional impact of cultural discrimination?
+    - How do I build resilience in the face of cultural discrimination?
+    - Are there any resources for understanding and addressing cultural discrimination?
+    - How can I advocate for myself and others experiencing cultural discrimination?
+    - What are some self-care practices for coping with cultural discrimination?
+    - How do I respond to microaggressions and stereotypes related to my culture?
+    - Are there any support networks or organizations for individuals facing cultural discrimination?
 
-# - intent: emotional_intelligence_for_students
-#   examples: |
-#     - How can I develop emotional intelligence as a student?
-#     - What are some exercises or activities to improve emotional intelligence in students?
-#     - Can you give me tips for enhancing emotional intelligence in a school setting?
-#     - How does emotional intelligence benefit students academically and socially?
-#     - How can I handle stress and manage emotions effectively as a student?
-#     - Are there any resources or books on emotional intelligence for students?
-#     - How do I navigate conflicts and build healthy relationships with classmates?
-#     - What are some strategies for developing empathy and self-awareness as a student?
-#     - How can I use emotional intelligence to improve my study habits and motivation?
-#     - Are there any workshops or programs that focus on emotional intelligence for students?
+- intent: emotional_intelligence_for_students
+  examples: |
+    - How can I develop emotional intelligence as a student?
+    - What are some exercises or activities to improve emotional intelligence in students?
+    - Can you give me tips for enhancing emotional intelligence in a school setting?
+    - How does emotional intelligence benefit students academically and socially?
+    - How can I handle stress and manage emotions effectively as a student?
+    - Are there any resources or books on emotional intelligence for students?
+    - How do I navigate conflicts and build healthy relationships with classmates?
+    - What are some strategies for developing empathy and self-awareness as a student?
+    - How can I use emotional intelligence to improve my study habits and motivation?
+    - Are there any workshops or programs that focus on emotional intelligence for students?
 
 # - intent: coping_with_disordered_eating
 #   examples: |
