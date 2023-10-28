@@ -1,13 +1,13 @@
 {
-  "name": "chatbot_ui",
+  "name": "UkaraBot",
   "version": "1.0.0",
-  "description": "ChatBot widget easy to connect to RASA bot through REST channel",
+  "description": "The UKARA Chatbot is a revolutionary digital companion designed to provide essential mental health services. This cutting-edge bot is a beacon of support and guidance for individuals navigating the complex terrain of mental well-being.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jitesh Gaikwad",
+  "author": "Chimp Technologies",
   "license": "ISC",
   "dependencies": {
     "cors":"2.8.5",

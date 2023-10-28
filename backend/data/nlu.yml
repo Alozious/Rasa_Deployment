@@ -133,6 +133,9 @@ nlu:
 
 - intent: depression
   examples: |
+    - depression
+    - Iam depressed
+    - I have alot of depression
     - I feel sad all the time. Could it be depression?
     - How can I overcome the feelings of hopelessness?
     - What are the common symptoms of depression?
@@ -146,6 +149,9 @@ nlu:
 
 - intent: anxiety
   examples: |
+    - I have anxiety
+    - my friend has anxiety
+    - anxiety
     - How can I manage my anxiety symptoms?
     - What are the common physical symptoms of anxiety?
     - Is it normal to feel anxious in social situations?
@@ -160,6 +166,9 @@ nlu:
 - intent: stress_management
   examples: |
     - How can I effectively manage stress in my daily life?
+    - stress
+    - stress management
+    - i have alot of stress
     - What are some healthy coping mechanisms for stress?
     - Is exercise helpful for reducing stress levels?
     - Are there any relaxation techniques I can try?
@@ -173,6 +182,9 @@ nlu:
 - intent: coping_strategies
   examples: |
     - What are some healthy coping strategies for dealing with difficult emotions?
+    - coping strategies
+    - coping with challenges
+    - dealing with stress
     - How can I distract myself when I'm feeling overwhelmed?
     - Are there any relaxation techniques that can help me calm down?
     - What are some effective ways to manage stress?
@@ -187,6 +199,7 @@ nlu:
   examples: |
     - What are some self-care practices I can incorporate into my daily routine?
     - How do I prioritize self-care when I have a busy schedule?
+    - self care
     - Can you suggest some relaxation techniques for self-care?
     - What are some self-care activities that promote mental well-being?
     - How can I practice self-compassion and be kinder to myself?
