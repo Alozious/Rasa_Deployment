@@ -1,9 +1,9 @@
-# Rasa Deployment
+<!-- # Rasa Deployment
 Deploying Rasa Bot over Google Cloud Platform using Docker.
 
 ## Prerequisites:
 - Docker
-- Docker Compose
+- Docker Compose -->
 
 
 ## Instructions:
@@ -20,7 +20,7 @@ Deploying Rasa Bot over Google Cloud Platform using Docker.
 - test out the bot in the browser
 > http://localhost
 
-Youtube Video:
+<!-- Youtube Video:
 
 https://www.youtube.com/watch?v=9C1Km6xfdMA
 
@@ -63,5 +63,5 @@ https://www.youtube.com/watch?v=9C1Km6xfdMA
 
 Youtube Video: 
 
-https://youtu.be/qOHszxJsuGs
+https://youtu.be/qOHszxJsuGs -->
 
